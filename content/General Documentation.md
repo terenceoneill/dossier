@@ -6,7 +6,7 @@
 # Curriculum Vitae #
 
 # Additional Documentation #
-## 2019-2020 ##
+## 2019-2020##
 - [[Position description 2019]]
 - [[Goals and Objectives 2019]]
 - [[Self-Evaluation 2019]]
