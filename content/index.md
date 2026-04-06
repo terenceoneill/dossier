@@ -1,3 +1,6 @@
+---
+title: General Documentation
+---
 # Hello world!
 ## This is a draft website ##
 

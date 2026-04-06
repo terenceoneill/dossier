@@ -1,4 +1,6 @@
---- title: Criterion I ---
+---
+title: Criterion I
+---
 # Narrative #
 # Entrepreneurship Support #
 # Midwestern Entrepreneurship Case Competition #
