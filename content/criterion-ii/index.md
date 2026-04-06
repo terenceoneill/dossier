@@ -1,4 +1,4 @@
 ---
 title: Criterion II
 ---
-Context coming soon.
+Content coming soon.
