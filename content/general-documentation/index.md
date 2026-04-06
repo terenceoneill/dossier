@@ -1,4 +1,7 @@
-[[Home]]
+---
+title: General Documentation
+---
+
 # Letter of Application #
 
 # References #

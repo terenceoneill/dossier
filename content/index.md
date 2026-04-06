@@ -1,5 +1,5 @@
 ---
-title: General Documentation
+title: Index
 ---
 # Hello world!
 ## This is a draft website ##
