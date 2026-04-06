@@ -31,9 +31,9 @@ title: General Documentation
 - [[Self-Evaluation 2023]]
 ## 2024-2025 ##
 - [[Position description 2024]]
-- [[Goals and Objectives 2024]]
+- [[Goals and Objectives 2024 <iframe src="https://drive.google.com/file/d/1mN7whNIZn6qJ3ROpPzYXmz3IJpDzcJrB/preview" width="100%" height="600" allow="autoplay"></iframe>]]
 - [[Self-Evaluation 2024]]
 ## 2025-2026 ##
 - [[Position description 2025]]
-- [[iframe src="https://drive.google.com/file/d/17pfKfCjfYWHkWBqbRwKjRKzKDk6AJZSb/preview" width="100%" height="600" allow="autoplay"></iframe>|Goals and Objectives 2025]]
+- [[Goals and Objectives 2025]]
 - [[Self-Evaluation 2025]]
