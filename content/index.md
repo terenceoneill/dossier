@@ -1,8 +1,7 @@
 # Hello world!
 ## This is a draft website ##
 
-[[Criterion I]]
-[[Criterion II]]
-[[criterion-iii/index|Criterion III]] 
-[[general-documentation/index|General Documentation]]
-
+[[criterion-i/index.md|Criterion I]]
+[[criterion-ii/index.md|Criterion II]]
+[[criterion-iii/index.md|Criterion III]]
+[[general-documentation/index.md|General Documentation]]
