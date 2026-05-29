@@ -79,7 +79,7 @@ To help illustrate how this work unfolds in practice, below are artifacts relati
 #### Artifacts:
 - Artifact 1: Logic Model presentation (https://drive.google.com/file/d/18uOjPrOwr4uFEW51Q4sNy8JU0jfeoD1W/view?usp=drive_link)
 - Artifact 2: Email Correspondence re: peer expertise
-	- [!quote] Email correspondence regarding former mentee speaking to then current mentee
+	- Email correspondence regarding former mentee speaking to then current mentee
 >
 **From:** Terence O'Neill  
 > **Date:** February 2025
@@ -120,13 +120,56 @@ For these roles, I coordinate reviewing all of the submissions for the ALA Annua
 - Facilitator, Digital Scholarship Centers Discussion Group Facilitator (2021, 2022)
 	- Coordinated several discussion group panels, including "Partnering for Digital Scholarship Centers", which invited guest speakers who ran Digital Scholarship Centers with coordination from Library and other partners. Kristen Mapes, of MSU's Digital Humanities Program (run out of the College of Arts and Letters), was one of our guest speakers
 Artifact 1 Save the Date:
+>“Partnering for Digital Scholarship Centers” Discussion Group Save the Date: 11/11/21
+>Hi everyone,
+>
+>The Digital Scholarship Centers Discussion Group of the Digital Scholarship Section (ACRL) presents our first program of the academic year: 
+>
+Partnering for Digital Scholarship Centers, a discussion with library collaborators. Please save the date: Thursday, November 11, 12 pm to 1:30 pm EST.
+>
+We are currently finalizing our list of participants, but the program will be a small panel of individuals from institutions at which Digital Scholarship Centers in the library work with a partnering department or organization. This virtual session will center its focus on collaborative partnerships in Digital Scholarship Centers, to allow library-based DSC coordinators and well as their partners from outside the library, to share:
+>
+• a brief overview of the DSC’s mission and nature of the partnership
+>
+• the enduring value of the partnership, and what if anything that has changed over time re: the initial vision for collaboration
+>
+• any formal agreements that support the collaboration.
+>
+Thank you for your consideration. More information will be forthcoming shortly.
+>
+Regards,
+>
+Terence O’Neill and (redacted)
+>
+Co-conveners of the Digital Scholarship Centers Discussion Group in the Digital Scholarship Section (ACRL).
+
 Artifact 2 Invitation to panelist
-Hi Kristen,
-
-As you may know, I'm one of the co-conveners of the Digital Scholarship Centers Discussion Group in the Digital Scholarship Section (ACRL). I was just planning with Jenifer Flaxbart of UT Austin, and she mentioned as an idea centering collaborative partnerships in Centers, which I think would be great. The Group is generally informal, and meant to foster discussion, but for this topic we're loosely envisioning a small panel of individuals from partnering organizations, to share their perspective before having an extended period for discussion. Early draft logistics would be for Oct. 21, 12 - 1:30, though we could shift that.  
-
-This is still early in the planning process, but would you be interested in participating? Do you have any suggestions for other universities that may have other strong partnerships? (My first thought is Cincinnati as one possibility). 
-
-Thanks for considering.
-
+>Hi (redacted),
+>
+I hope you are doing well. I have so enjoyed your perspective in our Educause Mentorship discussions, and I wanted to see if you would be interested in sharing with a librarian audience in a relaxed setting. I’m one of the co-conveners of the Digital Scholarship Centers (DSC) Discussion Group in the Digital Scholarship Section (DSS) within [ACRL](https://www.ala.org/acrl/), a division of the American Library Association. My co-convener, (redacted), and I are planning our third discussion meeting for this upcoming summer.
+>
+We’re loosely envisioning this discussion session as dealing with the topic of assessment from two different perspectives. I am thinking that you could speak to your perspective as a current and past administrator of a portfolio of technology-enabled teaching and learning services and spaces, but who is not focused on library work. In many settings, IT, departments, and the library are deeply intertwined, so I’m hoping what you might share would be illuminating to this audience! Here are some of the topics we are thinking could be a jumping off point:
+>
+>- A brief overview of the your work
+  >  
+>- As an administrator, how do you think about assessment?
+  >  
+>- How do you determine the metrics by which units are assessed? 
+  >  
+>- How have you navigated the needs of your superiors? What have you seen as helpful in communicating a unit's value to stakeholders?
+  >  
+>- How do you use assessment outcomes to introduce changes for improvement, or advocate change with internal administrators and external partners?
+>    
+>- Anything else of significance to share with or emphasize to your colleagues in libraries
+  >  
+We’re hoping for you and one other panelist, though our invitation to them is newly outbound as well. Brief presentations could be around 15 minutes each, followed by questions from and a discussion with participants. 
+>
+For context, this Discussion Group is generally informal, and intended as a virtual means of sharing knowledge and fostering discussion and networking within a community of DSC coordinators and staff. There are just under 600 members in the ACRL/DSS Digital Scholarship Centers Discussion Group. Around 25 members typically attend and participate in the virtual discussion sessions.
+>
+We’ve identified Thursday, June 16, 2022. Noon to 12:55 EST, preliminarily although we’d need to finalize availability across the panel participants. Later October or early November would work equally well.
+>
+>Thank you for considering our invitation. I hope to hear from you soon.
+>
+Regards,
+>
 Terence
