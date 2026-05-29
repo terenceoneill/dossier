@@ -16,10 +16,29 @@ First, a brief timeline:
 In the beginning of 2024, the Implementation Team was encouraged by Dean Neil Romanosky to create a process for refreshing the Strategic Plan. For the Summer of 2024 we planned an event for collecting input into the Strategic Plan, as it had been developed several years previously. In late 2024, we organized the remarks to the Strategic Plan. I worked closely with Nicole Smeltekop, co-Chair that year, to draft the report, receiving regular input from the rest of the team. Though a member of the larger team, I took a primary role in drafting the report. We then distilled the feedback from the MSU Libraries received via the report, and implemented changes to the Strategic Plan, leaving things in a draft state by early 2025. During this time the Federal Government changed its approach to how its relationship with the country's higher education institutions. MSUL and MSU more broadly were affected by these changes, and the Strategic Plan itself needed to be updated, and as such was delayed in being published. The Implementation Team incorporated these changes and published the updated strategic plan in Fall of 2024. 
 ### Artifacts:
 - Event description
-- The report itself (hosted on the Intranet)
-- The updated Strategic Plan (hosted on the MSU Libraries website)
+	- https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing
+- The report itself 
+	- https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing
+- The updated Strategic Plan (hosted on the MSU Libraries website) 
+	- https://lib.msu.edu/strategic-plan
 - The follow-on event in strategic storytelling
+	- https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link
 - Email requesting the folding of the Strategic Plan Implementation Team that it be re-formed following due consideration. 
+> With the successful publication of the refreshed Strategic Plan, the Implementation Team(SPIT) is at a pivotal moment, ready to transition fully into its next phase of work. I need to let you know that we are facing a **complete turnover** of the team. Every current member is either rotating off or resigning, and my term as Chair officially concludes at the end of the calendar year. This means we are recruiting an entirely new cohort of volunteers.
+To best signal the institutional commitment to the new Plan and maximize engagement and enthusiasm for the Team's mandate—_Develop and implement a process to advance the MSU Libraries’ Strategic Plan and to communicate its progress_—I think the recruitment drive would be much stronger if it were launched directly by your offices. That high-level endorsement will be essential for attracting a dynamic and committed group of participants and setting a fresh tone.
+I am prepared to draft the complete announcement language, manage the initial intake of interest, and provide the necessary support and historical context. I simply believe the recruitment launch would be most impactful coming directly from leadership at this crucial juncture.
+Please let me know how you would like me to proceed with supporting this effort.
+Best regards,
+Terence O'Neill
+Chair, Strategic Planning Implementation Team
+**Current SPIT Charge for Reference:**
+> - Coordinate ways for work which aligns with the Strategic Plan to be highlighted
+>  
+> - Identify new areas which could benefit from alignment with the Strategic Plan; make relevant recommendations
+>     
+> - Initiate working groups and committees to address specific projects or areas
+>    
+> - Discuss potential gaps or ideas for expansion or modification in current plan
 ## Other MSU Libraries Service
 
 - Chair, Reading Committee (2021)
@@ -77,7 +96,9 @@ To structure these programs, I generally follow this loose structure:
 - Six: Circle back to one of their primary issues and re-develop that aspect of their Logic Model
 To help illustrate how this work unfolds in practice, below are artifacts relating to the Logic Model session, correspondence relating to a peer joining a conversation, and a thank you note from a mentee. 
 #### Artifacts:
-- Artifact 1: Logic Model presentation (https://drive.google.com/file/d/18uOjPrOwr4uFEW51Q4sNy8JU0jfeoD1W/view?usp=drive_link)
+- Artifact 1: 
+	- Logic Model slides for work with mentees
+	- https://docs.google.com/presentation/d/1U7Cu7_PPl0eSM8fsZSQe_8KpCT4RlM7x/edit?usp=drive_link&ouid=111995156214073893299&rtpof=true&sd=true
 - Artifact 2: Email Correspondence re: peer expertise
 	- Email correspondence regarding former mentee speaking to then current mentee
 >
@@ -106,7 +127,6 @@ Happy Friday,
 > I just wanted to say thank you again for meeting with me yesterday and thank you Terence for setting it up! It was so useful to hear from your experiences and I really appreciate you taking the time out of your day.
 Have a great weekend,
 >(redacted)
-
 #### Related sections:
 - Cr. II: Mentee of Steve Cramer
 - Cr. II: Mentee of Wiebke Kuhn
