@@ -77,7 +77,7 @@ To structure these programs, I generally follow this loose structure:
 - Six: Circle back to one of their primary issues and re-develop that aspect of their Logic Model
 To help illustrate how this work unfolds in practice, below are artifacts relating to the Logic Model session, correspondence relating to a peer joining a conversation, and a thank you note from a mentee. 
 #### Artifacts:
-- Artifact 1: Logic Model presentation ()
+- Artifact 1: Logic Model presentation (https://drive.google.com/file/d/18uOjPrOwr4uFEW51Q4sNy8JU0jfeoD1W/view?usp=drive_link)
 - Artifact 2: Email Correspondence re: peer expertise
 	- [!quote] Email correspondence regarding former mentee speaking to then current mentee
 >
