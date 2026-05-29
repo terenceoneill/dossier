@@ -107,20 +107,6 @@ Happy Friday,
 Have a great weekend,
 >(redacted)
 
-Artifact 3: Thank you note from 2026 mentee
-[!quote]
-> Thank you again, Terence, for your guidance and mentorship and encouragement 
-> 
-here is the 1990 version of the Arthur Miller-Henrik Ibsen play from  
-Masterpiece Theater  
-[https://urldefense.com/v3/__https://www.imdb.com/title/tt0099503/__;!!HXCxUKc!1NlHACOdMqZA92WLVAvtu3OYA2v2CDh6ppokT0Cj9UnDVBjl3TQ5tTaH5wotPqRNt6l3nCwlsDzrpoSqGIm_c_eG$](https://urldefense.com/v3/__https://www.imdb.com/title/tt0099503/__;!!HXCxUKc!1NlHACOdMqZA92WLVAvtu3OYA2v2CDh6ppokT0Cj9UnDVBjl3TQ5tTaH5wotPqRNt6l3nCwlsDzrpoSqGIm_c_eG$ "https://urldefense.com/v3/__https://www.imdb.com/title/tt0099503/__;!!HXCxUKc!1NlHACOdMqZA92WLVAvtu3OYA2v2CDh6ppokT0Cj9UnDVBjl3TQ5tTaH5wotPqRNt6l3nCwlsDzrpoSqGIm_c_eG$")  
->  
-It's somewhat difficult to find but actually any version will do. The  
-one on youtube is Steve McQueen <  
-[https://urldefense.com/v3/__https://www.youtube.com/watch?v=-0QNPfB6hz8__;!!HXCxUKc!1NlHACOdMqZA92WLVAvtu3OYA2v2CDh6ppokT0Cj9UnDVBjl3TQ5tTaH5wotPqRNt6l3nCwlsDzrpoSqGNx1kduk$](https://urldefense.com/v3/__https://www.youtube.com/watch?v=-0QNPfB6hz8__;!!HXCxUKc!1NlHACOdMqZA92WLVAvtu3OYA2v2CDh6ppokT0Cj9UnDVBjl3TQ5tTaH5wotPqRNt6l3nCwlsDzrpoSqGNx1kduk$ "https://urldefense.com/v3/__https://www.youtube.com/watch?v=-0QNPfB6hz8__;!!HXCxUKc!1NlHACOdMqZA92WLVAvtu3OYA2v2CDh6ppokT0Cj9UnDVBjl3TQ5tTaH5wotPqRNt6l3nCwlsDzrpoSqGNx1kduk$")  >  
->  
-Let's keep in touch, and happy almost summer,  
-(redacted)
 #### Related sections:
 - Cr. II: Mentee of Steve Cramer
 - Cr. II: Mentee of Wiebke Kuhn
