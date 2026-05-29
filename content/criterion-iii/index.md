@@ -72,8 +72,8 @@ I have made two substantive contributions I've made to help BRASS members engage
 I also drove the creation of the 2024 AI Panel, and not just by chairing the committee. I suggested the original topic, helped shape the representation on the panel, and personally recruited the panelists. 
 Both of these projects were extremely well received and popular, owing to both the need to address this issue and the quality of the product. 
 - Conference Planning Committee chair 2024
-- BRASS Subcommittee on AI (joined 12/6/2023)
-- Publishing a libguide
+- BRASS Libguide: AI
+	- https://brass.libguides.com/ai
 	- Personally responsible for the introductory page as well as research page
 ### Other BRASS committees and work
 - Member, BRASS Vendor Relations Committee, 2022-2024
