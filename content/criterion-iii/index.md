@@ -51,6 +51,7 @@ In the beginning of 2024, the Implementation Team was encouraged by Dean Neil Ro
 > - Discuss potential gaps or ideas for expansion or modification in current plan
 
 </details>
+
 ## Other MSU Libraries Service
 
 - Chair, Reading Committee (2021)
