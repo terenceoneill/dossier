@@ -25,8 +25,7 @@ In the beginning of 2024, the Implementation Team was encouraged by Dean Neil Ro
 	- https://lib.msu.edu/strategic-plan
 - The follow-on event in strategic storytelling
 	- https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link
-- <details>
-<summary><strong>Artifact 5 — Email regarding next steps for Implementation Team</strong> (click to view)</summary>
+- <details><summary><strong>Artifact 5 — Email regarding next steps for Implementation Team</strong> (click to view)</summary>
 
 > **From:** Terence O'Neill <br>
 > **Date:** February 2026 <br>
