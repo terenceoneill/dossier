@@ -4,6 +4,8 @@ title: Criterion III
 [[MOC Librarian III]]
 
 BLAHBLAHBLAH
+<details> <summary>Test (click to view)</summary> This should be hidden until you click. </details>
+BLAHBLAHBLAH
 
 My service is an important part of my work for MSU Libraries, and its a place where I look to support other professionals towards our shared goals. This mission has taken place through domains such as National organizations such as ALA via RUSA and BRASS; MSU and state/local; and MSU Libraries. 
 Three contributions impacts I would like to highlight in this work: 1) Helping implement a culture of strategic planning in MSU Libraries; 2) Leading ALA BRASS Education through a series of transitions to more closely fit the needs of its community; 3) Developing content and programming for AI in ALA BRASS. All three areas point to contributions that help these organizations adapt to the changing needs, by focusing on collaborative strategic planning work, carrying out those plans, and addressing how our work is changing with AI. 
