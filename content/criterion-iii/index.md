@@ -3,10 +3,6 @@ title: Criterion III
 ---
 [[MOC Librarian III]]
 
-BLAHBLAHBLAH
-<details> <summary>Test (click to view)</summary> This should be hidden until you click. </details>
-BLAHBLAHBLAH
-
 My service is an important part of my work for MSU Libraries, and its a place where I look to support other professionals towards our shared goals. This mission has taken place through domains such as National organizations such as ALA via RUSA and BRASS; MSU and state/local; and MSU Libraries. 
 Three contributions impacts I would like to highlight in this work: 1) Helping implement a culture of strategic planning in MSU Libraries; 2) Leading ALA BRASS Education through a series of transitions to more closely fit the needs of its community; 3) Developing content and programming for AI in ALA BRASS. All three areas point to contributions that help these organizations adapt to the changing needs, by focusing on collaborative strategic planning work, carrying out those plans, and addressing how our work is changing with AI. 
 The other notable contribution that gets emphasis here is my work with the mentorship program, with MSUL for one mentee but particularly for ALA BRASS, with four mentees over three years. 
@@ -113,7 +109,9 @@ To help illustrate how this work unfolds in practice, below are artifacts relati
 	- Logic Model slides for work with mentees
 	- https://docs.google.com/presentation/d/1U7Cu7_PPl0eSM8fsZSQe_8KpCT4RlM7x/edit?usp=drive_link&ouid=111995156214073893299&rtpof=true&sd=true
 - Artifact 2: Email Correspondence re: peer expertise
-	- Email correspondence regarding former mentee speaking to then current mentee
+
+<details>
+<summary><strong>Email correspondence regarding former mentee speaking to then current mentee</strong> (click to view)</summary>
 >
 **From:** Terence O'Neill  
 > **Date:** February 2025
@@ -206,3 +204,5 @@ We’ve identified Thursday, June 16, 2022. Noon to 12:55 EST, preliminarily alt
 Regards,
 >
 Terence
+
+</details>
