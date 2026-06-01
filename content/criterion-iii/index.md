@@ -25,15 +25,21 @@ In the beginning of 2024, the Implementation Team was encouraged by Dean Neil Ro
 	- https://lib.msu.edu/strategic-plan
 - The follow-on event in strategic storytelling
 	- https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link
-- Email requesting the folding of the Strategic Plan Implementation Team that it be re-formed following due consideration. 
+- <details>
+<summary><strong>Artifact 5 — Email regarding next steps for Implementation Team</strong> (click to view)</summary>
+> **From:** Terence O'Neill <br>
+> **Date:** February 2026 <br>
+> **Re:** Meet with new mentee?
 > With the successful publication of the refreshed Strategic Plan, the Implementation Team(SPIT) is at a pivotal moment, ready to transition fully into its next phase of work. I need to let you know that we are facing a **complete turnover** of the team. Every current member is either rotating off or resigning, and my term as Chair officially concludes at the end of the calendar year. This means we are recruiting an entirely new cohort of volunteers.
-To best signal the institutional commitment to the new Plan and maximize engagement and enthusiasm for the Team's mandate—_Develop and implement a process to advance the MSU Libraries’ Strategic Plan and to communicate its progress_—I think the recruitment drive would be much stronger if it were launched directly by your offices. That high-level endorsement will be essential for attracting a dynamic and committed group of participants and setting a fresh tone.
-I am prepared to draft the complete announcement language, manage the initial intake of interest, and provide the necessary support and historical context. I simply believe the recruitment launch would be most impactful coming directly from leadership at this crucial juncture.
-Please let me know how you would like me to proceed with supporting this effort.
-Best regards,
-Terence O'Neill
-Chair, Strategic Planning Implementation Team
-**Current SPIT Charge for Reference:**
+> To best signal the institutional commitment to the new Plan and maximize engagement and enthusiasm for the Team's mandate—_Develop and implement a process to advance the MSU Libraries’ Strategic Plan and to communicate its progress_—I think the recruitment drive would be much stronger if it were launched directly by your offices. That high-level endorsement will be essential for attracting a dynamic and committed group of participants and setting a fresh tone.
+> I am prepared to draft the complete announcement language, manage the initial intake of interest, and provide the necessary support and historical context. I simply believe the recruitment launch would be most impactful coming directly from leadership at this crucial juncture.
+> Please let me know how you would like me to proceed with supporting this effort.
+> 
+> Best regards,
+> Terence O'Neill
+> Chair, Strategic Planning Implementation Team <br>
+> 
+> **Current SPIT Charge for Reference:**
 > - Coordinate ways for work which aligns with the Strategic Plan to be highlighted
 >  
 > - Identify new areas which could benefit from alignment with the Strategic Plan; make relevant recommendations
@@ -41,6 +47,8 @@ Chair, Strategic Planning Implementation Team
 > - Initiate working groups and committees to address specific projects or areas
 >    
 > - Discuss potential gaps or ideas for expansion or modification in current plan
+
+</details>
 ## Other MSU Libraries Service
 
 - Chair, Reading Committee (2021)
