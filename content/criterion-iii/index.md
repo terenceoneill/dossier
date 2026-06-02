@@ -29,17 +29,95 @@ BRASS work has been an important part of the transition back to being a business
     - Sunset a recurring "award," **"Best of the Business Web,"** which suffered from ill-fit with Education's mandate and lacked appropriate distribution methods for connecting with readers.
     - Moved **BISdex** from Education to BISC.
     - Increased Education's emphasis on **creating programming**, more in line with the mission.
+#### Artifacts
 
+<details>
+<summary><strong>Artifact 1 — Email thank you</strong> (click to view)</summary>
+An email from the BRASS Chair thanking me for my work
+> **From:** BRASS Chair <br>
+> **Date:** April 2026 <br>
+> **Re:** Thank you
+>
+> "I wanted to reach out and sincerely thank you for your willingness to run for a BRASS officer role on this year’s election slate. Your ongoing service to BRASS has been meaningful, and I’m grateful for the time, energy, and leadership you contribute to the section. I really appreciate all that you bring to this community and look forward to continuing our work together."
+
+</details>
+
+<details>
+<summary><strong>Artifact 2 — Half year reporting for BRASS Education 2026-2026</strong> (click to view)</summary>
+An email from me to BRASS regarding our work for the year
+> **From:** Terence O'Neill <br>
+> **Date:** April 2022 <br>
+> **Re:** Thank you
+>
+> BRASS Education is moving forward with a refreshed focus: supporting librarians in the _day‑to‑day practice_ of teaching, coaching, and guiding users through business research and data literacy. Our programming will emphasize practical instruction methods and the creation of useful, reusable materials—workshops, guides, and similar tools—distinct from vendor trainings and traditional conference‑style content. We plan to proceed on this path, but if colleagues have quick reactions or suggestions, we’d welcome them as we finalize the direction.
+>**Updates on Charge + Structural Changes**
+>- **Two adjustments to our charge‑related work:**
+>- **BISDEX** is now fully part of **Business Information Sources**.
+>- **Best of the Best Business Web**: Education will discontinue contributing, and BISC is considering folding this content type into their scope. This aligns well with the broader consolidation of Databases (BISDEX), Reference Sources, and Free Websites under their umbrella.
+>
+>- **LibGuides:** Excellent progress — **11 guides** are slated for updates this year, and work is underway.
+>- **Preconference Proposal:** We did not receive enough responses to advance a full proposal this cycle. The committee is evaluating how to approach the process more effectively for the upcoming year.
+>
+>**Goals for Spring**
+>- Develop **one or two concrete programming offerings** aligned with our charge and new strategic direction.
+>- Reconnect with the “library educators” element of our charge by **outreaching to library science programs**. If anyone has contacts, best practices, or suggestions for LIS engagement, those would be helpful.
+>- Continue the ongoing work of **maintaining and updating LibGuides**.
+>- Begin shaping a **plan for Preconference 2027**.
+
+</details>
+
+<details>
+<summary><strong>Artifact 3 — Invitation to run for Chair of BRASS</strong> (click to view)</summary>
+An email from the then Chair inviting me to run for Chair
+> **From:** BRASS Chair <br>
+> **Date:** October 2025 <br>
+> **Re:**I'm reaching out on behalf of the BRASS Nominating Committee to see if you have any interest in running for BRASS Chair this year? Here's what I have to share re: duties of the role:
+> BRASS Vice-chair
+> The first year - chair elect/vice chair
+> - Primary duty: appoint those members of the committees whose terms are to commence at the same time as they assume the chair
+> - Participate in two Leadership Council meetings (online)
+> - Participate in one Leadership Council discussion meetings (at ALA Annual in person)
+> - Participate in monthly executive council meetings (online)
+> - Potential participation in special projects. 
+> The second year - BRASS chair
+> - Lead two Leadership Council meetings (online)
+> - Lead one Leadership Council discussion meeting (at ALA Annual in person)
+> - Lead monthly executive council meetings (online)
+> - Communicate with BRASS Committees and coordinate their work
+> - Participate in monthly RUSA Board meetings (online)
+> The third year – BRASS past chair
+> - Participate in two Leadership Council meetings (online)
+> - Participate in one Leadership Council discussion meetings (at ALA Annual in person)
+> - Participate in monthly executive council meetings (online)
+> - Potential participation in special projects.
+> - Serve as ex-officio member of BRASS Nominating Committee
+> - May serve as RUSA Representative to RUSA Board
+> The fourth year – BRASS Nominating Committee Chair
+> - Serve as Chair of BRASS Nominating Committee
+> - Serve as member of RUSA Nominating Committee
+> - May serve 1st or 2nd term as RUSA Representative to RUSA Board
+> The fifth year - Varies
+> - May serve on/as chair of BRASS Vendor Relations Committee
+> - May continue to serve 2nd year of term as RUSA Representative to RUSA Board
+> I realize that's a lot! I'm happy to discuss any questions or concerns you have by phone (my office number is in my signature). I think it's really a manageable workload, having served as Chair two years ago. And having seen you handle Charing the Programming Committee I don't think you'd have any issue.
+> The Vice Chair year is mostly sitting in on meetings with the Chair as possible to get a sense for what's happening in BRASS across the Committees and then the Committee assignments for the following year is usually a few months of focused effort leading up to Annual. Serving as Chair the following year definitely takes a bit more time commitment, but our Committees are also all being run by great Committee Chairs and most of them have well established workflows so personally I felt like overseeing all the moving pieces wasn't unduly difficult. 
+> As I said, I'm more than happy to discuss it further, if you like. We are on a bit of a tight turnaround; have to get the bio forms in by 12/12. Either way, please let me know your thoughts. 
+> Thanks for considering!
+
+</details>
 ### AI work
 
 Two substantive contributions to help BRASS members engage with AI:
 
 - **Contributor, BRASS AI LibGuide** (2023–2024) — primary contributor to the writing and formation of a highly viewed BRASS LibGuide; authored two pages: the front page and "Research." [https://brass.libguides.com/ai](https://brass.libguides.com/ai)
+	- Link to views: https://drive.google.com/file/d/1CUg4o7wRStUPaw6kv8k0a7wpx57NS6hx/view?usp=drive_link
 - **Chair, Conference Planning Committee — 2024 AI panel.** Drove creation of the 2024 AI panel beyond chairing the committee: suggested the original topic, helped shape panel representation, and personally recruited the panelists. Program: **"Demystifying AI for Business and Libraries,"** ALA Annual 2024 — a panel of a San Diego economic-development professional, an instructor of business-composition coursework, and an academic librarian. Personally recruited the moderator, the economic-development professional, and the academic librarian (and arranged a replacement when the original academic librarian could not participate); led the application and shepherded it through. Both AI projects were well received and popular.
+	- Link to libguide: https://brass.libguides.com/c.php?g=1374580&p=10162531
 
 ### Conference Planning Committee (other years)
 
 - **Member, Conference Planning Committee** (2022–2023) — very active member; successfully proposed and carried out **"Passion Project to Socially Conscious Business: Librarians Building Communities One Story at a Time"** (social entrepreneurship) for ALA Annual 2023.
+	- Link: https://drive.google.com/file/d/1lYpadP56AF6eXSYeVyu2hJn-ZGkcgQc7/view?usp=sharing
 - **Chair, Conference Planning Committee** (2023–2024) — recruited to chair (see AI panel above).
 
 ### Other BRASS committees and roles
@@ -124,6 +202,21 @@ Another characteristic: bringing mentees further into the peer community so they
 - **External reviewer, Pennsylvania State University — Entrepreneurship Librarian** (2025).
 - **External reviewer, University of South Florida** (2026).
 
+<details> <summary><strong>Email invitation to external review </strong> (click to view)</summary>
+
+> **From:** Terence O'Neill **Date:** May 2025 Dear Terence,
+
+I am writing on behalf of Faye A. Chadwell, Dean of University Libraries and Scholarly Communications at The Pennsylvania State University. We believe that you are qualified to evaluate [redacted]. External evaluations contribute significantly to our promotion and tenure review process, and we would greatly appreciate your willingness to serve in this capacity.  
+
+We are asking you to review [redacted] for tenure and for promotion to Associate rank. External reviewers must be at a commensurate rank to serve as a referee. They also may not have a close academic or personal relationship with the candidate. 
+
+We would appreciate your candid assessment of the quality, significance, and impact of Ms. Hess’ scholarly work. Although we would be asking you to focus on their research and scholarship, you may also provide an assessment of service contributions if you are familiar with their efforts in this area. Finally, we would like you to assess Ms. Hess’ potential for future professional growth. 
+
+If you agree to serve as an external reviewer, you will receive another letter detailing areas to be addressed, along with [redacted]’ vita, draft narrative statement, and selected publications. In addition, we will provide copies of Penn State’s Promotion and Tenure Criteria and the University’s policies on promotion and tenure. We anticipate sending out materials in early June. Your completed assessment letter would be due by August 1st. 
+
+Please let us know if you would be willing to serve in this capacity by email no later than May 23, 2025. We look forward to hearing from you soon. We recognize the time commitment that this would require on your part and appreciate your willingness to consider our request.  
+
+</details>
 ## Cross-institutional / External Advising & Outreach
 
 - **Host, "Career Insider Program," University of Michigan School of Information (UMSI)** (Feb 7, 2020) — co-hosted with Leslie McRoberts; a three-hour program on working at MSU Libraries for visiting UMSI graduate students.
@@ -188,11 +281,14 @@ As a follow-up, helped organize a staff-development event in strategic storytell
 
 - Event description — [https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing](https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing)
 - The report — [https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing](https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing)
+- Slides for February 2025 All Staff Presentation
+	- https://docs.google.com/presentation/d/1gWVQy310OmKE-l3tmlirh0CeATpdKEwh/edit?usp=sharing&ouid=111995156214073893299&rtpof=true&sd=true
+	- Response from Dean Romanosky to presentation: "Thanks again for a great presentation today, Terence, and for all of your work on the plan! Neil"	
 - Updated Strategic Plan (MSU Libraries website) — [https://lib.msu.edu/strategic-plan](https://lib.msu.edu/strategic-plan)
 - Follow-on event in strategic storytelling — [https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link](https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link)
 
 <details>
-<summary><strong>Artifact 5 — Email regarding next steps for Implementation Team</strong> (click to view)</summary>
+<summary><strong>Artifact 5 — Email and response regarding next steps for Implementation Team</strong> (click to view)</summary>
 
 > **From:** Terence O'Neill <br> **Date:** February 2026 <br> With the successful publication of the refreshed Strategic Plan, the Implementation Team (SPIT) is at a pivotal moment, ready to transition fully into its next phase of work. I need to let you know that we are facing a **complete turnover** of the team. Every current member is either rotating off or resigning, and my term as Chair officially concludes at the end of the calendar year. This means we are recruiting an entirely new cohort of volunteers. To best signal the institutional commitment to the new Plan and maximize engagement and enthusiasm for the Team's mandate—_Develop and implement a process to advance the MSU Libraries' Strategic Plan and to communicate its progress_—I think the recruitment drive would be much stronger if it were launched directly by your offices. That high-level endorsement will be essential for attracting a dynamic and committed group of participants and setting a fresh tone. I am prepared to draft the complete announcement language, manage the initial intake of interest, and provide the necessary support and historical context. I simply believe the recruitment launch would be most impactful coming directly from leadership at this crucial juncture. Please let me know how you would like me to proceed with supporting this effort.
 > 
@@ -204,5 +300,7 @@ As a follow-up, helped organize a staff-development event in strategic storytell
 > - Identify new areas which could benefit from alignment with the Strategic Plan; make relevant recommendations
 > - Initiate working groups and committees to address specific projects or areas
 > - Discuss potential gaps or ideas for expansion or modification in current plan
+>> **From:** Dean Romanosky <br> **Date:** February 2026 <br>
+>> Thanks for highlighting this, Terence. Alex and I have been discussing this and will take this into account. Thanks for all that you’ve done in this space!
 
 </details>
