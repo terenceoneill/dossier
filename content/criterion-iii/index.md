@@ -7,22 +7,21 @@ title: Criterion III
 
 Service is an important part of the work for MSU Libraries and a place to support other professionals toward shared goals, across three domains: national organizations (ALA via RUSA and BRASS; ACRL/DSS), MSU and state/local, and MSU Libraries.
 
-Three contributions to highlight:
+Major contributions to highlight:
 
 1. Helping implement a **culture of strategic planning** in MSU Libraries (Strategic Plan Implementation Team).
 2. Leading **ALA BRASS Education** through a series of transitions to more closely fit the needs of its community.
-3. Developing **content and programming for AI in ALA BRASS** (AI LibGuide; 2024 AI panel).
+3. Supporting **Digital Scholarship and ne technology integration** across multiple communities, including MSU (DH@MSU); ACRL's Digital Scholarship Section; and BRASS via content and programming for AI in ALA BRASS.
+4. **Mentoring five early career professionals** via BRASS and MSUL.
 
-All three point to contributions that help these organizations adapt to changing needs — collaborative strategic planning, carrying out those plans, and addressing how the work is changing with AI. A fourth thread runs across them: the **mentorship program**, with one MSUL mentee and four BRASS mentees over three years (five total).
+All point to contributions that help these organizations adapt to changing needs, including collaborative strategic planning, carrying out those plans, and addressing how the work is changing.
 
 ---
-
 # External Service
 
 ## American Library Association — Business Reference and Services Section (BRASS, a division of RUSA)
 
 BRASS work has been an important part of the transition back to being a business librarian, and reflects a view of what committee work is _for_: a place to learn what is going well at other institutions, where professionals share expertise and round out skillsets or develop new program offerings, and where professional communities must choose to stay nimble and dedicate resources to becoming what their members need.
-
 ### Education Committee
 
 - **Chair, Education Committee** (2025–2026). As chair, took the opportunity to update the committee's orientation; like many institutions, BRASS's recent history has had momentous shifts and the charge reflected out-dated understandings of the work. Worked closely with the Executive Committee to redistribute and manage workload, shifting away from activities reflecting charge drift, via separate meetings, correspondence, and facilitated discussion across Exec, BISC (Business Information Sources Committee, a peer), BISdex (a subcommittee), and Education (including the past chair). Charge updates:
@@ -143,8 +142,17 @@ A screengrab of view usage for "BRASS AI for Business Librarians" Libguide.
 ### Conference Planning Committee (other years)
 
 - **Member, Conference Planning Committee** (2022–2023) — very active member; successfully proposed and carried out **"Passion Project to Socially Conscious Business: Librarians Building Communities One Story at a Time"** (social entrepreneurship) for ALA Annual 2023.
-	- Link: https://drive.google.com/file/d/1lYpadP56AF6eXSYeVyu2hJn-ZGkcgQc7/view?usp=sharing
 - **Chair, Conference Planning Committee** (2023–2024) — recruited to chair (see AI panel above).
+#### Artifacts
+
+<details>
+<summary><strong>Artifact: "Passion Project to Socially Conscious Business: Librarians Building Communities One Story at a Time" Libguide </strong>(click to view) </summary>
+
+I helped create the event, including selecting panelists and crafting framing questions. 
+
+[Slides link (external) →]( [https://brass.libguides.com/ai](https://drive.google.com/file/d/1lYpadP56AF6eXSYeVyu2hJn-ZGkcgQc7/view?usp=sharing)](https://drive.google.com/file/d/1lYpadP56AF6eXSYeVyu2hJn-ZGkcgQc7/view?usp=sharing)]
+
+</details>
 
 ### Other BRASS committees and roles
 
@@ -172,12 +180,20 @@ Another characteristic: bringing mentees further into the peer community so they
 4. Introduce an expert peer on one of their chosen issues
 5. Check in; give space to vent and share context
 6. Circle back to a primary issue and re-develop that aspect of the Logic Model
-
 #### Artifacts
 
-- Logic Model slides for work with mentees — [https://docs.google.com/presentation/d/1U7Cu7_PPl0eSM8fsZSQe_8KpCT4RlM7x/edit?usp=drive_link&ouid=111995156214073893299&rtpof=true&sd=true](https://docs.google.com/presentation/d/1U7Cu7_PPl0eSM8fsZSQe_8KpCT4RlM7x/edit?usp=drive_link&ouid=111995156214073893299&rtpof=true&sd=true)
+<details>
+<summary><strong>Artifact: "Mentorship: Logic Models" Slides </strong>(click to view)</summary>
 
-<details> <summary><strong>Email correspondence regarding former mentee speaking to then-current mentee</strong> (click to view)</summary>
+I created the first page and Research page. 
+
+[Libguide link (external) →]( [https://docs.google.com/presentation/d/1U7Cu7_PPl0eSM8fsZSQe_8KpCT4RlM7x/edit?usp=drive_link&ouid=111995156214073893299&rtpof=true&sd=true](https://docs.google.com/presentation/d/1U7Cu7_PPl0eSM8fsZSQe_8KpCT4RlM7x/edit?usp=drive_link&ouid=111995156214073893299&rtpof=true&sd=true)
+
+</details>
+
+<details> 
+<summary><strong>Artifact: Email correspondence re: peer invitation</strong> (click to view)</summary>
+Email correspondence regarding former mentee speaking to then-current mentee
 
 > **From:** Terence O'Neill **Date:** February 2025 Hi (name redacted), I hope you are doing well! I am working with another mentee via BRASS, and we were just talking about curriculum mapping and discovering the right places to work into the curriculum. It reminded me of your experience at (redacted). Would you be willing to come to one of our meetings and talk about your work? You don't need to prepare anything, but it's great to hear from different people. Just in case it works for you, our next meeting is Thursday, March 13, at 3 pm, though we'd be happy to set up another time. Thanks for considering! Regards, Terence
 > 
@@ -193,7 +209,6 @@ Another characteristic: bringing mentees further into the peer community so they
 
 - **Member, RUSA Annual Conference Review Committee** (2023).
 - **Chair, RUSA Annual Conference Review Committee** (2024, 2025). Coordinated review of all submissions for the ALA Annual Conference in the RUSA Sections (presentations and more). In the 2025–2026 cycle: evaluated **99 poster proposals, 26 program proposals, and a preconference proposal**, and coordinated with the RUSA professional office on other program decisions.
-
 ## ACRL — Digital Scholarship Section (DSS)
 
 - **Member, Membership Committee** (July 2019 – June 2020) — active member of a three-person committee. Launched the **"Day-in-the-Life" series** to promote understanding of committee roles; hosted a **Mixer at ALA Midwinter Philadelphia**; coordinated a survey with the EDI committee on why individuals leave the organization. Continued as Exec liaison to Membership during the 2021–2022 term (see below).
@@ -205,14 +220,16 @@ Another characteristic: bringing mentees further into the peer community so they
     - Planning, Implementing, and Sustaining Programmatic Services — April 2022
     - **Finding a Common Direction** — June 2022 (assessment panel, target June 16, 2022)
 - **Member-at-Large, Executive Committee / Advisory Group** (Feb 2021 – June 2022) — served as liaison to the Membership Committee (continuing the day-in-the-life series) and reviewed communication policies across the organization.
-
 ### Artifacts
 
-<details><summary><strong>Artifact 1 — "Partnering for Digital Scholarship Centers" Save the Date</strong> (click to view)</summary>
+<details><summary><strong>Artifact: "Partnering for Digital Scholarship Centers" Save the Date</strong> (click to view)</summary>
 
 > Save the Date: 11/11/21. Hi everyone, The Digital Scholarship Centers Discussion Group of the Digital Scholarship Section (ACRL) presents our first program of the academic year: Partnering for Digital Scholarship Centers, a discussion with library collaborators. Thursday, November 11, 12 pm to 1:30 pm EST. The program will be a small panel of individuals from institutions where Digital Scholarship Centers in the library work with a partnering department or organization, focused on collaborative partnerships — covering a brief overview of the DSC's mission and the nature of the partnership; the enduring value of the partnership and what has changed re: the initial vision; and any formal agreements supporting the collaboration. Regards, Terence O'Neill and (redacted), Co-conveners of the Digital Scholarship Centers Discussion Group in the Digital Scholarship Section (ACRL).
 
-</details> <details><summary><strong>Artifact 2 — Invitation to a panelist (assessment session)</strong> (click to view)</summary>
+</details>
+
+<details>
+<summary><strong>Artifact: Invitation to a panelist (assessment session)</strong> (click to view)</summary>
 
 > Hi (redacted), I hope you are doing well. I have so enjoyed your perspective in our Educause Mentorship discussions, and I wanted to see if you would be interested in sharing with a librarian audience in a relaxed setting. I'm one of the co-conveners of the Digital Scholarship Centers (DSC) Discussion Group in the Digital Scholarship Section (DSS) within ACRL. My co-convener and I are planning our third discussion meeting for this upcoming summer, loosely envisioned around the topic of assessment from two perspectives. I'm thinking you could speak as a current and past administrator of a portfolio of technology-enabled teaching and learning services and spaces, but not focused on library work. Possible jumping-off points: a brief overview of your work; how you think about assessment as an administrator; how you determine the metrics by which units are assessed; how you navigate the needs of superiors and communicate a unit's value to stakeholders; how you use assessment outcomes to introduce change or advocate change with internal administrators and external partners; and anything else of significance. Hoping for you and one other panelist; brief presentations around 15 minutes each, followed by questions and discussion. The group is generally informal — a virtual means of sharing knowledge and fostering discussion and networking among DSC coordinators and staff (just under 600 members; ~25 typically attend). Preliminarily Thursday, June 16, 2022, noon–12:55 EST, pending panel availability; later October or early November would work equally well. Regards, Terence
 
@@ -222,13 +239,12 @@ Another characteristic: bringing mentees further into the peer community so they
 
 - **Member-at-Large, Administration Section** (2018–2020). _(Active at the start of the review window.)_
 - **Co-organizer, MiALA Data Literacy Pop-Up Conference** (2022–2023) — initiated the planning conversations and led coordination with the MSU Writing Center and MSUL Special Collections, both of whom presented Data Literacy topics. MiALA- and iASSIST-funded. With Ledermann, Maryck, Morin, and Thielen.
-
 ## External Review (other institutions)
 
 - **External reviewer, Pennsylvania State University — Entrepreneurship Librarian** (2025).
 - **External reviewer, University of South Florida** (2026).
 
-<details> <summary><strong>Email invitation to external review </strong> (click to view)</summary>
+<details> <summary><strong>Artifact: Email invitation to external review </strong> (click to view)</summary>
 
 > **From:** Terence O'Neill **Date:** May 2025 Dear Terence,
 
@@ -250,7 +266,6 @@ Please let us know if you would be willing to serve in this capacity by email no
 - **Miscellaneous advising** (2019–2020): General Motors, Auburn University, University of Utah, Ryerson University, Casablanca University, Open University of China, Malawi University of Science and Technology.
 
 ---
-
 # MSU Service
 
 ## CCED — Center for Community & Economic Development
@@ -275,13 +290,11 @@ Served with CCED in varying capacities for several years, building conversance o
 - **Member, DH@MSU Advisory Committee** (2018–2020). _(Active at the start of the review window.)_
 - **Co-Chair, DH@MSU Curriculum Committee** (2021–2022; applied for the 2020–2022 term) — major projects: creating a curriculum-mapping rubric, recruiting courses to participate in the Minor, developing three distinct DH Minor tracks, and improving the Graduate Student Certificate workflow.
 - **Reviewer, Global Digital Humanities Symposium submissions** (2020, 2021).
-
 ## iteachmsu
 
 - **Member, Advisory Committee, iteachmsu Commons** (2018–2021).
 
 ---
-
 # MSU Libraries Service
 
 ## Other MSU Libraries Service
@@ -299,22 +312,61 @@ Served with CCED in varying capacities for several years, building conversance o
 
 MSU Libraries service in this period has been varied — Space Planning Committee, two search committees, the Reading Committee — but the role that stands out is the Strategic Plan Implementation Team. As member and then Chair, helped lead a number of developments as MSUL continues to develop its strategic-planning practices. The compiled artifacts indicate the collaborative work undertaken to refresh the Strategic Plan and further a _culture_ of strategic planning at MSUL — practices for how an organization sets goals, organizes to carry them out, measures progress, and communicates how goals have been met. Engagement here drew partly on strategic planning for the makerspace and Digital Scholarship Services units.
 
-**Timeline.** Early 2024: the Team was encouraged by Dean Neil Romanosky to create a process for refreshing the Strategic Plan. Summer 2024: planned an event for collecting input into the Plan (originally developed several years earlier). Late 2024: organized remarks/feedback; worked closely with co-Chair Nicole Smeltekop to draft the report with regular input from the team — took a primary role in drafting. Distilled the feedback and implemented changes, leaving a draft state by early 2025. Federal-level changes to the relationship with higher education then affected MSUL and MSU more broadly; the Plan needed updating and publication was delayed. The Team incorporated those changes and published the refreshed Strategic Plan in **Fall 2025**.
+**Timeline.** Early 2024: the Team was encouraged by Dean Neil Romanosky to create a process for refreshing the Strategic Plan. Summer 2024: planned an event for collecting input into the Plan (originally developed several years earlier). Late 2024: organized remarks/feedback; worked closely with then co-Chair Nicole Smeltekop to draft the report with regular input from the team. Distilled the feedback and implemented changes, leaving a draft state by early 2025. Federal-level changes to the relationship with higher education then affected MSUL and MSU more broadly; the Plan needed updating and publication was delayed. The Team incorporated those changes and published the refreshed Strategic Plan in **Fall 2025**.
 
 As a follow-up, helped organize a staff-development event in strategic storytelling led by Elise Jajuga — provided feedback, served as a practice audience for early drafts, and participated. Also coordinated with Alex Rivera (Team liaison to EC) so the Team would not recruit a new cohort, allowing this term to be the last under its current arrangement; leadership will evaluate future needs as needed.
-
 ### Artifacts
 
-- Event description — [https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing](https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing)
-- The report — [https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing](https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing)
-- Slides for February 2025 All Staff Presentation
-	- https://docs.google.com/presentation/d/1gWVQy310OmKE-l3tmlirh0CeATpdKEwh/edit?usp=sharing&ouid=111995156214073893299&rtpof=true&sd=true
-	- Response from Dean Romanosky to presentation: "Thanks again for a great presentation today, Terence, and for all of your work on the plan! Neil"	
-- Updated Strategic Plan (MSU Libraries website) — [https://lib.msu.edu/strategic-plan](https://lib.msu.edu/strategic-plan)
-- Follow-on event in strategic storytelling — [https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link](https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link)
+<details>
+<summary><strong>Artifact: Summer 2024 event description</strong> (click to view)</summary>
+This was the original event description for the Summer 2024 All-Staff event that solicited the feedback on the Strategic Plan. 
+[https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing](https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing)
+</details>
 
 <details>
-<summary><strong>Artifact 5 — Email and response regarding next steps for Implementation Team</strong> (click to view)</summary>
+<summary><strong>Artifact: Strategic Plan Synthesis Report </strong>(click to view)</summary>
+
+The Strategic Plan Synthesis Report. I had a major role in all stages of the creation of this report.
+
+[Synthesis report link (external) →]([https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing](https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing))
+
+</details>
+
+<details>
+<summary><strong>Artifact: Slides for February 2025 All Staff Presentation </strong>(click to view)</summary>
+
+This All-Staff Presentation shared the process of collecting feedback, writing the Synthesis report, and next steps.
+
+[Slides link (external) →]([[https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing](https://docs.google.com/presentation/d/1gWVQy310OmKE-l3tmlirh0CeATpdKEwh/edit?usp=sharing&ouid=111995156214073893299&rtpof=true&sd=true)]
+</details>
+
+<details>
+<summary><strong>Artifact: Response from Dean to All Staff Presentation </strong>(click to view)</summary>
+
+Response from Dean Romanosky to presentation: "Thanks again for a great presentation today, Terence, and for all of your work on the plan! Neil"
+
+</details>
+
+<details>
+<summary><strong>Artifact: Updated Strategic Plan </strong>(click to view)</summary>
+
+Updated Strategic Plan (MSU Libraries website): 
+
+[MSUL Strategic Plan link (external) →]([[https://lib.msu.edu/strategic-plan](https://lib.msu.edu/strategic-plan)))
+
+</details>
+
+<details>
+<summary><strong>Artifact: Outline of Strategic Storytelling event </strong>(click to view)</summary>
+
+Elise Jajuga led the creation and running of this event. I helped convene it, helped set the direction, and participated in the drafting and practice processes. 
+
+[Event outline (external) →]([[https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link](https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link))))
+
+</details>
+
+<details>
+<summary><strong>Artifact: Email and response regarding next steps for Implementation Team</strong> (click to view)</summary>
 
 > **From:** Terence O'Neill <br> **Date:** February 2026 <br> With the successful publication of the refreshed Strategic Plan, the Implementation Team (SPIT) is at a pivotal moment, ready to transition fully into its next phase of work. I need to let you know that we are facing a **complete turnover** of the team. Every current member is either rotating off or resigning, and my term as Chair officially concludes at the end of the calendar year. This means we are recruiting an entirely new cohort of volunteers. To best signal the institutional commitment to the new Plan and maximize engagement and enthusiasm for the Team's mandate—_Develop and implement a process to advance the MSU Libraries' Strategic Plan and to communicate its progress_—I think the recruitment drive would be much stronger if it were launched directly by your offices. That high-level endorsement will be essential for attracting a dynamic and committed group of participants and setting a fresh tone. I am prepared to draft the complete announcement language, manage the initial intake of interest, and provide the necessary support and historical context. I simply believe the recruitment launch would be most impactful coming directly from leadership at this crucial juncture. Please let me know how you would like me to proceed with supporting this effort.
 > 
