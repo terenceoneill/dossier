@@ -32,8 +32,8 @@ BRASS work has been an important part of the transition back to being a business
 #### Artifacts
 
 <details>
-<summary><strong>Artifact 1 — Email thank you</strong> (click to view)</summary>
-An email from the BRASS Chair thanking me for my work
+<summary><strong>Artifact: Email thank you for running for BRASS office</strong> (click to view)</summary>
+An email from the BRASS Chair thanking me for my work and for running for a BRASS officer position.
 > **From:** BRASS Chair <br>
 > **Date:** April 2026 <br>
 > **Re:** Thank you
@@ -43,7 +43,7 @@ An email from the BRASS Chair thanking me for my work
 </details>
 
 <details>
-<summary><strong>Artifact 2 — Half year reporting for BRASS Education 2026-2026</strong> (click to view)</summary>
+<summary><strong>Artifact: Half year reporting for BRASS Education 2026-2026</strong> (click to view)</summary>
 An email from me to BRASS regarding our work for the year
 > **From:** Terence O'Neill <br>
 > **Date:** April 2022 <br>
@@ -67,7 +67,7 @@ An email from me to BRASS regarding our work for the year
 </details>
 
 <details>
-<summary><strong>Artifact 3 — Invitation to run for Chair of BRASS</strong> (click to view)</summary>
+<summary><strong>Artifact: Invitation to run for Chair of BRASS</strong> (click to view)</summary>
 An email from the then Chair inviting me to run for Chair
 > **From:** BRASS Chair <br>
 > **Date:** October 2025 <br>
@@ -109,10 +109,36 @@ An email from the then Chair inviting me to run for Chair
 
 Two substantive contributions to help BRASS members engage with AI:
 
-- **Contributor, BRASS AI LibGuide** (2023–2024) — primary contributor to the writing and formation of a highly viewed BRASS LibGuide; authored two pages: the front page and "Research." [https://brass.libguides.com/ai](https://brass.libguides.com/ai)
-	- Link to views: https://drive.google.com/file/d/1CUg4o7wRStUPaw6kv8k0a7wpx57NS6hx/view?usp=drive_link
+- **Contributor, BRASS AI LibGuide** (2023–2024) — primary contributor to the writing and formation of a highly viewed BRASS LibGuide; authored two pages: the front page and "Research."
 - **Chair, Conference Planning Committee — 2024 AI panel.** Drove creation of the 2024 AI panel beyond chairing the committee: suggested the original topic, helped shape panel representation, and personally recruited the panelists. Program: **"Demystifying AI for Business and Libraries,"** ALA Annual 2024 — a panel of a San Diego economic-development professional, an instructor of business-composition coursework, and an academic librarian. Personally recruited the moderator, the economic-development professional, and the academic librarian (and arranged a replacement when the original academic librarian could not participate); led the application and shepherded it through. Both AI projects were well received and popular.
-	- Link to libguide: https://brass.libguides.com/c.php?g=1374580&p=10162531
+#### Artifacts
+
+<details>
+<summary><strong>Artifact: "BRASS AI for Business Librarians" Libguide </strong>(click to view)</summary>
+
+I created the first page and Research page. 
+
+[Libguide link (external) →]( [https://brass.libguides.com/ai](https://brass.libguides.com/ai))
+
+</details>
+
+<details>
+<summary><strong>Artifact: BRASS AI Libguide usage stats </strong>(click to view)</summary>
+
+A screengrab of view usage for "BRASS AI for Business Librarians" Libguide.
+
+[Screen grab (external) →](https://drive.google.com/file/d/1CUg4o7wRStUPaw6kv8k0a7wpx57NS6hx/view?usp=drive_link)
+
+</details>
+
+<details>
+<summary><strong>Artifact: "Demystifying AI for Business and Libraries" Libguide </strong>(click to view)</summary>
+
+"2024 BRASS Program - Demystifying AI for Business and Libraries" Libguide.
+
+[Libguide link (external) →](https://brass.libguides.com/c.php?g=1374580&p=10162531 )
+
+</details>
 
 ### Conference Planning Committee (other years)
 
