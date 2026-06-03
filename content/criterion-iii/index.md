@@ -104,6 +104,7 @@ An email from the then Chair inviting me to run for Chair
 > Thanks for considering!
 
 </details>
+
 ### AI work
 
 Two substantive contributions to help BRASS members engage with AI:
@@ -259,6 +260,7 @@ If you agree to serve as an external reviewer, you will receive another letter
 Please let us know if you would be willing to serve in this capacity by email no later than May 23, 2025. We look forward to hearing from you soon. We recognize the time commitment that this would require on your part and appreciate your willingness to consider our request.  
 
 </details>
+
 ## Cross-institutional / External Advising & Outreach
 
 - **Host, "Career Insider Program," University of Michigan School of Information (UMSI)** (Feb 7, 2020) — co-hosted with Leslie McRoberts; a three-hour program on working at MSU Libraries for visiting UMSI graduate students.
