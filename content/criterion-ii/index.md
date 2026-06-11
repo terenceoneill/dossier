@@ -5,13 +5,13 @@ title: Criterion II
 
 # Criterion II
 
-My scholarly and creative work synthesizes three threads that also define my primary assignment: entrepreneurship, information literacy, and technology implementation. The unifying question running through it is how entrepreneurs synthesize information — from their own ideas, the primary research they gather from prospective customers and partners, and the secondary research that libraries provide — into coherent business models, and how librarians can best support that integrative work.
+My scholarly and creative work synthesizes three threads that also define my primary assignment: entrepreneurship, information literacy, and digital scholarship. The unifying question running through it is how entrepreneurs synthesize information — from their own ideas, the primary research they gather from prospective customers and partners, and the secondary research that libraries provide — into coherent business models, and how librarians can best support that integrative work.
 
 This section is organized by output type: credited course instruction, publications, presentations, exhibits and other creative work, awards, and professional development. Where a single research program ties several outputs together, the explanatory narrative precedes the individual entries rather than repeating them.
 
 ## Credited Course Instruction
 
-Since submitting my Librarian II dossier (March 2019), I have taught seven credited courses, most for first-year students. They are distinct in practice but built on a related family of concepts and skills, and they give students a chance to practice information literacy in more intensive structures than my primary instruction allows.
+Since submitting my Librarian II dossier (March 2019), I have taught seven credited courses, mostly for first-year students. They are distinct in practice but built on a related family of concepts and skills, and they give students a chance to practice information literacy in more intensive structures than my primary instruction allows.
 
 - **First-Year Seminar Abroad (Japan), Summer 2023** — _Human-Centered Design in Global Contexts_ (FSA 100, 4 cr). My first FSA, focused on design thinking and how businesses interpret customer needs.
 - **First-Year Seminar Abroad (Japan), Summer 2024** — _Innovating for the Future: Circular Economy_ (FSA 201, 4 cr). Used circular economy as a framework for sustainable business design; featured below.
@@ -40,9 +40,9 @@ This is the through-line of my scholarship and grows directly out of my work as 
 
 **Phase 1 — Exploratory writing and grant-seeking (2022–2024).** I tested ideas through short professional essays (listed under _Blog posts & essays_ below) and applied to the IMLS-funded Institute for Research Design in Librarianship (IRDL) with a 12-page proposal, _Understanding Entrepreneurs' Information Search and Synthesis Behavior_, supported by letters from Dean Neil Romanosky, Laura Walesby, and Wendy Pothier. I was informed in March 2024 that I was not selected; the application work nonetheless moved the project materially forward and fed directly into the theory paper below.
 
-**Phase 2 — Theory paper and interview study (2024–2026).** The _Journal of Business & Finance Librarianship_ article (below) articulates how entrepreneurs synthesize their own ideas, primary research, and library-supported secondary research, positioning information synthesis as the integrative work that ties them together. A second paper, currently under review, extends this with evidence gathered from nascent entrepreneurs (IRB submitted February 2025; early feedback from Neil Baker, Purdue University).
+**Phase 2 — Theory paper and interview study (2024–2026).** The _Journal of Business & Finance Librarianship_ article (below) articulates how entrepreneurs synthesize their own ideas, primary research, and library-supported secondary research, positioning information synthesis as the integrative work that ties them together. A second paper, currently under review, extends this with evidence gathered from librarians (IRB submitted February 2025; early feedback from Neil Baker, Purdue University).
 
-**Phase 3 — Collaboration and next steps (2026–ongoing).** Recruiting collaborators and developing the next stage of evidence-gathering.
+**Phase 3 — Collaboration and next steps (2026–ongoing).** Recruiting collaborators and developing the next stage of evidence-gathering, with a focus on the processes of nascent entrepreneurs.
 
 ### Peer-reviewed articles
 
@@ -89,14 +89,14 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 ## Exhibits and Other Creative Work
 
 - MSU Libraries Exhibit: _Deep Tech & Green Tech: Investing in Today's Great Challenges._ 2 West, Main Library, Winter/Spring 2023.
-- MSU Libraries Pop-up Exhibit: _Eco-Futures._ Main Library, week of April 8, 2024. Speculative fiction imagining different futures for life on this planet (Octavia Butler, Paolo Bacigalupi, Margaret Atwood, Cory Doctorow).
+- MSU Libraries Pop-up Exhibit: _Eco-Futures._ Main Library, week of April 8, 2024. Speculative fiction imagining different futures for life on this planet (featuring works by Octavia Butler, Paolo Bacigalupi, Margaret Atwood, Cory Doctorow, and others).
 - _MiALA Data Literacy Pop-Up Conference_ (Ledermann, Marcyk, Morin, O'Neill, Thielen). Funded by iASSIST and MiALA; offered 2019 and 2022. I initiated the planning and coordinated the MSU Writing Center and MSUL Special Collections contributions. (See _Awards_ for the sponsoring grant.)
 
 ## Awards and Honors
 
 - **IASSIST 2022 Program Sponsorship Award** ($500), for the MiALA Data Literacy Pop-Up Conference (Ledermann, Marcyk, Morin, O'Neill).
 - **Virtual Innovation Forum, "Bridging Technologies and Market Needs" — Second place, pitch competition** (2022). Team with Zeeshan (PhD student, India); concept: a microwave-based sensor for detecting counterfeit drugs.
-- **AT&T Faculty & Staff Award Competition in Instructional Technology — Honorable Mention**, _BUS 170: Introduction to Entrepreneurship_ (Wigner, A., O'Neill, T., Szymusiak, K.). _The recognized instructional work was completed Fall 2018–Spring 2019, predating the review period; included here as a prior honor in the same line of work._
+- **AT&T Faculty & Staff Award Competition in Instructional Technology — Honorable Mention**, _BUS 170: Introduction to Entrepreneurship_ (Wigner, A., O'Neill, T., Szymusiak, K.). _The recognized instructional work was completed Fall 2018–Spring 2019, predating the Dossier review period; included here as a prior honor in the same line of work._
 
 ## Professional Development
 
@@ -122,7 +122,7 @@ I have sought structured mentorship deliberately, as both a way to learn and a c
 
 ### Language study
 
-- Japanese — ongoing, supporting FSA Japan instruction and possible future research. Regular language exchange with a Tokyo-based high-school entrepreneurship/English educator; self-study via Kanshudo; progressing toward JLPT N5/N4.
+- Japanese — ongoing, supporting FSA Japan instruction and possible future research. Regular language exchange with a Tokyo-based high-school entrepreneurship/English educator; self-study via Kanshudo; progressing toward JLPT N4.
 
 ### Communities of practice and continued learning
 

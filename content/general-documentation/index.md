@@ -4,6 +4,22 @@ title: General Documentation
 
 # Letter of Application #
 
+Dear reading committee and colleagues at Michigan State University Libraries,
+Welcome to my submission materials for my Application to Librarian III. The period under review covers work from July 1, 2019, to June 31, 2026. 
+I began work at MSU in September, 2013. In January 2018, I began work as the Head of Digital Scholarship Services, helping launch the Digital Scholarship Lab at that time. I submitted materials for and achieved Continuing Appointment (Librarian II) in 2019. In late 2021, I shifted back to Entrepreneurship Librarian, leaving the role of Head of Digital Scholarship Services. The following Spring, 2022, I also went to a modified "Academic Year" appointment of 82% of Full-Time. In Fall 2025, I switched back to 100% status. My current title is Entrepreneurship Librarian, Business Librarian, at the Gast Business Library in the Teaching and Learning Division, Librarian II. 
+This documentation is organized as Criterion I, II, and III. The artifacts and narrative assembled here illustrate my contributions across these criteria. There are major themes that carry through my work, across the two roles of Head of Digital Scholarship Services and Entrepreneurship Librarian, over the years 2019 to 2026, and throughout the criteria:
+- Information Synthesis
+- Understanding of entrepreneurs' needs and information habits
+- Community-conscious business
+- Digital Scholarship 
+- International Business
+- Strategic planning and implementation
+Across this time, I have made significant contributions across all three criteria, with regular teaching contributions reaching over 15,000 student impressions (Cr. I), launch of major initiatives both at DSL and as Entrepreneurship Librarian (Cr. I) four papers published or under review (Cr. II), seven credited courses taught (Cr. II), and serving as an impactful Chair for both National organizations such as RUSA-BRASS Education Committee and MSUL's Strategic Plan Implementation Team. 
+This dossier I hope reflects purposeful building over time, which I believe will continue to pay dividends in the years to come. These concerted efforts are reflected in a compounding skillset; growing and deepening network of professional relationships; and the benefits of simply sticking with certain topics and letting the projects gradually build. 
+Thank you for your time, attention, and contributions to MSU Libraries.
+Regards,
+Terence W. O'Neill
+
 # References #
 
 # Curriculum Vitae #
