@@ -1,21 +1,19 @@
 ---
 title: Criterion II
 ---
-[[MOC Librarian III]]
-
 # Criterion II
 
-My scholarly and creative work synthesizes three threads that also define my primary assignment: entrepreneurship, information literacy, and digital scholarship. The unifying question running through it is how entrepreneurs synthesize information — from their own ideas, the primary research they gather from prospective customers and partners, and the secondary research that libraries provide — into coherent business models, and how librarians can best support that integrative work.
+My scholarly and creative work synthesizes three threads that also define my primary assignment: entrepreneurship, information literacy, and digital scholarship. The unifying question running through much of my Criterion II work is how entrepreneurs synthesize information — from their own ideas, the primary research they gather from prospective customers and partners, and the secondary research that libraries provide — into coherent business models, and how librarians can best support that integrative work.
 
-This section is organized by output type: credited course instruction, publications, presentations, exhibits and other creative work, awards, and professional development. Where a single research program ties several outputs together, the explanatory narrative precedes the individual entries rather than repeating them.
+This section is organized by output type: credited course instruction, publications, presentations, exhibits and other creative work, awards, and professional development. Where a single research program ties several outputs together I have written an explanatory narrative that encompasses the individual entries rather than repeating them.
 
 ## Credited Course Instruction
 
-Since submitting my Librarian II dossier (March 2019), I have taught seven credited courses, mostly for first-year students. They are distinct in practice but built on a related family of concepts and skills, and they give students a chance to practice information literacy in more intensive structures than my primary instruction allows.
+Since submitting my Librarian II dossier in Summer 2019, I have taught seven credited courses, mostly for first-year students. These courses are distinct in practice but built on a related family of concepts and skills, and they give students a chance to practice information literacy in more intensive structures than my primary instruction allows.
 
 - **First-Year Seminar Abroad (Japan), Summer 2023** — _Human-Centered Design in Global Contexts_ (FSA 100, 4 cr). My first FSA, focused on design thinking and how businesses interpret customer needs.
 - **First-Year Seminar Abroad (Japan), Summer 2024** — _Innovating for the Future: Circular Economy_ (FSA 201, 4 cr). Used circular economy as a framework for sustainable business design; featured below.
-- **First-Year Seminar Abroad (Japan), Summer 2026** — _Forever and Kaizen: Innovation and Entrepreneurship in Japan Today_ (3 cr + 1 cr on-campus follow-up). Centered on _kaizen_ (continuous improvement) and how it interacts with technologization.
+- **First-Year Seminar Abroad (Japan), Summer 2026** — _Forever and Kaizen: Innovation and Entrepreneurship in Japan Today_ (3 cr + 1 cr on-campus follow-up). Centered on _kaizen_ (continuous improvement) and how this concept interacts with technologization in Japan.
 - **Big Ideas Seminar, Fall 2019** — _UGS 101: Extended Reality Technologies_ (1 cr). An overhauled one-credit seminar introducing first-year students to immersive technologies; the earliest of these courses and a bridge from my digital-scholarship work into credited teaching.
 - **Big Ideas Seminar, Fall 2021** — _UGS 101: Data Storytelling_ (1 cr). First offering.
 - **Big Ideas Seminar, Fall 2022** — _UGS 101: Data Storytelling_ (1 cr). Second offering. (A Fall 2023 offering was developed but did not run for want of enrollment.)
@@ -36,9 +34,9 @@ The first-day introductory deck links course content to the students' physical s
 
 ### Research program: Entrepreneurs' information synthesis
 
-This is the through-line of my scholarship and grows directly out of my work as Entrepreneurship Librarian. The gap it addresses sits between two fields: business librarianship and entrepreneurship education both underexamine _how entrepreneurs synthesize information_ across sources as they form business models. My program explores how entrepreneurs use secondary information effectively and how librarians can contribute to that process. It has unfolded in three phases.
+This is the through-line of my scholarship and grows directly out of my work as Entrepreneurship Librarian. The gap it addresses sits between two fields: business librarianship and entrepreneurship education both underexamine how entrepreneurs synthesize information across sources as they form business models. My program explores how entrepreneurs use secondary information effectively and how librarians can contribute to that process. It has unfolded in three phases.
 
-**Phase 1 — Exploratory writing and grant-seeking (2022–2024).** I tested ideas through short professional essays (listed under _Blog posts & essays_ below) and applied to the IMLS-funded Institute for Research Design in Librarianship (IRDL) with a 12-page proposal, _Understanding Entrepreneurs' Information Search and Synthesis Behavior_, supported by letters from Dean Neil Romanosky, Laura Walesby, and Wendy Pothier. I was informed in March 2024 that I was not selected; the application work nonetheless moved the project materially forward and fed directly into the theory paper below.
+**Phase 1 — Exploratory writing and grant-seeking (2022–2024).** I developed ideas through short professional essays (listed under _Blog posts & essays_ below) and applied to the IMLS-funded Institute for Research Design in Librarianship (IRDL) with a 12-page proposal, _Understanding Entrepreneurs' Information Search and Synthesis Behavior_, supported by letters from Dean Neil Romanosky, Laura Walesby, and Wendy Pothier (also a Reference for this Dossier). I was informed in March 2024 that I was not selected; the application work nonetheless moved the project materially forward and fed directly into the first paper below.
 
 **Phase 2 — Theory paper and interview study (2024–2026).** The _Journal of Business & Finance Librarianship_ article (below) articulates how entrepreneurs synthesize their own ideas, primary research, and library-supported secondary research, positioning information synthesis as the integrative work that ties them together. A second paper, currently under review, extends this with evidence gathered from librarians (IRB submitted February 2025; early feedback from Neil Baker, Purdue University).
 
@@ -66,7 +64,7 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 - _Truffle Pigs: An approach to two-shot instruction in Entrepreneurship 190_ (2023). Guest post on Steve Cramer's _Liaison Life_ blog; co-developed through our 2023 RUSA/BRASS mentorship. [Liaison Life (external) →](https://liaisonlife.wordpress.com/2023/06/15/terence-oneill/) · [Humanities Commons (external) →](https://works.hcommons.org/records/67hp6-4cg16/latest)
 - _Entrepreneurship education as fractals: Adding complexity to entrepreneurial ideas with library resources, from first plans to partner outreach_ (2022). [Humanities Commons (external) →](https://works.hcommons.org/records/bssef-fr944/latest)
 - _Teaching product-market fit with library resources_ (2022). [Humanities Commons (external) →](https://works.hcommons.org/records/xjf3e-94163/latest)
-- _Exploratory searching on a new topic_ (2022). Self-published, Medium.
+- _Exploratory searching on a new topic_ (2022). Self-published, Medium. https://medium.com/@terenceoneill3/exploratory-searching-on-a-new-topic-5f5d22051ca2
 
 ## Presentations
 
@@ -83,8 +81,7 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 
 ### Guest instruction (invited)
 
-- _Entrepreneurship Essentials._ Invited presentation for Meisei High School, Fuchu City, Saitama Prefecture, Japan (2023), at the invitation of entrepreneurship instructor Hajime-san.
-- _Knowledge & Creativity Exchange._ Presentation to MSU Libraries colleagues, December 9, 2024.
+- _Entrepreneurship Essentials._ Invited presentation for Meisei High School, Fuchu City, Saitama Prefecture, Japan (2023), at the invitation of entrepreneurship instructor Hajime Katawba.
 
 ## Exhibits and Other Creative Work
 
@@ -96,15 +93,13 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 
 - **IASSIST 2022 Program Sponsorship Award** ($500), for the MiALA Data Literacy Pop-Up Conference (Ledermann, Marcyk, Morin, O'Neill).
 - **Virtual Innovation Forum, "Bridging Technologies and Market Needs" — Second place, pitch competition** (2022). Team with Zeeshan (PhD student, India); concept: a microwave-based sensor for detecting counterfeit drugs.
-- **AT&T Faculty & Staff Award Competition in Instructional Technology — Honorable Mention**, _BUS 170: Introduction to Entrepreneurship_ (Wigner, A., O'Neill, T., Szymusiak, K.). _The recognized instructional work was completed Fall 2018–Spring 2019, predating the Dossier review period; included here as a prior honor in the same line of work._
+- **AT&T Faculty & Staff Award Competition in Instructional Technology — Honorable Mention** (2019). _BUS 170: Introduction to Entrepreneurship_ (Wigner, A., O'Neill, T., Szymusiak, K.). _The recognized instructional work was completed Fall 2018–Spring 2019, predating the Dossier review period.
 
 ## Professional Development
 
-Comprehensive, grouped by type. Several of these directly feed Criterion I and the research program above.
-
 ### Mentee experiences
 
-I have sought structured mentorship deliberately, as both a way to learn and a complement to the mentoring I provide (Cr. III).
+I have sought structured mentorship deliberately, as both a way to learn and as a complement to the mentoring I provide (Cr. III).
 
 - Christine Tobias — MSU Libraries Mentorship Program, 2019–2020.
 - Wiebke Kuhn (Director of Academic Technology, Carleton College) — EDUCAUSE Mentoring Program, February–August 2022.
@@ -113,7 +108,10 @@ I have sought structured mentorship deliberately, as both a way to learn and a c
 ### Intensive programs and certificates
 
 - EDUCAUSE Managers Institute — eight-week intensive cohort program; completed April 2021.
-- Special Libraries Association, Competitive & Decision Intelligence Certificate Program: _Published Source Collection — Managing the Function_ (INTEL-03, March 2022); _Scenario Analysis and Futures Techniques_ (INTEL-12, February 2022); _Knowledge Management for Competitive Intelligence_ (INTEL-06, October 2022).
+- Special Libraries Association, Competitive & Decision Intelligence Certificate Program: 
+	- _Published Source Collection — Managing the Function_ (INTEL-03, March 2022); 
+	- _Scenario Analysis and Futures Techniques_ (INTEL-12, February 2022); 
+	- _Knowledge Management for Competitive Intelligence_ (INTEL-06, October 2022).
 - Collaborative Institutional Training Initiative (CITI), _Technology Transfer_ — February 2022.
 - Coursera, _The Data Scientist's Toolbox_ — 2021.
 - Coursera, _Accelerate Your Learning with ChatGPT_ — May 14, 2025.
@@ -122,7 +120,7 @@ I have sought structured mentorship deliberately, as both a way to learn and a c
 
 ### Language study
 
-- Japanese — ongoing, supporting FSA Japan instruction and possible future research. Regular language exchange with a Tokyo-based high-school entrepreneurship/English educator; self-study via Kanshudo; progressing toward JLPT N4.
+- Japanese — ongoing, supporting FSA Japan instruction and possible future research. Regular language exchange with a Tokyo-based high-school entrepreneurship/English educator; self-study via a variety of materials; progressing toward JLPT N4, with self-administered test indicating N5-level knowledge has been achieved.
 
 ### Communities of practice and continued learning
 
@@ -132,13 +130,13 @@ I have sought structured mentorship deliberately, as both a way to learn and a c
 
 ### Conferences and webinars attended (selected)
 
-- ALA Annual Conference — San Diego (June 2024); Philadelphia (June 2025).
-- BRASS Online Symposium (April 2025); Midwest Data Librarians and EDUCAUSE Annual (2020–2021); Visualizing the Future; Beyond the Numbers.
+- ALA Annual Conference — Chicago (2023); San Diego (2024); Philadelphia (2025); Chicago (2026).
+- BRASS Online Symposium (April 2025); Midwest Data Librarians and EDUCAUSE Annual (2020–2021).
 - International Business Center sessions: _Qualitative Research in International Business_ (September 15, 2023); _AIB JIBS Decade Award_ webinar (April 11, 2023).
 - First-Year Seminar Abroad professional development (May 2023; _Incorporating the Sustainable Development Goals into Your FSA Course_, March 2024).
 - AI-focused webinars (2025): _Working Smarter with AI_ (Harvard Business School, January 22); _Community Capital: Changing the Paradigm_ (March 14); _AI-Resistant Assessment and AI-Enhanced Feedback_ (Broad College, May 5); _Critical Data Storytelling for Libraries_ (ALA, September 10); _Libraries and AI: The Student Perspective_ (MSUL, October 2).
 
 #### Related sections:
 
-- Cr. III: Innovate! Michigan moderation (CCED) — counted as service, cross-referenced here for the AI/circular-economy throughline
+- Cr. III: Innovate! Michigan moderation (CCED)
 - Cr. III: Mentorship (as mentor) via BRASS and MSUL

@@ -11,7 +11,7 @@ The major highlights:
 
 1. Helping implement a **culture of strategic planning** in MSU Libraries (Strategic Plan Implementation Team).
 2. Leading **ALA BRASS Education** through a series of transitions to more closely fit the needs of its community.
-3. Building **AI and digital-scholarship programming** for the communities I serve (BRASS, ACRL DSS, DH@MSU).
+3. Developing **AI and digital-scholarship programming** for the communities I serve (BRASS, ACRL DSS, DH@MSU).
 4. **Mentoring five early career professionals** via BRASS and MSUL.
 
 All point to contributions that help people and organizations adapt to changing needs, including collaborative strategic planning, carrying out those plans, and addressing how the work is changing.
@@ -26,7 +26,7 @@ BRASS work has been an important part of the transition back to being a business
 
 ### Education Committee
 
-- **Chair, Education Committee** (2025–2026). As chair, took the opportunity to update the committee's orientation; like many institutions, BRASS's recent history has had momentous shifts and the charge reflected out-dated understandings of the work. Worked closely with the Executive Committee to redistribute and manage workload, shifting away from activities reflecting charge drift, via separate meetings, correspondence, and facilitated discussion across Exec, BISC (Business Information Sources Committee, a peer), BISdex (a subcommittee), and Education (including the past chair). Charge updates:
+- **Chair, Education Committee** (2025–2026). As chair, took the opportunity to update the committee's orientation; like many institutions, BRASS's recent history has had momentous shifts and the charge reflected outdated understandings of the work. Worked closely with the Executive Committee to redistribute and manage workload, shifting away from activities reflecting charge drift. This work was accomplished via separate meetings, correspondence, and facilitated discussion across Exec, BISC (Business Information Sources Committee, a peer), BISdex (a subcommittee), and Education (including the past chair). Charge updates:
     - Sunset a recurring "award," **"Best of the Business Web,"** which suffered from ill-fit with Education's mandate and lacked appropriate distribution methods for connecting with readers.
     - Moved **BISdex** from Education to BISC.
     - Increased Education's emphasis on **creating programming**, more in line with the mission.
@@ -95,7 +95,7 @@ BRASS work has been an important part of the transition back to being a business
 Two substantive contributions to help BRASS members engage with AI:
 
 - **Contributor, BRASS AI LibGuide** (2023–2024) — primary contributor to the writing and formation of a highly viewed BRASS LibGuide; authored two pages: the front page and "Research."
-- **Chair, Conference Planning Committee — 2024 AI panel.** Drove creation of the 2024 AI panel beyond chairing the committee: suggested the original topic, helped shape panel representation, and personally recruited the panelists. Program: **"Demystifying AI for Business and Libraries,"** ALA Annual 2024 — a panel of a San Diego economic-development professional, an instructor of business-composition coursework, and an academic librarian. Personally recruited the moderator, the economic-development professional, and the academic librarian (and arranged a replacement when the original academic librarian could not participate); led the application and shepherded it through. Both AI projects were well received and popular.
+- **Chair, Conference Planning Committee — 2024 AI panel.** Drove creation of the 2024 AI panel beyond chairing the committee: suggested the original topic, helped shape panel representation, and personally recruited the panelists. Program: **"Demystifying AI for Business and Libraries,"** ALA Annual 2024 — a panel of a San Diego economic-development professional, an instructor of business-composition coursework, and an academic librarian. I personally recruited the moderator, the economic-development professional, and the academic librarian (and arranged a replacement when the original academic librarian could not participate); led the application and shepherded it through. Both AI projects were well received and popular.
 
 #### Artifacts
 
@@ -228,7 +228,7 @@ Here are the slides from the invited speaker. I helped select the topic, invite 
 
 ## Michigan Academic Library Association (MiALA)
 
-- **Member-at-Large, Administration Section** (2018–2020). _(Active at the start of the review window.)_
+- **Member-at-Large, Administration Section** (2018–2020).
 - **Co-organizer, MiALA Data Literacy Pop-Up Conference** (2022–2023) — initiated the planning conversations and led coordination with the MSU Writing Center and MSUL Special Collections, both of whom presented Data Literacy topics. MiALA- and iASSIST-funded. With Ledermann, Maryck, Morin, and Thielen.
 
 <details> <summary><strong>Artifact: Data Literacy Pop-Up blog post</strong></summary>
@@ -385,7 +385,7 @@ I served with CCED in varying capacities for several years, building conversance
 
 ## Other MSU Libraries Service
 
-- **Chair, Reading Committee** — Erik Ponder (2021); Joshua Sanchez (2022–2023).
+- **Member, Reading Committee** — Erik Ponder (2021); Joshua Sanchez (2022–2023).
 - **Member & Affirmative Action Advocate, Engineering (and Innovation) Librarian Search Committee** (2022) — provided input throughout; search not successful. Input informed by work with the College of Engineering.
 - **Member, Engineering and Innovation Librarian Search Committee** (2023) — a separate, later search; also not successful.
 - **Member, Library Space Planning Committee** (Oct 2022 – May 2023) — joined replacing a departing member.
@@ -396,7 +396,7 @@ I served with CCED in varying capacities for several years, building conversance
 
 **Member (2024); Chair (2025).** Co-Chair in 2024 was Nicole Smeltekop.
 
-MSU Libraries service in this period has been varied — Space Planning Committee, two search committees, the Reading Committee — but the role that stands out is the Strategic Plan Implementation Team. As member and then Chair, helped lead a number of developments as MSUL continues to develop its strategic-planning practices. The compiled artifacts indicate the collaborative work undertaken to refresh the Strategic Plan and further a _culture_ of strategic planning at MSUL — practices for how an organization sets goals, organizes to carry them out, measures progress, and communicates how goals have been met. Engagement here drew partly on strategic planning for the makerspace and Digital Scholarship Services units.
+MSU Libraries service in this period has been varied — Space Planning Committee, two search committees, the Reading Committee — but the role that stands out is the Strategic Plan Implementation Team. As member and then Chair, I helped lead a number of developments as MSUL continues to develop its strategic-planning practices. The compiled artifacts indicate the collaborative work undertaken to refresh the Strategic Plan and further a _culture_ of strategic planning at MSUL, including practices for how an organization sets goals, organizes to carry them out, measures progress, and communicates how goals have been met. Engagement here drew partly on strategic planning for the makerspace and Digital Scholarship Services units.
 
 **Timeline.** Early 2024: the Team was encouraged by Dean Neil Romanosky to create a process for refreshing the Strategic Plan. Summer 2024: planned an event for collecting input into the Plan (originally developed several years earlier). Late 2024: organized remarks/feedback; worked closely with then co-Chair Nicole Smeltekop to draft the report with regular input from the team. Distilled the feedback and implemented changes, leaving a draft state by early 2025. Federal-level changes to the relationship with higher education then affected MSUL and MSU more broadly; the Plan needed updating and publication was delayed. The Team incorporated those changes and published the refreshed Strategic Plan in **Fall 2025**.
 

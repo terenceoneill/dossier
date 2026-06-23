@@ -1,19 +1,11 @@
 ---
 title: Criterion I
 ---
-[[MOC Librarian III]]
-
 # Criterion I
 
 ## Introduction
 
-I connect entrepreneurship students to library resources and information literacy skills in formats and contexts that fit what they are learning. This is a visible, large, and growing portion of MSU's population, and I work to meet them where they are by integrating into the learning activities they already care about and working closely with an array of partners to deepen collaboration.
-
-Entrepreneurs do difficult, rich information work: they weave coherent, risky projects out of their own ideas, conversations with potential customers and partners, and the things they read. My principal work is helping nascent, beginner entrepreneurs develop these skillsets of information finding and synthesis. 
-
-The Entrepreneurship program I serve is well-regarded and broad: MSU is ranked #11 nationally for undergraduate entrepreneurship, with over 150 undergraduate majors represented in the Minor in Entrepreneurship & Innovation (2024–2025 Annual Report). Through the Minor and its co-curricular offerings, the Burgess Institute for Entrepreneurship and Innovation supports a diverse student body with a wide range of activities. I seek programmatic connections to that existing work, and I develop these connections in various ways: sometimes joining a model, sometimes connecting resources already in place, sometimes extending a model that works in another context. My career has run alongside the Minor itself (introduced 2018) and alongside Ken Szymusiak, Academic Director of the Burgess Institute, who joined MSU within six months of my own start.
-
-Alongside that core of information literacy and synthesis for entrepreneurs, these sub-areas of deep activity and expertise run through my role:  Community-conscious business, digital scholarship, international business, and Strategic planning and implementation.
+Criterion I covers the primary job duties of my roles as Head of Digital Scholarship Services (7/1/2019 - 9/15/2022) and Entrepreneurship Librarian (9/15/2022 - 6/30/2026). 
 
 To map my work in this space, I have organized my work for Criterion I as follows:
 - Information Literacy for Entrepreneurs
@@ -24,6 +16,11 @@ To map my work in this space, I have organized my work for Criterion I as follow
 - Digital Scholarship
 ## Information Literacy for Entrepreneurs
 
+I connect entrepreneurship students to library resources and information literacy skills in formats and contexts that fit what they are learning. This is a visible, large, and growing portion of MSU's population, and I work to meet them where they are by integrating into the learning activities they already care about and working closely with an array of partners to deepen collaboration.
+
+Entrepreneurs do difficult, rich information work: they weave coherent, risky projects out of their own ideas, conversations with potential customers and partners, and the things they read. My principal work is helping nascent, beginner entrepreneurs develop these skillsets of information finding and synthesis. 
+
+The Entrepreneurship program I serve is well-regarded and broad: MSU is ranked #11 nationally for undergraduate entrepreneurship, with over 150 undergraduate majors represented in the Minor in Entrepreneurship & Innovation (2024–2025 Annual Report). Through the Minor and its co-curricular offerings, the Burgess Institute for Entrepreneurship and Innovation supports this diverse student body with a wide range of activities. I seek programmatic connections to that existing work, and I develop these connections in various ways: sometimes co-developing a model over time, sometimes connecting resources to something already in place, sometimes extending a model that works in another context to MSU. My career has run alongside the Minor itself (introduced 2018) and alongside Ken Szymusiak, Academic Director of the Burgess Institute, who joined MSU within six months of my own start.
 ### Teaching at a glance
 
 Instruction is the largest consistent part of my role as Entrepreneurship Librarian. Two measures I'll present here: **sessions** (the number of times I present to a section) and **student-presentations** (total student-contact instances). The counts below come from the annual evaluations; not every year recorded both, so the grand total is given as a documented minimum rather than a precise figure.
@@ -37,18 +34,18 @@ Instruction is the largest consistent part of my role as Entrepreneurship Librar
 | 2025–26      | ESHP 190 + HRT 407, EGR 440, ESHP 101                                               | ~790                    | 32                        |
 |              |                                                                                     |                         |                           |
 Across the cycles with documented counts, that is **78+ sessions** (2022–23 through 2024–25 alone) and **4,500+ student-presentations** (2022–23, 2024–25, and 2025–26 alone). The 2021–22 and 2025–26 session counts and the 2021–22 and 2023–24 student-presentation counts weren't captured as single figures, so a complete 2019–2026 total would require reconstructing those years from records. I returned to the Entrepreneurship Librarian role in November 2021 (after leading Digital Scholarship Services), and launched the credit-bearing ESHP 491 in Spring 2026 (Cr. II).
-### ESHP 190: The Art of Starting (every semester)
+### ESHP 190: The Art of Starting
 
-ESHP 190, _The Art of Starting_, is a required course for the Entrepreneurship Minor and the single largest instruction opportunity for me. It is taught every Fall and Spring semester and is constructed with a division within the semester, with the first half consisting of lecture and the second half with team or individual based active engagement with various aspects of building our a business model. My responsibilities consist of a presentation to the full lecture (roughly 300 students each semester), followed later in the semester by "lab" time in sections, with up to twelve sections spread across four time slots in a day.
-I teach the large session alongside Ken Szymusiak. We present together, trade resources, and talk through emerging trends in entrepreneurship and information flows — often in front of the class. The lecture session is also where I promote the Makerspace, the Digital Scholarship Lab, and library programming such as the Midwest Entrepreneurship Case Competition and Love Data Week.
-The sections are where students are actively forming business ideas, individually or in teams. There I build hands-on activities that put the databases directly to work in the context of their own ventures.
+ESHP 190, _The Art of Starting_, is a required course for the Entrepreneurship Minor and the single largest instruction opportunity for me. It is taught every Fall and Spring semester and is constructed with a division within the semester, with the first half consisting of lecture and the second half with team or individual based active engagement with various aspects of building out a business model (referred to below as 'labs'). My responsibilities consist of a presentation to the full lecture (roughly 300 students each semester), followed later in the semester by lab time in sections, with up to twelve sections spread across four time slots in a day.
+I teach the large lecture session alongside Ken Szymusiak. We present together, trade resources, and talk through emerging trends in entrepreneurship and information flows, modeling different perspectives and processes. During the lecture session I also promote the Makerspace, the Digital Scholarship Lab, and library programming such as the Midwest Entrepreneurship Case Competition and Love Data Week.
+The labs sections are where students are actively forming business ideas, individually or in teams. There I build hands-on activities that put the databases directly to work in the context of their ventures.
 
 Over the review period I developed three distinct section structures:
 - **AI-infused** — technology integration (e.g., FS24's experiment moving between AI-generated customer narration and database-grounded detail).
 - **Consider the mix** — synthesizing across source types.
 - **Frameworks first** — develop your own system, then research into it.
 
-Sections are rarely just Ken's: as many as six section instructors teach across a single day, some with their own emphases (one stand-alone section has focused on social entrepreneurship). Stakeholder management across those instructors — and management of my own energy across a full teaching day --  is a genuine part of the work. Through this vehicle, I reach hundreds of students every semester with introductory exposure to several databases and smaller-group follow-up (still often 80+ students), seeing these information-literacy concepts multiple times. I refresh the content every semester, modeling a new (and usually not the best) business idea each time so the search work stays fresh and I keep wearing the student-entrepreneur's hat.
+Sections are rarely just Ken's: as many as six section instructors teach across a single day, some with their own emphases, such as social entrepreneurship. Stakeholder management across those instructors as well as management of my own energy across a full teaching day are genuinely important parts of the work. Through this vehicle, I reach hundreds of students every semester with introductory exposure to several databases and smaller-group follow-up (still often 80+ students), seeing these information-literacy concepts multiple times. I refresh the content every semester, modeling a new (and usually not the best) business idea each time so the search work stays fresh and I keep wearing the student-entrepreneur's hat.
 For context: William Langston served as Entrepreneurship Librarian 2019–2020 and presented to this course during that time.
 #### Artifacts
 
@@ -59,9 +56,9 @@ For context: William Langston served as Entrepreneurship Librarian 2019–2020 a
 - Letter of recommendation: Ken Szymusiak
 - Cr. II: _Librarian support of entrepreneurs_ (JBFL, 2026)
 ### Liaison instruction across the curriculum and co-curriculum
-Because the Minor draws students from across MSU, I develop relationships and field invitations to work with courses throughout the curriculum, and I coach students in co-curricular settings. Courses and venues during the review period include:
+Because the Minor draws students from across MSU, I develop relationships and field invitations to work with courses throughout the curriculum, and I coach students in co-curricular settings. One feature of this work is that I may collaborate closely with Library colleagues. Courses and venues during the review period include:
 
-- **BE / EGR 440** — Entrepreneurial Engineering for Innovation in Health and Safety (Evangeline Alocilja; collaborative session with Sheila Bryant). _The related GARD conference talk is listed in Cr. II._
+- **BE / EGR 440** — Entrepreneurial Engineering for Innovation in Health and Safety (Evangeline Alocilja; collaborative sessions with Tom Volkening, Sheila Bryant, and Andrea Kepsel).
 - **MGT 352** — with Laurel Ofstein, faculty director of the Burgess Institute (2024–25).
 - **HRT 407** — in collaboration with Suzi Teghtmeyer (~20 students per session).
 - **ESHP 101**, **ESHP 480** (first-time outreach, 2023–24), **BUS 100 / BUS 101**, Hospitality Business, Engineering Entrepreneurship, and the International Business Student Association.
@@ -81,7 +78,7 @@ Because the Minor draws students from across MSU, I develop relationships and fi
 
 In 2022, looking to build projects that fit students' interests while foregrounding information literacy, I brainstormed a case competition with Heather Howard of Purdue University. Case competitions matter at MSU: the Broad College's stated goal is that every undergraduate participate in one. Heather and I were motivated to create a _new_ one in a crowded field that deliberate focused on **information synthesis for entrepreneurship**: how students integrate information across secondary resources such as library databases to develop and support their arguments.
 
-Working with business librarians across several Midwest institutions, we built and grew the event over three cycles. My contributions: seeding the concept, recruiting the planning team, reading and selecting cases, drafting materials, securing sponsors, and recruiting judges and partner schools (including MSU's Ken Szymusiak). I will continue to be directly involved as we continue to our next 
+Working with business librarians across several Midwest institutions, my collaborators and I built and grew the event over three cycles. My contributions: seeding the concept, recruiting the planning team, reading and selecting cases, drafting various materials, and recruiting judges and partner schools (including MSU's Ken Szymusiak). I will continue to be directly involved as we continue to our next iteration.
 
 - **2023–24 (Year 1):** first running; sponsor SimplyAnalytics; students from five universities.
 - **2024–25 (Year 2):** 96 registrants across 27 teams from five schools (MSU fielded three); new sponsor Sage Business Cases; finals brought together the sponsor, the case's real entrepreneur, and the top five teams.
@@ -92,7 +89,7 @@ Working with business librarians across several Midwest institutions, we built a
 - _[Origination of the concept — early planning correspondence]_
 # Email correspondence: Origins of the Entrepreneurship Case Competition (MECC)
 
-_Thread between Terence O'Neill (MSU), Heather Howard (Purdue), and Ilana Stonebraker (Indiana University), June–October 2022, documenting the initial invitation and planning for what became the Entrepreneurship Case Competition. Presented in chronological order; Outlook boilerplate and link-wrapping removed._
+_Thread between Terence O'Neill (MSU), Heather Howard (Purdue), and Ilana Stonebraker (Indiana University), June–October 2022, documenting the initial invitation and planning for what became the Entrepreneurship Case Competition. Presented in chronological order._
 
 > [!quote] Terence O'Neill → Heather Howard, Ilana Stonebraker — June 10, 2022 Happy Friday afternoon!
 > 
@@ -248,7 +245,7 @@ As liaison to MSU's Center for Ethical and Socially Responsible Leadership (CESR
 
 ### Ethics Week Panel 2026: "AI, Information Systems, and Knowledge" (February 18, 2026)
 
-I designed and convened this panel as part of my CESRL liaison work; it also served MSU's institutional Ethics Week, extending reach well beyond library audiences. I created the theme, recruited and aligned the panelists, met with them to narrow the sub-topics, coordinated logistics, and developed the questions across multiple rounds.
+I designed and convened this panel as part of my CESRL liaison work; it also served MSU's institutional Ethics Week, extending reach well beyond library audiences. For this panel, I created the theme, recruited and aligned the panelists, met with them to narrow the sub-topics, coordinated logistics, and developed the questions across multiple rounds.
 
 The panel brought together expertise across disciplines: media and information policy (Johannes Bauer, Quello Chair, College of Communication Arts and Sciences), library copyright stewardship (Susan Kendall, Head of Collection Strategies and Copyright Librarian), teaching and learning innovation (Marcio Oliveira, Vice Provost for Teaching and Learning Innovation), and computer science research (Sara Rezaeimanesh, PhD candidate, College of Engineering). It was moderated by Kay Firth-Butterfield (CEO, Good Tech Advisory; inaugural Head of AI and Machine Learning at the World Economic Forum) and introduced by Dean Neil Romanosky. 41 attendees came from across campus.
 
@@ -359,7 +356,7 @@ Correspondence from a colleague at the Regional Economic Innovation (REI) progra
 - Criterion I → Digital Scholarship
 # Adult Workforce Development Referrals — Lenawee Now (June 2024)
 
-Correspondence documenting reference and referral support for Lenawee Now (Bill Blackerby and Randy Yagiela), a county economic development organization working on adult training and education pathways through the Align Center for Workforce Development. Following an in-person meeting, Terence synthesized leads spanning state agencies (LEO, MEDC), philanthropic funders (Ascendium), regional network contacts, and mature model programs in Indiana and Maine — coordinated with Arnold Weinfeld (MSU), who contributed contacts and agency recommendations. Bill's reply confirms the leads were new and actionable, with follow-up comparison work planned (Ascendium vs. CAEL).
+Correspondence documenting reference and referral support for Lenawee Now (Bill Blackerby and Randy Yagiela), a county economic development organization working on adult training and education pathways through the Align Center for Workforce Development. Following an in-person meeting, I synthesized leads spanning state agencies (LEO, MEDC), philanthropic funders (Ascendium), regional network contacts, and mature model programs in Indiana and Maine — coordinated with Arnold Weinfeld (MSU), who contributed contacts and agency recommendations. Bill's reply confirms the leads were new and actionable, with follow-up comparison work planned (Ascendium vs. CAEL).
 
 ---
 
@@ -396,22 +393,18 @@ Correspondence documenting reference and referral support for Lenawee Now (Bill 
 
 ## International Business
 
-International business is a developing and increasingly coherent area of my liaison work, and one that connects directly to my teaching in Japan, my language study, and the directions I expect to take on next.
+International business is a developing and increasingly coherent area of my liaison work. This area threads through the rest of my work and points forward: it underpins my First-Year Seminar Abroad teaching in Japan (Cr. II), is reinforced by my ongoing Japanese-language study (Cr. II) and my service on MSU's Japan Council (Cr. III), and sets up future directions.
 
 - **International Business Center (IBC / CIBER) partnership** — a longstanding Gast relationship I help sustain, serving as a contact on database status and attending the Center's research presentations to stay current with international-business research practice (e.g., sessions in 2023; specific sessions are listed under Cr. II professional development).
-- **MBA entrepreneurship / foreign-market research workshop** (2024–25) — on short notice, I created ten customized, country-specific database resource guides for a week-long workshop led by K. Szymusiak and S. Redd, directing students to MSU and external international-business resources.
+- **MBA entrepreneurship / foreign-market research workshop** (2024–25) — I created ten customized, country-specific database resource guides for a week-long workshop led by K. Szymusiak and S. Redd, directing students to MSU and external international-business resources.
 - **International Business Student Association** — presentation/engagement (2024–25).
 
-This area threads through the rest of my work and points forward: it underpins my First-Year Seminar Abroad teaching in Japan (Cr. II), is reinforced by my ongoing Japanese-language study (Cr. II) and my service on MSU's Japan Council (Cr. III), and sets up future directions — including comparative attention to how libraries support entrepreneurs across national contexts.
-
 #### Artifacts
-
-
 - 
 
 # IBSO Guest Presentation — International Business Resources (February 6, 2024)
 
-Correspondence documenting an invited presentation to the International Business Student Organization (IBSO), a Broad College student group. A student executive board member requested a Gast Business Library speaker on resources for exploring, researching, and keeping current with international business; Terence presented in person at the February 6, 2024 meeting. The follow-up note confirms student impact secondhand ("multiple people came tell me afterwards how much they learned") and includes a return invitation. The thread closes with individual mentoring: the student, a Japanese minor, asked about Japan programs, and Terence connected his FSA Japan teaching experience to a referral toward JCMU and Broad education abroad options.
+Correspondence documenting an invited presentation to the International Business Student Organization (IBSO), a Broad College student group. A student executive board member requested a Gast Business Library speaker on resources for exploring, researching, and keeping current with international business; I presented in person at the February 6, 2024 evening meeting. The follow-up note confirms student impact secondhand ("multiple people came tell me afterwards how much they learned") and includes a return invitation. The thread closes with individual mentoring: the student, a Japanese minor, asked about Japan programs, and I connected his FSA Japan teaching experience to a referral toward JCMU and Broad education abroad options.
 
 ---
 
@@ -498,10 +491,10 @@ Correspondence documenting library support for the Full-Time MBA capstone corpor
 
 ### Head of Digital Scholarship Services (2018–2021)
 
-Before returning to the Entrepreneurship Librarian role, I led Digital Scholarship Services, helping the Digital Scholarship Lab (DSL) through its first years amid heavy transitions in the field and at MSUL — including navigating COVID closures, modified policies, and reopening. During this time the DSL:
+Before returning to the Entrepreneurship Librarian role, I led the Digital Scholarship Services Unit, helping the Digital Scholarship Lab (DSL) through its first years amid heavy transitions in the field and at MSUL — including navigating COVID closures, modified policies, and reopening. During this time the DSL:
 
-- Established tentpole activities that continue today — project mentorship, the Immersive Visualization Institute, and the Arts Fellowship.
-- Formed the core team architecture still in place — including hiring Paul Cooper and creating and filling the staffing-coordinator role (and hiring Makerspace Coordinator Jamie Moriarty, September 2019).
+- Established tentpole activities that continue today, including the Project Incubator, the Immersive Visualization Institute, and the College of Arts and Letters (CAL) Arts Fellowship.
+- Formed the core team architecture still in place — including hiring Paul Cooper as Transformative Technologies Coordinator and creating and filling the staffing-coordinator role (and separately hiring Makerspace Coordinator Jamie Moriarty, September 2019).
 - Templated practices that have persisted, and built early models for supporting courses, particularly in 360° capture and 360° video.
 
 I'm grateful for the supervision (T. Miller, L. Walesby, B. Silver) that made these transitions possible, and for the teams (P. Cooper, J. Moriarty, M. Kudzia, A. Tickner, among others) that built structures still in use.
@@ -515,7 +508,7 @@ I'm grateful for the supervision (T. Miller, L. Walesby, B. Silver) that made th
 
 ### Data literacy and ongoing connectivity to innovation spaces (2019–present)
 
-Even after moving back to entrepreneurship, I continue to connect students to the Main Library's innovation spaces — bringing classes to the DSL and Makerspace and coordinating with J. Wadland, Y. Cantrell, and J. Moriarty. These tours and introductions regularly seed longer collaborations (for example, Dan Trego and the Makerspace), and I run data-visualization work such as the Love Data Week sessions.
+Even after moving back to entrepreneurship, I continue to connect students to the Main Library's innovation spaces, such as by bringing classes to the DSL and Makerspace and coordinating with J. Wadland, Y. Cantrell, and J. Moriarty. These tours and introductions regularly seed longer collaborations (for example, Dan Trego and the Makerspace have continued to work together on integrating 3D Printing into an entrepreneurship course).
 
 #### Artifacts
 
