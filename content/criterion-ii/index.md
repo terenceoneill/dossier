@@ -23,18 +23,31 @@ Since submitting my Librarian II dossier in Summer 2019, I have taught seven cre
 
 The first-day introductory deck links course content to the students' physical setting: it includes a mini-case on the MSU STEM Teaching and Learning Facility — the mass-timber building the class was sitting in — as circular-economy principles in practice. Paired with it is an essay assignment completed late in the students' time in Japan.
 
-<details> <summary><strong>FSA Japan 2024 — introductory slides</strong></summary> <!-- Replace SRC with the Google Drive embed link for the slide deck --> <iframe src="REPLACE_WITH_DRIVE_EMBED_LINK" width="100%" height="480" allow="autoplay"></iframe> </details> <details> <summary><strong>FSA Japan 2024 — essay assignment</strong></summary> <!-- Replace SRC with the Google Drive embed link for the essay/assignment PDF --> <iframe src="REPLACE_WITH_DRIVE_EMBED_LINK" width="100%" height="480"></iframe> </details>
+<details>
+<summary><strong>FSA Japan 2024 — introductory slides</strong></summary>
 
-#### Related sections:
+_[Embed pending — paste the deck's Drive embed URL into the iframe src below, then delete this line. Use /presentation/d/ID/embed for native Slides or /file/d/ID/preview for a Drive file; deck must be "Anyone with the link can view."]_
 
-- Cr. I: Entrepreneurship instruction and embedded reference (ESHP 190, BUS 100/101, GARD, Product Center, CCED)
-- Cr. III: BRASS and MSUL mentorship (Logic Model framework)
+<!-- <iframe src="EMBED_URL" width="100%" height="480" allow="autoplay"></iframe> -->
+
+</details>
+
+<details>
+<summary><strong>FSA Japan 2024 — essay assignment</strong></summary>
+
+_[Embed pending — paste the assignment PDF's Drive embed URL into the iframe src below, then delete this line. Use /file/d/ID/preview for a Drive file; file must be "Anyone with the link can view."]_
+
+<!-- <iframe src="EMBED_URL" width="100%" height="480"></iframe> -->
+
+</details>
+
+**Related sections:** Cr. I: Entrepreneurship instruction and embedded reference (ESHP 190, BUS 100/101, GARD, Product Center, CCED) · Cr. III: BRASS and MSUL mentorship (Logic Model framework)
 
 ## Publications
 
 ### Research program: Entrepreneurs' information synthesis
 
-This is the through-line of my scholarship and grows directly out of my work as Entrepreneurship Librarian. The gap it addresses sits between two fields: business librarianship and entrepreneurship education both under examine how entrepreneurs synthesize information across sources as they form business models. My program explores how entrepreneurs use secondary information effectively and how librarians can contribute to that process. It has unfolded in three phases.
+This is the through-line of my scholarship and grows directly out of my work as Entrepreneurship Librarian. The gap it addresses sits between two fields: business librarianship and entrepreneurship education both under-examine how entrepreneurs synthesize information across sources as they form business models. My program explores how entrepreneurs use secondary information effectively and how librarians can contribute to that process. It has unfolded in three phases.
 
 **Phase 1 — Exploratory writing and grant-seeking (2022–2024).** I developed ideas through short professional essays (listed under _Blog posts & essays_ below) and applied to the IMLS-funded Institute for Research Design in Librarianship (IRDL) with a 12-page proposal, _Understanding Entrepreneurs' Information Search and Synthesis Behavior_, supported by letters from Dean Neil Romanosky, Laura Walesby, and Wendy Pothier (also a Reference for this Dossier). I was informed in March 2024 that I was not selected; the application work nonetheless moved the project materially forward and fed directly into the first paper below.
 
@@ -64,7 +77,7 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 - _Truffle Pigs: An approach to two-shot instruction in Entrepreneurship 190_ (2023). Guest post on Steve Cramer's _Liaison Life_ blog; co-developed through our 2023 RUSA/BRASS mentorship. [Liaison Life (external) →](https://liaisonlife.wordpress.com/2023/06/15/terence-oneill/) · [Humanities Commons (external) →](https://works.hcommons.org/records/67hp6-4cg16/latest)
 - _Entrepreneurship education as fractals: Adding complexity to entrepreneurial ideas with library resources, from first plans to partner outreach_ (2022). [Humanities Commons (external) →](https://works.hcommons.org/records/bssef-fr944/latest)
 - _Teaching product-market fit with library resources_ (2022). [Humanities Commons (external) →](https://works.hcommons.org/records/xjf3e-94163/latest)
-- _Exploratory searching on a new topic_ (2022). Self-published, Medium. https://medium.com/@terenceoneill3/exploratory-searching-on-a-new-topic-5f5d22051ca2
+- _Exploratory searching on a new topic_ (2022). Self-published, Medium. [Medium (external) →](https://medium.com/@terenceoneill3/exploratory-searching-on-a-new-topic-5f5d22051ca2)
 
 ## Presentations
 
@@ -77,7 +90,8 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 - O'Neill, T., Perentesis, S., & Tans, E. _Sustainability Canvas._ Libraries 2.020 Online Conference, October 2020.
 - Cregan-Evans, N., & O'Neill, T. _Using IglooVision Technology in a Higher-Education Environment._ EdTechX Online Conference, May 2020.
 
-> [!quote] Unsolicited feedback after the BRASS Logic Modeling talk Terence — I don't know if you've heard about what's happening at [redacted], but I just watched your presentation from last week and it hit home for me! So many of us are exiting the pandemic having to reflect hard on our changed jobs and the nature of what we do. Your presentation was very timely. Thanks for your approach! It was helpful to have a framework to reflect on these things.
+> [!quote] Unsolicited feedback after the BRASS Logic Modeling talk
+> Terence — I don't know if you've heard about what's happening at [redacted], but I just watched your presentation from last week and it hit home for me! So many of us are exiting the pandemic having to reflect hard on our changed jobs and the nature of what we do. Your presentation was very timely. Thanks for your approach! It was helpful to have a framework to reflect on these things.
 
 ### Guest instruction (invited)
 
@@ -93,7 +107,7 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 
 - **IASSIST 2022 Program Sponsorship Award** ($500), for the MiALA Data Literacy Pop-Up Conference (Ledermann, Marcyk, Morin, O'Neill).
 - **Virtual Innovation Forum, "Bridging Technologies and Market Needs" — Second place, pitch competition** (2022). Team with Zeeshan (PhD student, India); concept: a microwave-based sensor for detecting counterfeit drugs.
-- **AT&T Faculty & Staff Award Competition in Instructional Technology — Honorable Mention** (2019). _BUS 170: Introduction to Entrepreneurship_ (Wigner, A., O'Neill, T., Szymusiak, K.). _The recognized instructional work was completed Fall 2018–Spring 2019, predating the Dossier review period.
+- **AT&T Faculty & Staff Award Competition in Instructional Technology — Honorable Mention** (2019). _BUS 170: Introduction to Entrepreneurship_ (Wigner, A., O'Neill, T., Szymusiak, K.). _The recognized instructional work was completed Fall 2018–Spring 2019, predating the Dossier review period._
 
 ## Professional Development
 
@@ -108,10 +122,10 @@ I have sought structured mentorship deliberately, as both a way to learn and as 
 ### Intensive programs and certificates
 
 - EDUCAUSE Managers Institute — eight-week intensive cohort program; completed April 2021.
-- Special Libraries Association, Competitive & Decision Intelligence Certificate Program: 
-	- _Published Source Collection — Managing the Function_ (INTEL-03, March 2022); 
-	- _Scenario Analysis and Futures Techniques_ (INTEL-12, February 2022); 
-	- _Knowledge Management for Competitive Intelligence_ (INTEL-06, October 2022).
+- Special Libraries Association, Competitive & Decision Intelligence Certificate Program:
+    - _Published Source Collection — Managing the Function_ (INTEL-03, March 2022);
+    - _Scenario Analysis and Futures Techniques_ (INTEL-12, February 2022);
+    - _Knowledge Management for Competitive Intelligence_ (INTEL-06, October 2022).
 - Collaborative Institutional Training Initiative (CITI), _Technology Transfer_ — February 2022.
 - Coursera, _The Data Scientist's Toolbox_ — 2021.
 - Coursera, _Accelerate Your Learning with ChatGPT_ — May 14, 2025.
@@ -136,7 +150,4 @@ I have sought structured mentorship deliberately, as both a way to learn and as 
 - First-Year Seminar Abroad professional development (May 2023; _Incorporating the Sustainable Development Goals into Your FSA Course_, March 2024).
 - AI-focused webinars (2025): _Working Smarter with AI_ (Harvard Business School, January 22); _Community Capital: Changing the Paradigm_ (March 14); _AI-Resistant Assessment and AI-Enhanced Feedback_ (Broad College, May 5); _Critical Data Storytelling for Libraries_ (ALA, September 10); _Libraries and AI: The Student Perspective_ (MSUL, October 2).
 
-#### Related sections:
-
-- Cr. III: Innovate! Michigan moderation (CCED)
-- Cr. III: Mentorship (as mentor) via BRASS and MSUL
+**Related sections:** Cr. III: Innovate! Michigan moderation (CCED) · Cr. III: Mentorship (as mentor) via BRASS and MSUL
