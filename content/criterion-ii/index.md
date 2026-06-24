@@ -34,7 +34,7 @@ The first-day introductory deck links course content to the students' physical s
 
 ### Research program: Entrepreneurs' information synthesis
 
-This is the through-line of my scholarship and grows directly out of my work as Entrepreneurship Librarian. The gap it addresses sits between two fields: business librarianship and entrepreneurship education both underexamine how entrepreneurs synthesize information across sources as they form business models. My program explores how entrepreneurs use secondary information effectively and how librarians can contribute to that process. It has unfolded in three phases.
+This is the through-line of my scholarship and grows directly out of my work as Entrepreneurship Librarian. The gap it addresses sits between two fields: business librarianship and entrepreneurship education both under examine how entrepreneurs synthesize information across sources as they form business models. My program explores how entrepreneurs use secondary information effectively and how librarians can contribute to that process. It has unfolded in three phases.
 
 **Phase 1 — Exploratory writing and grant-seeking (2022–2024).** I developed ideas through short professional essays (listed under _Blog posts & essays_ below) and applied to the IMLS-funded Institute for Research Design in Librarianship (IRDL) with a 12-page proposal, _Understanding Entrepreneurs' Information Search and Synthesis Behavior_, supported by letters from Dean Neil Romanosky, Laura Walesby, and Wendy Pothier (also a Reference for this Dossier). I was informed in March 2024 that I was not selected; the application work nonetheless moved the project materially forward and fed directly into the first paper below.
 

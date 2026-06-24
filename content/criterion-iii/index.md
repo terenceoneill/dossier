@@ -98,26 +98,11 @@ Two substantive contributions to help BRASS members engage with AI:
 - **Chair, Conference Planning Committee — 2024 AI panel.** Drove creation of the 2024 AI panel beyond chairing the committee: suggested the original topic, helped shape panel representation, and personally recruited the panelists. Program: **"Demystifying AI for Business and Libraries,"** ALA Annual 2024 — a panel of a San Diego economic-development professional, an instructor of business-composition coursework, and an academic librarian. I personally recruited the moderator, the economic-development professional, and the academic librarian (and arranged a replacement when the original academic librarian could not participate); led the application and shepherded it through. Both AI projects were well received and popular.
 
 #### Artifacts
+▪ [**Artifact link: "BRASS AI for Business Librarians" LibGuide**(external)](https://brass.libguides.com/ai)
 
-<details> <summary><strong>Artifact: "BRASS AI for Business Librarians" LibGuide</strong></summary>
+▪ [**Artifact link: **BRASS AI LibGuide usage stats***(external)](https://brass.libguides.com/c.php?g=1374580&p=10162531)
 
-I created the first page and Research page.
-
-[LibGuide link (external) →](https://brass.libguides.com/ai)
-
-</details> <details> <summary><strong>Artifact: BRASS AI LibGuide usage stats</strong></summary>
-
-A screengrab of view usage for "BRASS AI for Business Librarians" LibGuide.
-
-[Screen grab (external) →](https://drive.google.com/file/d/1CUg4o7wRStUPaw6kv8k0a7wpx57NS6hx/view?usp=drive_link)
-
-</details> <details> <summary><strong>Artifact: "Demystifying AI for Business and Libraries" LibGuide</strong></summary>
-
-"2024 BRASS Program - Demystifying AI for Business and Libraries" LibGuide.
-
-[LibGuide link (external) →](https://brass.libguides.com/c.php?g=1374580&p=10162531)
-
-</details>
+▪ [**Artifact link: "Demystifying AI for Business and Libraries" Libguide**(external)](https://brass.libguides.com/c.php?g=1374580&p=10162531)
 
 ### Conference Planning Committee (other years)
 
@@ -126,13 +111,7 @@ A screengrab of view usage for "BRASS AI for Business Librarians" LibGuide.
 
 #### Artifacts
 
-<details> <summary><strong>Artifact: "Passion Project to Socially Conscious Business: Librarians Building Communities One Story at a Time" slides</strong></summary>
-
-I helped create the event, including selecting panelists and crafting framing questions.
-
-[Slides link (external) →](https://drive.google.com/file/d/1lYpadP56AF6eXSYeVyu2hJn-ZGkcgQc7/view?usp=sharing)
-
-</details>
+<details> <summary><strong>Artifact: "Passion Project to Socially Conscious Business: Librarians Building Communities One Story at a Time" slides</strong></summary> <!-- Replace SRC with the Google Drive embed link for the slide deck --> <iframe src="[Link](https://drive.google.com/file/d/1lYpadP56AF6eXSYeVyu2hJn-ZGkcgQc7/view?usp=sharing)" width="100%" height="480" allow="autoplay"></iframe> </details>
 
 ### Other BRASS committees and roles
 
@@ -163,13 +142,9 @@ Another characteristic: bringing mentees further into the peer community so they
 
 #### Artifacts
 
-<details> <summary><strong>Artifact: "Mentorship: Logic Models" slides</strong></summary>
+<details> <summary><strong>Artifact: "Mentorship: Logic Models" slides</strong></summary> Slides I use to introduce the Logic Model framework to mentees and to anchor our discussions. <iframe src="https://docs.google.com/presentation/d/1U7Cu7_PPl0eSM8fsZSQe_8KpCT4RlM7x/embed" width="100%" height="480" allow="autoplay"></iframe> </details>
 
-Slides I use to introduce the Logic Model framework to mentees and to anchor our discussions.
-
-[Slides link (external) →](https://docs.google.com/presentation/d/1U7Cu7_PPl0eSM8fsZSQe_8KpCT4RlM7x/edit?usp=drive_link&ouid=111995156214073893299&rtpof=true&sd=true)
-
-</details> <details> <summary><strong>Artifact: Email correspondence re: peer invitation</strong></summary> Email correspondence regarding a former mentee speaking to a then-current mentee.
+<details> <summary><strong>Artifact: Email correspondence re: peer invitation</strong></summary> Email correspondence regarding a former mentee speaking to a then-current mentee.
 
 > **From:** Terence O'Neill <br> **Subject:** Invitation to join a mentee meeting <br> **Date:** February 2025
 > 
@@ -218,32 +193,19 @@ Slides I use to introduce the Logic Model framework to mentees and to anchor our
 > 
 > Hi [redacted], I hope you are doing well. I have so enjoyed your perspective in our Educause Mentorship discussions, and I wanted to see if you would be interested in sharing with a librarian audience in a relaxed setting. I'm one of the co-conveners of the Digital Scholarship Centers (DSC) Discussion Group in the Digital Scholarship Section (DSS) within ACRL. My co-convener and I are planning our third discussion meeting for this upcoming summer, loosely envisioned around the topic of assessment from two perspectives. I'm thinking you could speak as a current and past administrator of a portfolio of technology-enabled teaching and learning services and spaces, but not focused on library work. Possible jumping-off points: a brief overview of your work; how you think about assessment as an administrator; how you determine the metrics by which units are assessed; how you navigate the needs of superiors and communicate a unit's value to stakeholders; how you use assessment outcomes to introduce change or advocate change with internal administrators and external partners; and anything else of significance. Hoping for you and one other panelist; brief presentations around 15 minutes each, followed by questions and discussion. The group is generally informal — a virtual means of sharing knowledge and fostering discussion and networking among DSC coordinators and staff (just under 600 members; ~25 typically attend). Preliminarily Thursday, June 16, 2022, noon–12:55 EST, pending panel availability; later October or early November would work equally well. Regards, Terence
 
-</details> <details> <summary><strong>Artifact: DSS Discussion Group invited speaker slides</strong></summary>
-
-Here are the slides from the invited speaker. I helped select the topic, invite the speaker, and coordinate the event. Notably, this talk and the author's work had a significant impact on how I work Logic Models into my own work in Libraries.
-
-[Slides from invited talk (external) →](https://buckeyemailosu-my.sharepoint.com/:p:/r/personal/longmeier_10_osu_edu/_layouts/15/Doc.aspx?sourcedoc=%7BDA0CFD45-1E01-457B-A81F-374A8D384D7A%7D&file=assessmentDSCIG20220616.pptx&action=edit&mobileredirect=true)
-
-</details>
+</details> 
+▪ [**Artifact link: DSS Discussion Group invited speaker slides**(external)]([https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing](https://buckeyemailosu-my.sharepoint.com/:p:/r/personal/longmeier_10_osu_edu/_layouts/15/Doc.aspx?sourcedoc=%7BDA0CFD45-1E01-457B-A81F-374A8D384D7A%7D&file=assessmentDSCIG20220616.pptx&action=edit&mobileredirect=true))
 
 ## Michigan Academic Library Association (MiALA)
 
 - **Member-at-Large, Administration Section** (2018–2020).
 - **Co-organizer, MiALA Data Literacy Pop-Up Conference** (2022–2023) — initiated the planning conversations and led coordination with the MSU Writing Center and MSUL Special Collections, both of whom presented Data Literacy topics. MiALA- and iASSIST-funded. With Ledermann, Maryck, Morin, and Thielen.
 
-<details> <summary><strong>Artifact: Data Literacy Pop-Up blog post</strong></summary>
+### Artifacts
 
-Here is a blog post written for our external funder, iASSIST. I was a contributing author on the blog post, and it does a nice job of summarizing the event.
+▪ [**Artifact link: Data Literacy Pop-Up blog post**(external)]([https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing](https://iassistdata.org/blog/2023/01/31/data-literacy-mini-conference/))
 
-[Blog post on event for funding organization, iASSIST (external) →](https://iassistdata.org/blog/2023/01/31/data-literacy-mini-conference/)
-
-</details> <details> <summary><strong>Artifact: Data Literacy Pop-Up event schedule</strong></summary>
-
-This is the event schedule. I had a major hand in every aspect of planning this event.
-
-[Schedule hosted on MiALA website (external) →](https://miala.org/data_literacy_mini-conference.php)
-
-</details>
+▪ [**Artifact link: Data Literacy Pop-Up event schedule**(external)]([https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing](https://miala.org/data_literacy_mini-conference.php))
 
 ## External Review (other institutions)
 
@@ -458,3 +420,4 @@ Elise Jajuga led the creation and running of this event. I helped convene it, he
 > Thanks for highlighting this, Terence. Alex and I have been discussing this and will take this into account. Thanks for all that you've done in this space!
 
 </details>
+
