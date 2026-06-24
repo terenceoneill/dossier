@@ -13,7 +13,6 @@ To map my work in this space, I have organized Criterion I as follows:
 - Reference & Research Consultation
 - Gast Business Library (Collection & Operations)
 - Community-conscious Business
-- Community-Centric Economic Development (CCED)
 - International Business
 - Digital Scholarship
 
@@ -276,7 +275,7 @@ For a CESRL-run Broad College student debate — "Is nuclear power an appropriat
 
 ▪ [**Artifact link: CESRL debate LibGuide — nuclear power for data centers** (external)](https://libguides.lib.msu.edu/nuclearfordatacenters)
 
-## Community-Centric Economic Development (CCED)
+### Community-Centric Economic Development (CCED)
 
 I am the only librarian on the CCED Consultative Panel, and I take on occasional deep, community-impact projects that also sharpen my understanding of how non-academic users synthesize secondary information.
 
@@ -284,7 +283,7 @@ I am the only librarian on the CCED Consultative Panel, and I take on occasional
 - **Align Center, Lenawee County** (2024) — a variation on market research: helping a community-development organization understand local residents who have graduated high school but are not currently in school or employment, including organizing their information search, recommending knowledge-management practices, and conducting searches for relevant projects, agencies, funders, and keywords.
 - **Knowledge-management outcomes** — earlier CCED work led to physical copies entering the Library's planning collection and dissemination via the Knowledge Commons.
 
-### Reclaimed Timber Grading Research — CCED (November 2022)
+#### Reclaimed Timber Grading Research — CCED (November 2022)
 
 In-depth reference support for the Center for Community Economic Development on the feasibility of grading reclaimed timber for structural reuse in Michigan. The question had no clean answer — my synthesis established that no robust grading ecosystem for reused timber exists in Michigan, then mapped the adjacent landscape: grading standards and processes, international precedents (Australia/NZ, UK), regional organizations and firms, and MSU-connected expertise. The deliverable was handed to CCED research assistants as a structured starting point for their own investigation.
 
@@ -355,16 +354,16 @@ In-depth reference support for the Center for Community Economic Development on 
 
 **Related sections:** Criterion I → Reference · Criterion I → Community-Centric Economic Development
 
-### REI Co-Learning Plans on Humanities Commons — Partner Recognition
+#### REI Co-Learning Plans on Humanities Commons — Partner Recognition
 
 Recognition from a colleague at the Regional Economic Innovation (REI) program, MSU Center for Community and Economic Development, for my role in connecting REI to Humanities Commons as a repository platform for its Co-Learning Plan series. The introduction — brokered between REI and a member of the Humanities Commons team — resulted in 135 Co-Learning Plans uploaded, with over 3,000 downloads and/or views within the first six months.
 
-> [!quote] Jenan, REI program (MSU Center for Community and Economic Development) — _[date]_
+> [!quote] Jenan Jondy, Regional Economic Innovation Coordinator (MSU Center for Community and Economic Development) — _[date]_
 > I just saw that you will not be able to attend the January meeting. So, I wanted to be sure to say THANK YOU for introducing me to _[Humanities Commons team member]_ — and REI to Humanities Commons! Our current data shows that there have been over 3,000 downloads and/or views of the 135 Co-Learning Plans that have been uploaded — in only six months! You have been a great partner to work with and I appreciate your engagement with REI.
 
 **Related sections:** Criterion I → Community-Centric Economic Development · Criterion I → Digital Scholarship
 
-### Adult Workforce Development Referrals — Lenawee Now (June 2024)
+#### Adult Workforce Development Referrals — Lenawee Now (June 2024)
 
 Reference and referral support for Lenawee Now, a county economic-development organization working on adult training and education pathways through the Align Center for Workforce Development. Following an in-person meeting, I synthesized leads spanning state agencies (LEO, MEDC), philanthropic funders (Ascendium), regional network contacts, and mature model programs in Indiana and Maine — coordinated with Arnold Weinfeld (MSU), who contributed contacts and agency recommendations. The reply confirms the leads were new and actionable, with follow-up comparison work planned (Ascendium vs. CAEL).
 
