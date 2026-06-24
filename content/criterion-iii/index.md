@@ -427,8 +427,6 @@ As a follow-up, helped organize a staff-development event in strategic storytell
 
 ▪ [**Artifact link: Summer 2024 event description** (external)](https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing)
 
-Played a major role in all stages of creating this report.
-
 ▪ [**Artifact link: Strategic Plan Synthesis Report** (external)](https://docs.google.com/document/d/1Qwz4POmyCkzfS8pt3SbraZFuSrupEQ-veLQ8ri_Rz3Y/edit?usp=sharing)
 
 ▪ [**Artifact link: Slides for February 2025 All-Staff Presentation** (external)](https://docs.google.com/presentation/d/1gWVQy310OmKE-l3tmlirh0CeATpdKEwh/edit?usp=sharing&ouid=111995156214073893299&rtpof=true&sd=true)
@@ -445,8 +443,6 @@ Dean Romanosky's reply following the February 2025 All-Staff presentation.
 </details>
 
 ▪ [**Artifact link: Updated Strategic Plan** (external)](https://lib.msu.edu/strategic-plan)
-
-Strategic-storytelling staff-development event led by Elise Jajuga. Co-convened the event, helped set its direction, and participated in the drafting and practice processes.
 
 ▪ [**Artifact link: Outline of Strategic Storytelling event** (external)](https://drive.google.com/file/d/1LggN54JwCrLDRaC6h5tontCU8wcgA4iO/view?usp=drive_link)
 
