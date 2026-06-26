@@ -26,9 +26,7 @@ The first-day introductory deck links course content to the students' physical s
 <details>
 <summary><strong>FSA Japan 2024 — introductory slides</strong></summary>
 
-_[Embed pending — paste the deck's Drive embed URL into the iframe src below, then delete this line. Use /presentation/d/ID/embed for native Slides or /file/d/ID/preview for a Drive file; deck must be "Anyone with the link can view."]_
-
-<!-- <iframe src="EMBED_URL" width="100%" height="480" allow="autoplay"></iframe> -->
+<!-- <iframe src="(https://drive.google.com/file/d/1AyYjOowQMEVAFJ-3W4o6w7pbwjgCWDp-/view?usp=drive_link)" width="100%" height="480" allow="autoplay"></iframe> -->
 
 </details>
 
@@ -51,7 +49,7 @@ This is the through-line of my scholarship and grows directly out of my work as 
 
 **Phase 1 — Exploratory writing and grant-seeking (2022–2024).** I developed ideas through short professional essays (listed under _Blog posts & essays_ below) and applied to the IMLS-funded Institute for Research Design in Librarianship (IRDL) with a 12-page proposal, _Understanding Entrepreneurs' Information Search and Synthesis Behavior_, supported by letters from Dean Neil Romanosky, Laura Walesby, and Wendy Pothier (also a Reference for this Dossier). I was informed in March 2024 that I was not selected; the application work nonetheless moved the project materially forward and fed directly into the first paper below.
 
-**Phase 2 — Theory paper and interview study (2024–2026).** The _Journal of Business & Finance Librarianship_ article (below) articulates how entrepreneurs synthesize their own ideas, primary research, and library-supported secondary research, positioning information synthesis as the integrative work that ties them together. A second paper, currently under review, extends this with evidence gathered from librarians (IRB submitted February 2025; early feedback from Neil Baker, Purdue University).
+**Phase 2 — Theory paper and interview study (2024–2026).** The _Journal of Business & Finance Librarianship_ article (below) articulates how entrepreneurs synthesize their own ideas, primary research, and library-supported secondary research, positioning information synthesis as the integrative work that ties them together. A second paper, which just received acceptance pending minor edits, extends this with evidence gathered from librarians (IRB submitted February 2025).
 
 **Phase 3 — Collaboration and next steps (2026–ongoing).** Recruiting collaborators and developing the next stage of evidence-gathering, with a focus on the processes of nascent entrepreneurs.
 
@@ -84,7 +82,7 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 ### Talks and posters
 
 - O'Neill, T. _Informed entrepreneurship: Researching business models on the open web._ Global Alliance for Rapid Diagnostics (GARD) Conference, May 2023. [Slides (external) →](https://docs.google.com/presentation/d/1cuYhpU48LMoRgewvz-x20IcZ8n8Sz5tkcj-KdF7Jclw/edit)
-- O'Neill, T. Talk: _Back to Business (Librarianship): Using Logic Modeling and Other Frameworks to Navigate Career Junctures._ BRASS Spring Online Symposium, April 26–27, 2022. [Presentation (external) →](https://docs.google.com/document/d/13ZNFfVwRajxwcqykkgXgBGT-xBoCiq32xvQiZSb-3Fo/edit)
+- O'Neill, T. Talk: _Back to Business (Librarianship): Using Logic Modeling and Other Frameworks to Navigate Career Junctures._ BRASS Spring Online Symposium, April 26–27, 2022. [Presentation schedule (external) →](https://docs.google.com/document/d/13ZNFfVwRajxwcqykkgXgBGT-xBoCiq32xvQiZSb-3Fo/edit)
 - O'Neill, T. Poster: _University Technology Transfer Process and University Libraries._ International Conference on Economics and Business Information (INCONECCSS), May 2022.
 - Han, E., & O'Neill, T. _Metadata for 360-Degree Panoramas._ Michigan Academy of Science, Arts and Letters, March 2021.
 - O'Neill, T., Perentesis, S., & Tans, E. _Sustainability Canvas._ Libraries 2.020 Online Conference, October 2020.
@@ -121,15 +119,15 @@ I have sought structured mentorship deliberately, as both a way to learn and as 
 
 ### Intensive programs and certificates
 
-- EDUCAUSE Managers Institute — eight-week intensive cohort program; completed April 2021.
-- Special Libraries Association, Competitive & Decision Intelligence Certificate Program:
+- **EDUCAUSE Managers Institute** — eight-week intensive cohort program; completed April 2021.
+- Special Libraries Association, **Competitive & Decision Intelligence Certificate** Program:
     - _Published Source Collection — Managing the Function_ (INTEL-03, March 2022);
     - _Scenario Analysis and Futures Techniques_ (INTEL-12, February 2022);
     - _Knowledge Management for Competitive Intelligence_ (INTEL-06, October 2022).
 - Collaborative Institutional Training Initiative (CITI), _Technology Transfer_ — February 2022.
 - Coursera, _The Data Scientist's Toolbox_ — 2021.
 - Coursera, _Accelerate Your Learning with ChatGPT_ — May 14, 2025.
-- Library Carpentries (Tidy Data, Command Line, Git), MSU Research Facilitation Network — November 10–13, 2025.
+- **Library Carpentries** (Tidy Data, Command Line, Git), MSU Research Facilitation Network — November 10–13, 2025.
 - AI Symposium, _Fear, Faith, and Praxis: Artificial Intelligence in the Humanities and Social Sciences_ — two-day on-campus workshop, 2025.
 
 ### Language study
@@ -144,10 +142,9 @@ I have sought structured mentorship deliberately, as both a way to learn and as 
 
 ### Conferences and webinars attended (selected)
 
-- ALA Annual Conference — Chicago (2023); San Diego (2024); Philadelphia (2025); Chicago (2026).
-- BRASS Online Symposium (April 2025); Midwest Data Librarians and EDUCAUSE Annual (2020–2021).
-- International Business Center sessions: _Qualitative Research in International Business_ (September 15, 2023); _AIB JIBS Decade Award_ webinar (April 11, 2023).
-- First-Year Seminar Abroad professional development (May 2023; _Incorporating the Sustainable Development Goals into Your FSA Course_, March 2024).
+- ALA Annual Conference — Washington DC (2022); Chicago (2023); San Diego (2024); Philadelphia (2025); Chicago (2026).
+- BRASS Online Symposium (April 2025); Midwest Data Librarians (2020) and EDUCAUSE Annual (2021).
+- First-Year Seminar Abroad professional development (numerous curriculum development, accessibility, and safety trainings).
 - AI-focused webinars (2025): _Working Smarter with AI_ (Harvard Business School, January 22); _Community Capital: Changing the Paradigm_ (March 14); _AI-Resistant Assessment and AI-Enhanced Feedback_ (Broad College, May 5); _Critical Data Storytelling for Libraries_ (ALA, September 10); _Libraries and AI: The Student Perspective_ (MSUL, October 2).
 
 **Related sections:** Cr. III: Innovate! Michigan moderation (CCED) · Cr. III: Mentorship (as mentor) via BRASS and MSUL

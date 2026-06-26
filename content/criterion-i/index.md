@@ -26,33 +26,34 @@ The Entrepreneurship program I serve is well-regarded and broad: MSU is ranked #
 
 ### Teaching at a glance
 
-Instruction is the largest consistent part of my role as Entrepreneurship Librarian. Two measures I'll present here: **sessions** (the number of times I present to a section) and **student-presentations** (total student-contact instances). The counts below come from the annual evaluations; not every year recorded both, so the grand total is given as a documented minimum rather than a precise figure.
+Instruction is the largest consistent part of my role as Entrepreneurship Librarian. Two measures I'll present here: **section-presentations** (the number of times I present to separate course sections) and **student-presentations** (total student-contact instances). The counts below come from the annual evaluations; not every year recorded both, so the grand total is given as a documented minimum rather than a precise figure.
 
-| Review cycle | Sessions (excl. FSA Japan) | Student-presentations | Reference / consultations |
+| Review cycle | Section-Presentations (excl. my courses)                                            | Student-presentations   | Reference / consultations |
 | ------------ | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- |
-| 2021–22 | ~4 entrepreneurship courses (Fall '21) + ~4 (Spring '22) + 3 "2-Day Venture" events | not separately recorded | — |
-| 2022–23 | 29 | 2,000+ | 75 (32 entrepreneurship) |
-| 2023–24 | 26 | not separately recorded | 73 |
-| 2024–25 | 23 | 1,750 | 54 |
-| 2025–26 | ESHP 190 + HRT 407, EGR 440, ESHP 101 | ~790 | 32 |
+| 2021–22      | ~4 entrepreneurship courses (Fall '21) + ~4 (Spring '22) + 3 "2-Day Venture" events | not separately recorded | —                         |
+| 2022–23      | 29                                                                                  | 2,000+                  | 75 (32 entrepreneurship)  |
+| 2023–24      | 26                                                                                  | not separately recorded | 73                        |
+| 2024–25      | 23                                                                                  | 1,750                   | 54                        |
+| 2025–26      | ESHP 190 + HRT 407, EGR 440, ESHP 101                                               | ~790                    | 32                        |
 
-Across the cycles with documented counts, that is **78+ sessions** (2022–23 through 2024–25 alone) and **4,500+ student-presentations** (2022–23, 2024–25, and 2025–26 alone). The 2021–22 and 2025–26 session counts and the 2021–22 and 2023–24 student-presentation counts weren't captured as single figures, so a complete 2019–2026 total would require reconstructing those years from records. I returned to the Entrepreneurship Librarian role in November 2021 (after leading Digital Scholarship Services), and launched the credit-bearing ESHP 491 in Spring 2026 (Cr. II).
+Across the cycles with documented counts, that is **78+ section-presentations (2022–23 through 2024–25 alone) and **4,500+ student-presentations** (2022–23, 2024–25, and 2025–26 alone). The 2021–22 and 2025–26 section-presentation counts and the 2021–22 and 2023–24 student-presentation counts weren't captured as single figures.
 
 ### ESHP 190: The Art of Starting
 
-ESHP 190, _The Art of Starting_, is a required course for the Entrepreneurship Minor and the single largest instruction opportunity for me. It is taught every Fall and Spring semester and is constructed with a division within the semester, with the first half consisting of lecture and the second half with team or individual based active engagement with various aspects of building out a business model (referred to below as 'labs'). My responsibilities consist of a presentation to the full lecture (roughly 300 students each semester), followed later in the semester by lab time in sections, with up to twelve sections spread across four time slots in a day.
+ESHP 190, _The Art of Starting_, is a required course for the Entrepreneurship Minor and the single largest instruction opportunity for me. It is taught every Fall and Spring semester and is constructed with a division within the semester, with the first half consisting of lecture and the second half with team or individual based active engagement with various aspects of building out a business model (referred to below as 'labs'). My responsibilities consist of a presentation to the full lecture (roughly 300 students each semester), followed later in the semester by lab time with those same students in sections, with up to twelve sections spread across four time slots in a day.
 
 I teach the large lecture session alongside Ken Szymusiak. We present together, trade resources, and talk through emerging trends in entrepreneurship and information flows, modeling different perspectives and processes. During the lecture session I also promote the Makerspace, the Digital Scholarship Lab, and library programming such as the Midwest Entrepreneurship Case Competition and Love Data Week.
 
 The labs sections are where students are actively forming business ideas, individually or in teams. There I build hands-on activities that put the databases directly to work in the context of their ventures.
 
-Over the review period I developed three distinct section structures:
+These instruction sessions have these points of emphasis:
 
-- **AI-infused** — technology integration (e.g., FS24's experiment moving between AI-generated customer narration and database-grounded detail).
+- **Repeatable** — what can the students do on their own? I emphasize simple steps that students can remember and retrace repeatedly.
+- **AI-informed** — entrepreneurship students use AI, perhaps at rates far above other students.
 - **Consider the mix** — synthesizing across source types.
 - **Frameworks first** — develop your own system, then research into it.
 
-Sections are rarely just Ken's: as many as six section instructors teach across a single day, some with their own emphases, such as social entrepreneurship. Stakeholder management across those instructors as well as management of my own energy across a full teaching day are genuinely important parts of the work. Through this vehicle, I reach hundreds of students every semester with introductory exposure to several databases and smaller-group follow-up (still often 80+ students), seeing these information-literacy concepts multiple times. I refresh the content every semester, modeling a new (and usually not the best) business idea each time so the search work stays fresh and I keep wearing the student-entrepreneur's hat.
+Sections are rarely just Ken's: as many as six section instructors teach across a single day, some with their own emphases, such as social entrepreneurship. Stakeholder management across those instructors as well as management of my own energy across a full teaching day are genuinely important parts of the work. Through ESHP 190, I reach hundreds of students every semester with introductory exposure to several databases and smaller-group follow-up (still often 80+ students), seeing these information-literacy concepts multiple times. I refresh the content every semester, modeling a new (and usually not the best) business idea each time so the search work stays fresh and I keep trying to start from the position of beginner entrepreneur.
 
 For context: William Langston served as Entrepreneurship Librarian 2019–2020 and presented to this course during that time.
 

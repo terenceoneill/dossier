@@ -232,8 +232,6 @@ An invitation sent to a prospective panelist for a DSS discussion-group session.
 
 </details>
 
-▪ [**Artifact link: DSS Discussion Group invited speaker slides** (external)](https://buckeyemailosu-my.sharepoint.com/:p:/r/personal/longmeier_10_osu_edu/_layouts/15/Doc.aspx?sourcedoc=%7BDA0CFD45-1E01-457B-A81F-374A8D384D7A%7D&file=assessmentDSCIG20220616.pptx&action=edit&mobileredirect=true)
-
 ## Michigan Academic Library Association (MiALA)
 
 - **Member-at-Large, Administration Section** (2018–2020).
@@ -388,13 +386,13 @@ This email shows the communication and organization undertaken at the start of a
 
 This email shows a direct invitation to provide input one-on-one as the iTeachMSU Commons was being formed. Participated in several meetings, consultations, and design sessions in the run-up to the launch.
 
-> **From:** [redacted] <br> **Subject:** FW: input for #iteachmsu Commons team <br> **Date:** November 2020
+> **From:** [redacted] <br> **Subject:** FW: input for iteachmsu Commons team <br> **Date:** November 2020
 >
 > Greetings Terence!
 >
-> I hope this message finds you and yours well. I'm writing to introduce [redacted], a student on the #iteachmsu Commons team. [redacted] is working on user personas for the site and is hoping to talk with some instructors, staff, administrators, and students about the ways they might use iteach.msu.edu. Because you were on the #iteachmsu advisory group and work with various MSU stakeholders, we identified you as one of the individuals who would be great for [redacted] to talk to. I know this is a challenging semester with folx stretched thin, so if you have any time to share with [redacted] – we'd appreciate your input! I'll leave it to [redacted] to follow up.
+> I hope this message finds you and yours well. I'm writing to introduce [redacted], a student on the iteachmsu Commons team. [redacted] is working on user personas for the site and is hoping to talk with some instructors, staff, administrators, and students about the ways they might use iteach.msu.edu. Because you were on the iteachmsu advisory group and work with various MSU stakeholders, we identified you as one of the individuals who would be great for [redacted] to talk to. I know this is a challenging semester with folx stretched thin, so if you have any time to share with [redacted] – we'd appreciate your input! I'll leave it to [redacted] to follow up.
 
-> **↳ Reply** <br> **From:** [redacted] (student, #iteachmsu Commons team) <br> **Subject:** Re: input for #iteachmsu Commons team <br> **Date:** November 2020
+> **↳ Reply** <br> **From:** [redacted] (student, iteachmsu Commons team) <br> **Subject:** Re: input for iteachmsu Commons team <br> **Date:** November 2020
 >
 > Hello Terence! I'm glad [redacted] was able to connect us for this project. I'd love to set up a Zoom to talk to you about iteach.msu.edu and gather some of your insight to help us improve the platform. If you have any available time, please let me know when the most ideal meeting time would be for you and we can work something out, it shouldn't take more than 30 minutes of your time. I have the most availability on Mondays, Wednesdays, and Fridays before 3 pm, but if another time works better for you just let me know and we can figure something out. Best wishes, [redacted]
 
@@ -449,7 +447,7 @@ Dean Romanosky's reply following the February 2025 All-Staff presentation.
 <details>
 <summary><strong>Artifact: Email and response regarding next steps for Implementation Team</strong></summary>
 
-An exchange with leadership on transitioning the Team and launching recruitment for a new cohort.
+An exchange with leadership on transitioning the Team 
 
 > **From:** Terence O'Neill <br> **To:** Dean Neil Romanosky; Alex Rivera (EC liaison) <br> **Subject:** SPIT — next steps and recruitment <br> **Date:** February 2026
 >
