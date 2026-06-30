@@ -1,8 +1,6 @@
 ---
-title: Index
+title: Terence O'Neill - Dossier
 ---
-# General Documentation
-
 ## Letter of Application
 
 Dear reading committee and colleagues at Michigan State University Libraries,
@@ -37,19 +35,19 @@ Terence W. O'Neill
 ## References
 
 **Ken Szymusiak**, Managing Director – Operations, Burgess Institute for Entrepreneurship & Innovation, MSU
-[szymusiak@broad.msu.edu](mailto:szymusiak@broad.msu.edu)
+szymusiak@broad.msu.edu
 
 **Bethany Judge**, Director of Experiential Learning, Undergraduate Education, MSU
-[judgebe@msu.edu](mailto:judgebe@msu.edu)
+judgebe@msu.edu
 
 **Nicole Smeltekop**, Special Materials Catalog Librarian, MSU
-[nicole@msu.edu](mailto:nicole@msu.edu)
+nicole@msu.edu
 
 **Zoeanna Mayhook**, Assistant Professor of Information Studies, Business Information Specialist, Parrish Library of Management & Economics, Purdue University Libraries and School of Information Studies
-[zmayhook@purdue.edu](mailto:zmayhook@purdue.edu)
+zmayhook@purdue.edu
 
 **Wendy Pothier**, Associate Professor, Business and Economics Librarian, University of New Hampshire
-[wendy.pothier@unh.edu](mailto:wendy.pothier@unh.edu)
+wendy.pothier@unh.edu
 
 ## Personal Performance Review Items
 
