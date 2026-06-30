@@ -55,13 +55,32 @@ These instruction sessions have these points of emphasis:
 
 Sections are rarely just Ken's: as many as six section instructors teach across a single day, some with their own emphases, such as social entrepreneurship. Stakeholder management across those instructors as well as management of my own energy across a full teaching day are genuinely important parts of the work. Through ESHP 190, I reach hundreds of students every semester with introductory exposure to several databases and smaller-group follow-up (still often 80+ students), seeing these information-literacy concepts multiple times. I refresh the content every semester, modeling a new (and usually not the best) business idea each time so the search work stays fresh and I keep trying to start from the position of beginner entrepreneur.
 
+One lab exercise in this sequence (EX6) currently asks students to bring database-derived content into an AI tool. Reviewing the sequence, I recognized that this sits in tension with the licensing terms of the databases involved, so I am revising the exercise for Fall 2026 to have students summarize their findings in their own words before any AI use — a small change that preserves the information-literacy goal while respecting the licenses. I keep the original materials here as an honest record of the practice and its revision.
+
 For context: William Langston served as Entrepreneurship Librarian 2019–2020 and presented to this course during that time.
 
 #### Artifacts
 
-- Introductory slide deck (foregrounds frameworks and information literacy) — _[add embed]_
-- Sections/labs slide deck (foregrounds active work and technology integration) — _[add embed]_
-- _[Third artifact slot — e.g., a section activity handout or D2L keyword exercise]_
+<details>
+<summary><strong>Artifact: ESHP 190 — introductory lecture deck (frameworks and information literacy)</strong></summary>
+
+<iframe src="https://drive.google.com/file/d/1Cj-m2UwzVveRpTVbkwA1IYL4tFDHcoxj/preview" width="100%" height="480" allow="autoplay"></iframe>
+
+</details>
+
+<details>
+<summary><strong>Artifact: ESHP 190 — sections/labs deck (active work and technology integration)</strong></summary>
+
+<iframe src="https://drive.google.com/file/d/1bVHsiF7MlY11Ub-SldAMlowOEMiSz5Mc/preview" width="100%" height="480" allow="autoplay"></iframe>
+
+</details>
+
+<details>
+<summary><strong>Artifact: ESHP 190 — section activity deck</strong></summary>
+
+<iframe src="https://drive.google.com/file/d/1sBGM78R4Gr_FIijk9wjMeT2jpR9r0dQe/preview" width="100%" height="480" allow="autoplay"></iframe>
+
+</details>
 
 **Related sections:** Letter of recommendation — Ken Szymusiak · Cr. II: _Librarian support of entrepreneurs_ (JBFL, 2026)
 
@@ -78,11 +97,76 @@ Because the Minor draws students from across MSU, I develop relationships and fi
 
 #### Artifacts
 
-- _[BE/EGR 440 collaboration]_
-- _[Co-curricular / 2-Day Venture]_
-- _[MGT 352 — Ofstein]_
-- _[ESHP 480 or other first-time outreach]_
-- _[HRT 407 — Teghtmeyer]_
+**HRT 407 / HRT 404 — Teghtmeyer & Valle de Souza.** Co-taught with agriculture librarian Suzi Teghtmeyer for Dr. Simone Valle de Souza's horticulture-management course. When a room cabling fault left the September 2025 session running at roughly 10% network capacity, I followed up by recording a twenty-minute resource walkthrough so students could still reach everything I had planned to demonstrate live. The collaboration continued into Spring 2026, when Dr. Valle de Souza invited us back for HRT 404.
+
+▪ [Artifact link: HRT 407 entrepreneurship resources — recorded walkthrough (external)](https://mediaspace.msu.edu/media/HRT+407+Entrepreneurship+resources/1_8g56c6px)
+
+▪ [Artifact link: HRT 407 course guide (external)](https://libguides.lib.msu.edu/HORT407)
+
+<details>
+<summary><strong>Artifact: Email thread — HRT 407 session, connectivity workaround, and HRT 404 continuation</strong></summary>
+
+> **From:** Suzi Teghtmeyer <br> **To:** Simone Valle de Souza <br> **cc:** Terence O'Neill <br> **Date:** September 5, 2025
+>
+> I'm bringing with me business librarian Terence O'Neill to assist with the business side and associated databases. As I was off on sabbatical last fall, I'm feeling a bit rusty and I want to make sure the students get a better how-to than from me alone. Terence has come with me before and we make a good team.
+
+> **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** September 8, 2025
+>
+> Here is the guide I put together for my aspect of this course: [(external) →](https://libguides.lib.msu.edu/HORT407). I thought it would be the best way for students to easily access the resources.
+
+> **↳ Reply** <br> **From:** Simone Valle de Souza <br> **Date:** September 10, 2025
+>
+> My apologies for the internet issues we had. Our IT guru checked and said the room had a cable issue which was allowing a 10% connection capacity. Thank you for sending us the link below! Looking forward to seeing you again in the Spring for HRT 404.
+
+> **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** September 11, 2025
+>
+> You know, it felt like 10%! Here is a twenty-minute video I made to show students the resources I mention in the guide: [(external) →](https://mediaspace.msu.edu/media/HRT+407+Entrepreneurship+resources/1_8g56c6px). Please feel free to reach out if you have any questions.
+
+> **↳ Reply** <br> **From:** Simone Valle de Souza <br> **To:** Terence O'Neill, Suzi Teghtmeyer <br> **Date:** January 5, 2026
+>
+> I'm here again on this new year, asking for your assistance showing our students how to navigate library resources! I'll be teaching HRT 404 — Horticulture Management this Spring. [Scheduling followed; the session was set for January 27.]
+
+</details>
+
+**BE / EGR 440 — collaboration with a Library colleague.** For the entrepreneurial-engineering course, I plan the session jointly with engineering librarian Colleen Lyon, dividing the day so she covers structured technical search (Web of Science, Engineering Village, standards, patents) while I cover business-specific databases. The thread below shows that planning, including the worked example I develop each year to model the search from a beginner's vantage.
+
+▪ [Artifact link: EGR 440 session recording (external)](https://mediaspace.msu.edu/id/1_or9cjw3s)
+
+<details>
+<summary><strong>Artifact: Email thread — EGR 440 session planning with a Library colleague</strong></summary>
+
+> **From:** Terence O'Neill <br> **To:** Colleen Lyon <br> **Date:** September 23, 2025
+>
+> I'm brainstorming what type of company I want to focus on for EGR 440, just as an example to look up different types of materials. In the past, I've looked at mushroom-based construction materials. I'm currently thinking of something like an IT services company that develops environments immune to hacking, targeting small businesses that deal in secure information, like law offices and financial professionals. It's fairly fuzzy, but that's okay as long as I can communicate — I always try to put on the hat of a person who has an idea in the early stages.
+
+> **↳ Reply** <br> **From:** Colleen Lyon <br> **Date:** September 26, 2025
+>
+> I just want to make sure I've got the division of labor correct. You'll be showing more about how to search for the business aspects of their topics, and I'm showing more about how to investigate the technology/engineering aspects of their idea. Is that right?
+
+> **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** September 26, 2025
+>
+> Standards are always good to talk about, and they would fall entirely to you, because I don't know much about them. WoS, Engineering Village, how to interact with the library website, all of that is helpful. During my portion, I tend to go directly to the weird business databases that I use and are business specific. Would you like to go first? I think it's generally helpful, since your portion tends to be a bit more focused and structured, due to the nature of the resources.
+
+> **↳ Reply** <br> **From:** Colleen Lyon <br> **Date:** September 30, 2025
+>
+> Here's the outline I have so far: a brief overview of paid library resources vs. free content; highlights of the MSUL website; creating a search; systematically searching with demos in WoS and Engineering Village; a brief overview of standards; and citation managers if time. I'll try to keep mine to 30 minutes.
+
+</details>
+
+**MGT 352 — Ofstein.** A session with Laurel Ofstein (faculty director of the Burgess Institute) that also let me connect her to the Makerspace and Digital Scholarship Lab as teaching resources.
+
+<details>
+<summary><strong>Artifact: Email thread — MGT 352, connecting course faculty to Library innovation spaces</strong></summary>
+
+> **From:** Laurel Ofstein <br> **To:** Terence O'Neill <br> **Date:** January 12, 2023
+>
+> Thank you so much for the tour this morning! The spaces we saw are such amazing resources for students and I will be thinking about how I can integrate them into my future classes. I look forward to continuing the conversation around MGT 352 too.
+
+> **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** January 2023
+>
+> I'm very glad you got the chance to learn a bit more about these resources! I've attached the slides I used with MGT 352 in Spring of 2022, and the small worksheet we used to support the search-work the students were doing. Also, here is the link to the VR workshop that Tim mentioned, and the upcoming Makerspace events.
+
+</details>
 
 ### Midwest Entrepreneurship Case Competition (MECC)
 
@@ -207,8 +291,12 @@ Following the Data Visualization Basics workshop, I coordinated with the Broad C
 
 </details>
 
-- _[Growth over three years — registration figures, results]_
-- _[Integration with the Broad College]_
+<details>
+<summary><strong>Artifact: MECC — integration with the Broad College</strong></summary>
+
+<iframe src="https://drive.google.com/file/d/1UhNPiuh5Cg1WDAMB_X8Jie53nAzmrfaj/preview" width="100%" height="480"></iframe>
+
+</details>
 
 <details>
 <summary><strong>Artifact: Note from a case competition guest judge (February 2025)</strong></summary>
@@ -231,10 +319,57 @@ The impact often surfaces years later. Ventures I consulted with have gone on to
 
 ▪ [**Artifact link: Product Center — collection of responses** (external)](https://drive.google.com/drive/folders/14OxTX9ICv5o4oiaYa2wOjuv17KhLeQF7)
 
-- _[MBA "Sparty Green" — international library resources]_
-- _[Burgess Institute pipeline — arrangement / referral evidence]_
-- _[Representative consultation outcome]_
-- _[Student venture follow-through]_
+<details>
+<summary><strong>Artifact: MBA "Sparty Green" — international library resource guide</strong></summary>
+
+<iframe src="https://drive.google.com/file/d/1IrHABDTePSH-ABQwWCCkW1drOYJW6OXf/preview" width="100%" height="480"></iframe>
+
+</details>
+
+<details>
+<summary><strong>Artifact: Email thread — Burgess Discovery pipeline referral</strong></summary>
+
+This consultation reached me through the Burgess Institute referral pathway: a student founder in the Discovery Program asked a Discovery intern about available resources and was referred to me.
+
+> **From:** [redacted] (a Burgess Discovery Program student founder) <br> **To:** Terence O'Neill <br> **Date:** December 2, 2025
+>
+> On 11/13 I requested a meeting with a discovery intern to learn about the resources available to me at Burgess in order to push through the Discovery Program and get into launch. They referred me to you, so now I'm here! I'd love to schedule a meeting to learn about these resources.
+
+> **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** December 2, 2025
+>
+> Thanks for reaching out. I am a member of MSU Libraries, not Burgess, so I can't speak directly to their times and break policies — sorry for that! I am happy to meet online tomorrow. I can send you a link for a Teams meeting if so.
+
+> **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** December 3, 2025
+>
+> Here are the resources we discussed — the entrepreneurship guide, plus BizMiner and IBISWorld. I was also curious whether anything in the other industry-research databases might be relevant, so here are some deeper options if you want to take a deeper dive: a MarketLine company profile, a BCC Research healthcare workforce-management market report, and two Frost & Sullivan reports on the future of work and CX transformation.
+
+> **↳ Reply** <br> **From:** [redacted] <br> **Date:** December 3, 2025
+>
+> Thank you, Mr. O'Neill! This is above and beyond. I'll be sure to follow up if I have any questions!
+
+</details>
+
+<details>
+<summary><strong>Artifact: Email thread — representative consultation outcome</strong></summary>
+
+> **From:** Terence O'Neill <br> **To:** [redacted] (student founder) <br> **Date:** June 25, 2023
+>
+> A great resource for looking up competitors is MarketLine — here is a North America ice-cream industry report, and you can also look up company profiles there. Here are some possibly valuable sources touching on whey protein: a Statista statistical overview of the worldwide protein market; a "better for you" ice cream trends summary (quick read) from Barry-Callebaut; and a McKinsey report on alternative proteins that discusses whey if you search the term. Are these what you are looking for?
+
+> **↳ Reply** <br> **From:** [redacted] <br> **Date:** June 25, 2023
+>
+> Yes, these are extremely helpful! Especially the ice cream and protein industry reports. I really appreciate it!
+
+</details>
+
+<details>
+<summary><strong>Artifact: Email thread — student venture follow-through</strong></summary>
+
+> **From:** Terence O'Neill <br> **To:** [redacted] (student founder) <br> **Date:** April 2026
+>
+> Nice to meet you today, and thanks for meeting online. I've attached three files from the library databases: an IBISWorld report on the MedSpa industry; a BizMiner report on the financials of the beauty-services industry (NAICS 81211 — Hair, Nail & Skin Care Services); and a company list I built from ReferenceUSA for 81211 businesses in Michigan with sales estimated between \$500,000 and \$5,000,000. That was still 612 businesses — the greatest concentration was in the ZIP code for Birmingham, MI — so I downloaded a summary report. I look forward to talking again next week so you can adjust the searches as you see fit.
+
+</details>
 
 ## Gast Business Library (Collection & Operations)
 
@@ -242,11 +377,46 @@ As part of the Gast team I coordinate our engagement with introductory business 
 
 #### Artifacts
 
-- _[Database chart update]_
-- _[Diversity content for LibGuides (2023)]_
-- _[Love Data Week 2024]_
-- _[Love Data Week 2026: "Introduction to Business Data Visualization" (with Eli Wachter; promoted via Broad 360)]_
-- _[Representative complex reference question — e.g., the retired HRT faculty self-publishing inquiry]_
+▪ [Artifact link: Gast database coverage chart (external)](https://docs.google.com/spreadsheets/d/1HNQ61c9TwaLe7nAgGIXgfI70CZtKRClK/edit?usp=sharing)
+
+▪ [Artifact link: Diversity content added to entrepreneurship LibGuides, 2023 (external)](https://drive.google.com/file/d/1dEil6Oncs7VHHRoNgZpRrFkKtOAQtSyS/view?usp=sharing)
+
+<details>
+<summary><strong>Artifact: Love Data Week 2026 — "Introduction to Business Data Visualization" (with Eli Wachter)</strong></summary>
+
+<iframe src="https://drive.google.com/file/d/1jtoEuUCiUxtRqJJqk10DtgWLQsZjQdzk/preview" width="100%" height="480"></iframe>
+
+</details>
+
+<details>
+<summary><strong>Artifact: Email — complex reference question, nonprofit auditor data (GuideStar Pro)</strong></summary>
+
+A faculty question from John (Xuefeng) Jiang, Eli Broad Endowed Professor, on locating the audit firms used by nonprofit organizations (January 2025). The answer required testing the database, finding and documenting a non-obvious workflow, and being candid about its limits.
+
+> **From:** Terence O'Neill <br> **To:** John (Xuefeng) Jiang <br> **Date:** January 2025
+>
+> It is possible to download spreadsheets of up to 1,000 records a month that include information on organizations' auditors. The major caveats: it's somewhat buggy to set up your account, you have to use a search term instead of a wildcard, and monthly downloads are capped at 1,000 records. I'm looking into whether other options are available from GuideStar.
+>
+> The steps: create an individual account at guidestar.org without the proxy string (you may need to clear your browser's cache and cookies first). After verifying the account, access GuideStar Pro through the MSU Libraries' EZproxy link. Run a search, then under the Organization facet select the "Audits" filter at the bottom, and choose "Download all" from the top of the results table. Column Z of the resulting table holds "Paid Preparer Firm Name." If you see "locked" icons on the Audit area, use the EZproxy link and log in again. Please let me know if that works for you, and I'll keep you posted with anything else useful.
+
+</details>
+
+<details>
+<summary><strong>Artifact: Email — complex reference question, self-publishing and copyright (with Library colleagues)</strong></summary>
+
+A self-publishing and copyright inquiry from a retired faculty member. Because the question touched copyright and publishing operations, I pulled in two colleagues — Julie Taylor (MSU Library Publishing Services) and Linda Miles (Open Educational Resources Librarian) — and synthesized their input alongside primary sources.
+
+> **From:** Terence O'Neill <br> **To:** [retired faculty member] <br> **cc:** Julie Taylor, Linda Miles <br> **Date:** 2024
+>
+> To start, none of us are lawyers and are not giving advice, particularly regarding copyright. My goal is to give you helpful and reliable information.
+>
+> Linda referred me to the U.S. Copyright Office, and in particular its guidance that any or all of a copyright owner's exclusive rights can be transferred, that such a transfer generally must be made in writing and signed, and that transfers can be recorded with the Copyright Office for certain legal advantages (Circular 1).
+>
+> Julie gave specific insight into a related situation: the Libraries maintains a KDP account for Library-published books with the University as payee. For a project like yours, the key is a willing partner on the other side who could set up a KDP account; authors would then sign a publishing agreement that *licenses* rights (not a transfer of copyright) so that partner can list and sell the book and receive the royalty payments. The author and a representative may need to consult the University's General Counsel and/or business office to confirm eligibility.
+>
+> In both segments shared by Julie and Linda, having a willing partner on the other side of this arrangement is key. I hope that this is helpful.
+
+</details>
 
 ## Community-conscious business
 
@@ -262,11 +432,14 @@ At the panelists' request, the conversation was not recorded, so they might spea
 
 #### Artifacts
 
-- _[Public event description (MSU Libraries booking system)]_
-- _[Recruitment correspondence (incl. the iterative invitation to Prof. Bauer) — redact to role where appropriate]_
-- _[Final panel questions (developed across multiple rounds)]_
-- _[Event photographs (attendance and panel)]_
-- _[Public LinkedIn reflection by panelist Sara Rezaeimanesh (three weeks post-event), crediting the organization — add link]_
+▪ [Artifact link: Public event listing — MSU Libraries booking system (external)](https://bookings.lib.msu.edu/event/15971243)
+
+<details>
+<summary><strong>Artifact: Ethics Week panel — convening record (recruitment, question rounds, and logistics)</strong></summary>
+
+<iframe src="https://drive.google.com/file/d/1j280VsKLWlyjeGR1krW1K4TE9a9gAb9w/preview" width="100%" height="480"></iframe>
+
+</details>
 
 ### CESRL debate LibGuide
 
@@ -357,9 +530,9 @@ In-depth reference support for the Center for Community Economic Development on 
 
 #### REI Co-Learning Plans on Humanities Commons — Partner Recognition
 
-Recognition from a colleague at the Regional Economic Innovation (REI) program, MSU Center for Community and Economic Development, for my role in connecting REI to Humanities Commons as a repository platform for its Co-Learning Plan series. The introduction — brokered between REI and a member of the Humanities Commons team — resulted in 135 Co-Learning Plans uploaded, with over 3,000 downloads and/or views within the first six months.
+Recognition from a colleague at the Regional Economic Innovation (REI) program, MSU Center for Community and Economic Development, for my role in connecting REI to Humanities Commons as a repository platform for its Co-Learning Plan series. The note was shared with the full REI board, whose members span partner offices across the state, including Senator Gary Peters' office. The introduction — brokered between REI and a member of the Humanities Commons team — resulted in 135 Co-Learning Plans uploaded, with over 3,000 downloads and/or views within the first six months.
 
-> [!quote] Jenan Jondy, Regional Economic Innovation Coordinator (MSU Center for Community and Economic Development) — _[date]_
+> [!quote] Jenan Jondy, Regional Economic Innovation Coordinator (MSU Center for Community and Economic Development) — May 2024
 > I just saw that you will not be able to attend the January meeting. So, I wanted to be sure to say THANK YOU for introducing me to _[Humanities Commons team member]_ — and REI to Humanities Commons! Our current data shows that there have been over 3,000 downloads and/or views of the 135 Co-Learning Plans that have been uploaded — in only six months! You have been a great partner to work with and I appreciate your engagement with REI.
 
 **Related sections:** Criterion I → Community-Centric Economic Development · Criterion I → Digital Scholarship
@@ -515,7 +688,7 @@ Library support for the Full-Time MBA capstone corporate-innovation challenge, c
 
 </details>
 
-**Related sections:** Criterion I → Gast Business Library / Entrepreneurship support · Criterion I → International Business · Collaboration with Ken Szymusiak (Burgess Institute) — see also letter of recommendation · _[IBC / CIBER engagement]_ · _[International Business Student Association presentation]_
+**Related sections:** Criterion I → Gast Business Library / Entrepreneurship support · Criterion I → International Business · Collaboration with Ken Szymusiak (Burgess Institute) — see also letter of recommendation
 
 #### Related content in other criteria
 
@@ -535,9 +708,16 @@ I'm grateful for the supervision (T. Miller, L. Walesby, B. Silver) that made th
 
 #### Artifacts
 
-- _[Job descriptions (roles created)]_
-- _[Makerspace strategic-planning retreat]_
-- O'Neill, T., et al. _Immersive Visualization Institute_ (2019, 2020, 2021) — five-day training with the MSU Planetarium and MSU Museum, funded by the MSU Graduate School. _[add]_
+▪ [Artifact link: Transformative Technologies Coordinator — position description (external)](https://docs.google.com/document/d/17OEgiOOSwDHGnZYFqLTM8nKNmYY2qQrO/edit?usp=sharing)
+
+<details>
+<summary><strong>Artifact: Digital Scholarship Services — 2019–2020 Year in Review</strong></summary>
+
+<iframe src="https://docs.google.com/presentation/d/1CrRO2AraYnJwMZFywQ0odmCbumJK4SmOBoJxmUq0rbU/embed" width="100%" height="480"></iframe>
+
+</details>
+
+- O'Neill, T., et al. _Immersive Visualization Institute_ (2019, 2020, 2021) — five-day training with the MSU Planetarium and MSU Museum, funded by the MSU Graduate School. [Documentation (external) →](https://docs.google.com/document/d/1MWkBcTb6Fj4DOzdC8KLWDdAxsNkRFL1JJbAz2tnqkPk/edit?usp=sharing)
 - O'Neill, T., et al. _eXtended Reality Symposium_ (2019, 2020) — with the Game Design Program, MSU IT, and the College of Human Medicine. [Humanities Commons (external) →](https://works.hcommons.org/records/w924v-qc531)
 
 ### Data literacy and ongoing connectivity to innovation spaces (2019–present)
@@ -546,8 +726,4 @@ Even after moving back to entrepreneurship, I continue to connect students to th
 
 #### Artifacts
 
-- _[Class tours / innovation-space connectivity]_
-- _[Data visualization — Love Data Week]_
-- _[Long-standing collaboration seeded by a tour]_
-
-▪ [**Artifact link: [needs descriptive title — Drive document]** (external)](https://docs.google.com/document/d/17OEgiOOSwDHGnZYFqLTM8nKNmYY2qQrO/edit?usp=sharing&ouid=111995156214073893299&rtpof=true&sd=true)
+- Data visualization — see **Gast Business Library → Love Data Week 2026** above.
