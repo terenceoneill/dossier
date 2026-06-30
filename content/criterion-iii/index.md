@@ -3,7 +3,7 @@ title: Criterion III
 ---
 ## Introduction
 
-Service is an important part of the work for MSU Libraries and a place to support other professionals toward shared goals, across three domains: national organizations (ALA via RUSA and BRASS; ACRL/DSS), MSU and state/local, and MSU Libraries.
+Service is an important part of the work for MSU Libraries and a place to support other professionals toward shared goals, across three domains: external organizations and institutions (ALA via RUSA and BRASS; ACRL/DSS), MSU and state/local, and MSU Libraries.
 
 The major highlights:
 
@@ -16,20 +16,20 @@ All point to contributions that help people and organizations adapt to changing 
 
 ---
 
-# External Service
+## External Service
 
-## American Library Association — Business Reference and Services Section (BRASS, a division of RUSA)
+### American Library Association — Business Reference and Services Section (BRASS, a division of RUSA)
 
 BRASS work has been an important part of the transition back to being a business librarian, and reflects a view of what committee work is _for_: a place to learn what is going well at other institutions, where professionals share expertise and round out skillsets or develop new program offerings, and where professional communities must choose to stay nimble and dedicate resources to becoming what their members need.
 
-### Education Committee
+#### Education Committee
 
 - **Chair, Education Committee** (2025–2026). As chair, took the opportunity to update the committee's orientation; like many institutions, BRASS's recent history has had momentous shifts and the charge reflected outdated understandings of the work. Worked closely with the Executive Committee to redistribute and manage workload, shifting away from activities reflecting charge drift. This work was accomplished via separate meetings, correspondence, and facilitated discussion across Exec, BISC (Business Information Sources Committee, a peer), BISdex (a subcommittee), and Education (including the past chair). Charge updates:
-    - Sunset a recurring "award," **"Best of the Business Web,"** which suffered from ill-fit with Education's mandate and lacked appropriate distribution methods for connecting with readers.
+    - Sunset a recurring "award," **"Best of the Best Business Web,"** which suffered from ill-fit with Education's mandate and lacked appropriate distribution methods for connecting with readers.
     - Moved **BISdex** from Education to BISC.
     - Increased Education's emphasis on **creating programming**, more in line with the mission.
 
-#### Artifacts
+##### Artifacts
 
 <details>
 <summary><strong>Artifact: Email thank you for running for BRASS office</strong></summary>
@@ -101,14 +101,14 @@ An email from the then Chair inviting me to run for Chair.
 
 </details>
 
-### AI work
+#### AI work
 
 Two substantive contributions to help BRASS members engage with AI:
 
 - **Contributor, BRASS AI LibGuide** (2023–2024) — primary contributor to the writing and formation of a highly viewed BRASS LibGuide; authored two pages: the front page and "Research."
 - **Chair, Conference Planning Committee — 2024 AI panel.** Drove creation of the 2024 AI panel beyond chairing the committee: suggested the original topic, helped shape panel representation, and personally recruited the panelists. Program: **"Demystifying AI for Business and Libraries,"** ALA Annual 2024 — a panel of a San Diego economic-development professional, an instructor of business-composition coursework, and an academic librarian. Personally recruited the moderator, the economic-development professional, and the academic librarian (and arranged a replacement when the original academic librarian could not participate); led the application and shepherded it through. Both AI projects were well received and popular.
 
-#### Artifacts
+##### Artifacts
 
 ▪ [**Artifact link: "BRASS AI for Business Librarians" LibGuide** (external)](https://brass.libguides.com/ai)
 
@@ -116,12 +116,12 @@ Two substantive contributions to help BRASS members engage with AI:
 
 ▪ [**Artifact link: "Demystifying AI for Business and Libraries" LibGuide** (external)](https://brass.libguides.com/c.php?g=1374580&p=10162531)
 
-### Conference Planning Committee (other years)
+#### Conference Planning Committee (other years)
 
 - **Member, Conference Planning Committee** (2022–2023) — very active member; successfully proposed and carried out **"Passion Project to Socially Conscious Business: Librarians Building Communities One Story at a Time"** (social entrepreneurship) for ALA Annual 2023.
 - **Chair, Conference Planning Committee** (2023–2024) — recruited to chair (see AI panel above).
 
-#### Artifacts
+##### Artifacts
 
 <details>
 <summary><strong>Artifact: "Passion Project to Socially Conscious Business: Librarians Building Communities One Story at a Time" slides</strong></summary>
@@ -130,7 +130,7 @@ Two substantive contributions to help BRASS members engage with AI:
 
 </details>
 
-### Other BRASS committees and roles
+#### Other BRASS committees and roles
 
 - **Member, Research Awards Committee** (2021–2022).
 - **Member, Business Reference in Academic Libraries Committee** (2021–2022).
@@ -138,7 +138,7 @@ Two substantive contributions to help BRASS members engage with AI:
 - **Member, BRASS Leadership Council** (2023–2024).
 - **Recruited candidate / nominee, Chair (Vice-Chair → Chair) of the BRASS Executive Committee** — three-year appointment (2026). Requested to run by the BRASS Exec Nominating Committee; not elected, but the recruitment and nomination indicate standing in the BRASS community.
 
-### BRASS Mentorship
+#### BRASS Mentorship
 
 **Mentor, BRASS Mentoring Program** — four BRASS mentees across 2023–2024, Spring 2025, and 2025–2026 (plus one MSUL mentee, Robby Roudon — **five mentees total over three years**). BRASS and MSUL mentorships typically run 8–12 meetings across an academic year.
 
@@ -157,7 +157,7 @@ Another characteristic: bringing mentees further into the peer community so they
 5. Check in; give space to vent and share context
 6. Circle back to a primary issue and re-develop that aspect of the Logic Model
 
-#### Artifacts
+##### Artifacts
 
 <details>
 <summary><strong>Artifact: "Mentorship: Logic Models" slides</strong></summary>
@@ -189,12 +189,12 @@ Email correspondence regarding a former mentee speaking to a then-current mentee
 
 **Related sections:** Cr. II: Mentee of Steve Cramer · Cr. II: Mentee of Wiebke Kuhn · Cr. II: "Back to Business" Logic Model Presentation for BRASS · Cr. III: Logic Models DSS Meris Presentation
 
-## American Library Association — Reference and User Services Association (RUSA)
+### American Library Association — Reference and User Services Association (RUSA)
 
 - **Member, RUSA Annual Conference Review Committee** (2023).
 - **Chair, RUSA Annual Conference Review Committee** (2024, 2025). Coordinated review of all submissions for the ALA Annual Conference in the RUSA Sections (presentations and more). In the 2025–2026 cycle: evaluated **99 poster proposals, 26 program proposals, and a preconference proposal**, and coordinated with the RUSA professional office on other program decisions.
 
-## ACRL — Digital Scholarship Section (DSS)
+### ACRL — Digital Scholarship Section (DSS)
 
 - **Member, Membership Committee** (July 2019 – June 2020). Served as an active member of a three-person committee. Launched the **"Day-in-the-Life" series** to promote understanding of committee roles; hosted a **Mixer at ALA Midwinter Philadelphia**; coordinated a survey on why individuals leave the organization. Continued as Exec liaison to Membership during the 2021–2022 term (see below).
 - **Co-convener / Facilitator, Digital Scholarship Centers Discussion Group** (July 2020 – June 2022) — developed and ran discussion sessions with guest speakers:
@@ -206,7 +206,7 @@ Email correspondence regarding a former mentee speaking to a then-current mentee
     - **Finding a Common Direction** — June 2022 (assessment panel, target June 16, 2022)
 - **Member-at-Large, Executive Committee / Advisory Group** (Feb 2021 – June 2022) — served as liaison to the Membership Committee (continuing the day-in-the-life series) and reviewed communication policies across the organization.
 
-#### Artifacts
+##### Artifacts
 
 <details>
 <summary><strong>Artifact: "Partnering for Digital Scholarship Centers" Save the Date</strong></summary>
@@ -230,23 +230,23 @@ An invitation sent to a prospective panelist for a DSS discussion-group session.
 
 </details>
 
-## Michigan Academic Library Association (MiALA)
+### Michigan Academic Library Association (MiALA)
 
 - **Member-at-Large, Administration Section** (2018–2020).
 - **Co-organizer, MiALA Data Literacy Pop-Up Conference** (2022–2023) — initiated the planning conversations and led coordination with the MSU Writing Center and MSUL Special Collections, both of whom presented Data Literacy topics. MiALA- and iASSIST-funded. With Ledermann, Maryck, Morin, and Thielen.
 
-#### Artifacts
+##### Artifacts
 
 ▪ [**Artifact link: Data Literacy Pop-Up blog post** (external)](https://iassistdata.org/blog/2023/01/31/data-literacy-mini-conference/)
 
 ▪ [**Artifact link: Data Literacy Pop-Up event schedule** (external)](https://miala.org/data_literacy_mini-conference.php)
 
-## External Review (other institutions)
+### External Review (other institutions)
 
 - **External reviewer, Pennsylvania State University — Entrepreneurship Librarian** (2025).
 - **External reviewer, University of South Florida** (2026).
 
-#### Artifacts
+##### Artifacts
 
 <details>
 <summary><strong>Artifact: Email invitation to PSU external review</strong></summary>
@@ -269,7 +269,7 @@ An invitation received to serve as an external reviewer.
 
 </details>
 
-## Cross-institutional / External Advising & Outreach
+### Cross-institutional / External Advising & Outreach
 
 - **Host, "Career Insider Program," University of Michigan School of Information (UMSI)** (Feb 7, 2020) — co-hosted with Leslie McRoberts; a three-hour program on working at MSU Libraries for visiting UMSI graduate students.
 - **Invited panelist, "Work in academic libraries and archives," UMSI** (2020–2021).
@@ -277,9 +277,9 @@ An invitation received to serve as an external reviewer.
 
 ---
 
-# MSU Service
+## MSU Service
 
-## CCED — Center for Community & Economic Development
+### CCED — Center for Community & Economic Development
 
 Served with CCED in varying capacities for several years, building conversance on issues including **circular economy** and **AI**, which then recurred across this work (e.g., circular economy became a major component of the 2024 FSA Japan course, Cr. II) and led to embedded reference interactions (see Cr. I > Reference). Across these boards, moderated multiple conference sessions and consulted with Vice Provost for University Outreach and Engagement Kwesi Brookins as he begins recruiting a new CCED head following founding Head Rex LaMore's retirement.
 
@@ -290,7 +290,7 @@ Served with CCED in varying capacities for several years, building conversance o
 - **Member, Innovate! event coordinating / conference-planning committee** (2023).
 - **Member, Faculty Board of Advisors** (2025–Present).
 
-#### Artifacts
+##### Artifacts
 
 <details>
 <summary><strong>Artifact: Email invitation for input to CCED Director search</strong></summary>
@@ -342,23 +342,23 @@ Coordinating email from CCED, which indicates the work that goes into moderating
 
 </details>
 
-## Other MSU Committee Work
+### Other MSU Committee Work
 
 - **Member, All University Traffic and Transportation Committee (AUTTC)** (interim, Fall 2022) — substituting for Eric Tans; topics included the Campus Plan and e-Bikes.
 - **Member, Search Committee: Global Programs Coordinator**, Division of Curricular and Co-Curricular Initiatives (Undergraduate Education, Office of the Provost) (Feb–May 2025) — drafted interview questions, reviewed applications, participated in phone and in-person interviews and evaluation. Relates to the First Year Seminars Abroad program this position oversees.
 - **Member, MSU Japan Council** (2025–Present) — invited by Prof. Ethan Segal.
 
-## Digital Humanities @ MSU (DH@MSU)
+### Digital Humanities @ MSU (DH@MSU)
 
 - **Member, DH@MSU Advisory Committee** (2018–2020). _(Active at the start of the review window.)_
 - **Co-Chair, DH@MSU Curriculum Committee** (2021–2022) — major projects: creating a curriculum-mapping rubric, recruiting courses to participate in the Minor, developing three distinct DH Minor tracks, and improving the Graduate Student Certificate workflow.
 - **Reviewer, Global Digital Humanities Symposium submissions** (2020, 2021).
 
-## iteachmsu
+### iteachmsu
 
 - **Member, Advisory Committee, iteachmsu Commons** (2018–2021).
 
-#### Artifacts
+##### Artifacts
 
 <details>
 <summary><strong>Artifact: DH@MSU Curriculum Committee organization</strong></summary>
@@ -398,18 +398,18 @@ This email shows a direct invitation to provide input one-on-one as the iTeachMS
 
 ---
 
-# MSU Libraries Service
+## MSU Libraries Service
 
-## Other MSU Libraries Service
+### Other MSU Libraries Service
 
-- **Member, Reading Committee** — Erik Ponder (2021); Joshua Sanchez (2022–2023).
+- **Member, Reading Committee** — two MSU Libraries promotion candidates (2021; 2022–2023).
 - **Member & Affirmative Action Advocate, Engineering (and Innovation) Librarian Search Committee** (2022) — provided input throughout; search not successful. Input informed by work with the College of Engineering.
 - **Member, Engineering and Innovation Librarian Search Committee** (2023) — a separate, later search; also not successful.
 - **Member, Library Space Planning Committee** (Oct 2022 – May 2023) — joined replacing a departing member.
 - **Mentor, MSU Libraries Mentorship Program** — Robby Roudon (Feb–Aug 2024). Robby is an MSU Systems employee / web developer with a 100% remote appointment, so the focus was on aspects of academic and library work with less visibility for a remote role. _(See BRASS Mentorship above for the shared Logic Model method.)_
 - **Member, AI Conversation Committee** (2023–2024) — convened by Justin Wadland and Jessica Sender; attended sessions and contributed insights from ALA/BRASS AI work.
 
-## Strategic Plan Implementation Team (SPIT)
+### Strategic Plan Implementation Team (SPIT)
 
 **Member (2024); Chair (2025).** Co-Chair in 2024 was Nicole Smeltekop.
 
@@ -419,7 +419,7 @@ MSU Libraries service in this period has been varied — Space Planning Committe
 
 As a follow-up, helped organize a staff-development event in strategic storytelling led by Elise Jajuga, providing feedback, serving as a practice audience for early drafts, and introducing and participating in the event itself. Also coordinated with Alex Rivera (Team liaison to EC) so the Team would not recruit a new cohort, allowing this term to be the last under its current arrangement; leadership will evaluate future needs as needed.
 
-#### Artifacts
+##### Artifacts
 
 ▪ [**Artifact link: Summer 2024 event description** (external)](https://docs.google.com/document/d/16xRvQzjhAEO1Ibwc2Cf3_9aaN3XDOnTtEpPWot2TyDk/edit?usp=sharing)
 

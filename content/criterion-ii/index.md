@@ -81,17 +81,17 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 
 - O'Neill, T. _Informed entrepreneurship: Researching business models on the open web._ Global Alliance for Rapid Diagnostics (GARD) Conference, May 2023. [Slides (external) →](https://docs.google.com/presentation/d/1cuYhpU48LMoRgewvz-x20IcZ8n8Sz5tkcj-KdF7Jclw/edit)
 - O'Neill, T. Talk: _Back to Business (Librarianship): Using Logic Modeling and Other Frameworks to Navigate Career Junctures._ BRASS Spring Online Symposium, April 26–27, 2022. [Presentation schedule (external) →](https://docs.google.com/document/d/13ZNFfVwRajxwcqykkgXgBGT-xBoCiq32xvQiZSb-3Fo/edit)
-- O'Neill, T. Poster: _University Technology Transfer Process and University Libraries._ International Conference on Economics and Business Information (INCONECCSS), May 2022.
+- O'Neill, T. Poster: _University Technology Transfer Process and University Libraries._ International Conference on Economics and Business Information (INCONECSS), May 2022.
 - Han, E., & O'Neill, T. _Metadata for 360-Degree Panoramas._ Michigan Academy of Science, Arts and Letters, March 2021.
 - O'Neill, T., Perentesis, S., & Tans, E. _Sustainability Canvas._ Libraries 2.020 Online Conference, October 2020.
 - Cregan-Evans, N., & O'Neill, T. _Using IglooVision Technology in a Higher-Education Environment._ EdTechX Online Conference, May 2020.
 
-> [!quote] Unsolicited feedback after the BRASS Logic Modeling talk
+> [!quote] Unsolicited feedback after the BRASS Logic Modeling talk — a fellow librarian at another institution
 > Terence — I don't know if you've heard about what's happening at [redacted], but I just watched your presentation from last week and it hit home for me! So many of us are exiting the pandemic having to reflect hard on our changed jobs and the nature of what we do. Your presentation was very timely. Thanks for your approach! It was helpful to have a framework to reflect on these things.
 
 ### Guest instruction (invited)
 
-- _Entrepreneurship Essentials._ Invited presentation for Meisei High School, Fuchu City, Saitama Prefecture, Japan (2023), at the invitation of entrepreneurship instructor Hajime Katawba.
+- _Entrepreneurship Essentials._ Invited presentation for Meisei High School, Fuchu City, Tokyo, Japan (2023), at the invitation of entrepreneurship instructor Hajime Katawba.
 
 ## Exhibits and Other Creative Work
 
@@ -130,7 +130,7 @@ I have sought structured mentorship deliberately, as both a way to learn and as 
 
 ### Language study
 
-- Japanese — ongoing, supporting FSA Japan instruction and possible future research. Regular language exchange with a Tokyo-based high-school entrepreneurship/English educator; self-study via a variety of materials; progressing toward JLPT N4, with self-administered test indicating N5-level knowledge has been achieved.
+- Japanese — ongoing, supporting FSA Japan instruction and possible future research. Regular language exchange with Hajime Katawba, a Tokyo-based high-school entrepreneurship/English educator; self-study via a variety of materials; progressing toward JLPT N4, with self-administered test indicating N5-level knowledge has been achieved.
 
 ### Communities of practice and continued learning
 

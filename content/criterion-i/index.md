@@ -20,7 +20,7 @@ I connect entrepreneurship students to library resources and information literac
 
 Entrepreneurs do difficult, rich information work: they weave coherent, risky projects out of their own ideas, conversations with potential customers and partners, and the things they read. My principal work is helping nascent, beginner entrepreneurs develop these skillsets of information finding and synthesis.
 
-The Entrepreneurship program I serve is well-regarded and broad: MSU is ranked #11 nationally for undergraduate entrepreneurship, with over 150 undergraduate majors represented in the Minor in Entrepreneurship & Innovation (2024–2025 Annual Report). Through the Minor and its co-curricular offerings, the Burgess Institute for Entrepreneurship and Innovation supports this diverse student body with a wide range of activities. I seek programmatic connections to that existing work, and I develop these connections in various ways: sometimes co-developing a model over time, sometimes connecting resources to something already in place, sometimes extending a model that works in another context to MSU. My career has run alongside the Minor itself (introduced 2018) and alongside Ken Szymusiak, Academic Director of the Burgess Institute, who joined MSU within six months of my own start.
+The Entrepreneurship program I serve is well-regarded and broad: MSU is ranked #11 nationally for undergraduate entrepreneurship, with over 150 undergraduate majors represented in the Minor in Entrepreneurship & Innovation (2024–2025 Annual Report). Through the Minor and its co-curricular offerings, the Burgess Institute for Entrepreneurship and Innovation supports this diverse student body with a wide range of activities. I seek programmatic connections to that existing work, and I develop these connections in various ways: sometimes co-developing a model over time, sometimes connecting resources to something already in place, sometimes extending a model that works in another context to MSU. My career has run alongside the Minor itself (introduced 2018) and alongside Ken Szymusiak, Managing Director of the Burgess Institute, who joined MSU within six months of my own start.
 
 ### Teaching at a glance
 
@@ -34,7 +34,7 @@ Instruction is the largest consistent part of my role as Entrepreneurship Librar
 |2024–25|23|1,750|54|
 |2025–26|ESHP 190 + HRT 407, EGR 440, ESHP 101|~790|32|
 
-Across the cycles with documented counts, that is **78+ section-presentations (2022–23 through 2024–25 alone) and **4,500+ student-presentations** (2022–23, 2024–25, and 2025–26 alone). The 2021–22 and 2025–26 section-presentation counts and the 2021–22 and 2023–24 student-presentation counts weren't captured as single figures.
+Across the cycles with documented counts, that is **78+ section-presentations** (2022–23 through 2024–25 alone) and **4,500+ student-presentations** (2022–23, 2024–25, and 2025–26 alone). The 2021–22 and 2025–26 section-presentation counts and the 2021–22 and 2023–24 student-presentation counts weren't captured as single figures.
 
 ### ESHP 190: The Art of Starting
 
@@ -67,7 +67,7 @@ For context: William Langston served as Entrepreneurship Librarian 2019–2020 a
 
 Because the Minor draws students from across MSU, I develop relationships and field invitations to work with courses throughout the curriculum, and I coach students in co-curricular settings. One feature of this work is that I may collaborate closely with Library colleagues. Courses and venues during the review period include:
 
-- **BE / EGR 440** — Entrepreneurial Engineering for Innovation in Health and Safety (Evangeline Alocilja; collaborative sessions with Tom Volkening, Sheila Bryant, and Andrea Kepsel).
+- **BE / EGR 440** — Entrepreneurial Engineering for Innovation in Health and Safety (Evangeline Alocilja; collaborative sessions with Tom Volkening and Sheila Bryant).
 - **MGT 352** — with Laurel Ofstein, faculty director of the Burgess Institute (2024–25).
 - **HRT 407** — in collaboration with Suzi Teghtmeyer (~20 students per session).
 - **ESHP 101**, **ESHP 480** (first-time outreach, 2023–24), **BUS 100 / BUS 101**, Hospitality Business, Engineering Entrepreneurship, and the International Business Student Association.
@@ -82,9 +82,11 @@ Because the Minor draws students from across MSU, I develop relationships and fi
 
 ▪ [Artifact link: HRT 407 course guide (external)](https://libguides.lib.msu.edu/HORT407)
 
-> [!quote] Suzi Teghtmeyer, Reference Librarian (Agriculture, AFRE, Plant Sciences), MSU Libraries — September 2025 Terence has come with me before and we make a good team.
+> [!quote] Suzi Teghtmeyer, Reference Librarian (Agriculture, AFRE, Plant Sciences), MSU Libraries — September 2025
+> Terence has come with me before and we make a good team.
 
-> [!quote] Dr. Simone Valle de Souza, Department of Horticulture — September 2025 You are so kind, Terence, thank you for spending extra time on helping our students! Looking forward to seeing you again in the Spring for HRT 404.
+> [!quote] Dr. Simone Valle de Souza, Department of Horticulture — September 2025
+> You are so kind, Terence, thank you for spending extra time on helping our students! Looking forward to seeing you again in the Spring for HRT 404.
 
 <details> <summary><strong>Artifact: Email thread — HRT 407 session, connectivity workaround, and HRT 404 continuation</strong></summary>
 
@@ -150,7 +152,7 @@ Because the Minor draws students from across MSU, I develop relationships and fi
 
 ### Midwest Entrepreneurship Case Competition (MECC)
 
-In 2022, looking to build projects that fit students' interests while foregrounding information literacy, I brainstormed a case competition with Heather Howard of Purdue University. Case competitions matter at MSU: the Broad College's stated goal is that every undergraduate participate in one. Heather and I were motivated to create a _new_ one in a crowded field that deliberately focused on **information synthesis for entrepreneurship**: how students integrate information across secondary resources such as library databases to develop and support their arguments.
+In 2022, looking to build projects that fit students' interests while foregrounding information literacy, I brainstormed a case competition with a collaborator at Purdue University. Case competitions matter at MSU: the Broad College's stated goal is that every undergraduate participate in one. We were motivated to create a _new_ one in a crowded field that deliberately focused on **information synthesis for entrepreneurship**: how students integrate information across secondary resources such as library databases to develop and support their arguments.
 
 Working with business librarians across several Midwest institutions, my collaborators and I built and grew the event over three cycles. My contributions: seeding the concept, recruiting the planning team, reading and selecting cases, drafting various materials, and recruiting judges and partner schools (including MSU's Ken Szymusiak). I will continue to be directly involved as we move to our next iteration.
 
@@ -170,7 +172,7 @@ Thread among Terence O'Neill (MSU), a Purdue collaborator, and an Indiana Univer
 > 
 > Hope you are both enjoying the start of your summer and that you're doing well!
 > 
-> Ilana, Heather and I were talking earlier this week, and landed on the possibility of putting together an Entrepreneurship Case Competition. Not much in the way of details yet, but we'd like to invite you to the early stages of planning if you are interested. Would you two like to have a meeting in September to talk about this possibility?
+> My collaborators and I were talking earlier this week, and landed on the possibility of putting together an Entrepreneurship Case Competition. Not much in the way of details yet, but we'd like to invite you to the early stages of planning if you are interested. Would you two like to have a meeting in September to talk about this possibility?
 > 
 > Have a great weekend.
 > 
@@ -206,7 +208,7 @@ Thread among Terence O'Neill (MSU), a Purdue collaborator, and an Indiana Univer
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** October 3, 2022
 > 
-> Hi Heather & Ilana, I hope you are enjoying some crisp early fall weather. Good weather for good beer and getting outside!
+> Hi both, I hope you are enjoying some crisp early fall weather. Good weather for good beer and getting outside!
 > 
 > I have a new poll for the first two weeks of November, to have a preliminary discussion on what an Entrepreneurship Case Competition could look like: http://whenisgood.net/eshp
 > 
@@ -284,7 +286,8 @@ The impact often surfaces years later. Ventures I consulted with have gone on to
 
 <details> <summary><strong>Artifact: MBA "Sparty Green" — international library resource guide</strong></summary> <iframe src="https://drive.google.com/file/d/1IrHABDTePSH-ABQwWCCkW1drOYJW6OXf/preview" width="100%" height="480"></iframe> </details>
 
-> [!quote] Burgess Discovery Program student founder — December 2025 Thank you, Mr. O'Neill! This is above and beyond.
+> [!quote] Burgess Discovery Program student founder — December 2025
+> Thank you, Mr. O'Neill! This is above and beyond.
 
 <details> <summary><strong>Artifact: Email thread — Burgess Discovery pipeline referral</strong></summary>
 
@@ -308,7 +311,8 @@ This consultation reached me through the Burgess Institute referral pathway: a s
 
 </details>
 
-> [!quote] Student founder, food & beverage venture — June 2023 Yes, these are extremely helpful! Especially the ice cream and protein industry reports. I really appreciate it!
+> [!quote] Student founder, food & beverage venture — June 2023
+> Yes, these are extremely helpful! Especially the ice cream and protein industry reports. I really appreciate it!
 
 <details> <summary><strong>Artifact: Email thread — representative consultation outcome</strong></summary>
 
@@ -364,7 +368,7 @@ A self-publishing and copyright inquiry from a retired faculty member. Because t
 
 </details>
 
-## Community-conscious business
+## Community-conscious Business
 
 As liaison to MSU's Center for Ethical and Socially Responsible Leadership (CESRL), I look for ways to embed library expertise into ethics-focused programming for Broad College students and the wider campus.
 
@@ -372,7 +376,7 @@ As liaison to MSU's Center for Ethical and Socially Responsible Leadership (CESR
 
 I designed and convened this panel as part of my CESRL liaison work; it also served MSU's institutional Ethics Week, extending reach well beyond library audiences. For this panel, I created the theme, recruited and aligned the panelists, met with them to narrow the sub-topics, coordinated logistics, and developed the questions across multiple rounds.
 
-The panel brought together expertise across disciplines: media and information policy (Johannes Bauer, Quello Chair, College of Communication Arts and Sciences), library copyright stewardship (Susan Kendall, Head of Collection Strategies and Copyright Librarian), teaching and learning innovation (Marcio Oliveira, Vice Provost for Teaching and Learning Innovation), and computer science research (Sara Rezaeimanesh, PhD candidate, College of Engineering). It was moderated by Kay Firth-Butterfield (CEO, Good Tech Advisory; inaugural Head of AI and Machine Learning at the World Economic Forum) and introduced by Dean Neil Romanosky. 41 attendees came from across campus.
+The panel brought together expertise across disciplines: media and information policy (Johannes Bauer, Quello Chair, College of Communication Arts and Sciences), library copyright stewardship (Susan Kendall, Head of Collection Strategies and Copyright Librarian), teaching and learning innovation (Marcio Oliveira, Vice Provost for Teaching and Learning Innovation), and computer science research (Sara Rezaeimanesh, PhD candidate, College of Engineering). It was moderated by Kay Firth-Butterfield (CEO, Good Tech Advisory; inaugural Head of AI and Machine Learning at the World Economic Forum) and introduced by Dean Neil Romanosky. 45 attendees came from across campus.
 
 At the panelists' request, the conversation was not recorded, so they might speak freely without statements being interpreted as policy. The artifact compiled here is therefore a record of the _convening_ work, which is the contribution: aligning four panelists across three colleges and the Provost's office, coordinating with Ethics Week organizers, and shaping a discussion substantive for both library and non-library audiences.
 
@@ -390,7 +394,7 @@ For a CESRL-run Broad College student debate — "Is nuclear power an appropriat
 
 ▪ [**Artifact link: CESRL debate LibGuide — nuclear power for data centers** (external)](https://libguides.lib.msu.edu/nuclearfordatacenters)
 
-### Community-Centric Economic Development (CCED)
+### Center for Community & Economic Development (CCED)
 
 I am the only librarian on the CCED Consultative Panel, and I take on occasional deep, community-impact projects that also sharpen my understanding of how non-academic users synthesize secondary information.
 
@@ -402,7 +406,8 @@ I am the only librarian on the CCED Consultative Panel, and I take on occasional
 
 In-depth reference support for the Center for Community Economic Development on the feasibility of grading reclaimed timber for structural reuse in Michigan. The question had no clean answer — my synthesis established that no robust grading ecosystem for reused timber exists in Michigan, then mapped the adjacent landscape: grading standards and processes, international precedents (Australia/NZ, UK), regional organizations and firms, and MSU-connected expertise. The deliverable was handed to CCED research assistants as a structured starting point for their own investigation.
 
-> [!quote] CCED Undergraduate Research Assistant — November 8, 2022 Wow! This is excellent! Thank you so much for this thorough review, we will get our research assistants looking at these sources ASAP.
+> [!quote] CCED Undergraduate Research Assistant — November 8, 2022
+> Wow! This is excellent! Thank you so much for this thorough review, we will get our research assistants looking at these sources ASAP.
 
 <details> <summary><strong>Artifact: Email thread — reclaimed timber grading research</strong></summary>
 
@@ -465,15 +470,16 @@ In-depth reference support for the Center for Community Economic Development on 
 
 </details>
 
-**Related sections:** Criterion I → Reference · Criterion I → Community-Centric Economic Development
+**Related sections:** Criterion I → Reference · Criterion I → Center for Community & Economic Development
 
 #### REI Co-Learning Plans on Humanities Commons — Partner Recognition
 
 Recognition from a colleague at the Regional Economic Innovation (REI) program, MSU Center for Community and Economic Development, for my role in connecting REI to Humanities Commons as a repository platform for its Co-Learning Plan series. The note was shared with the full REI board, whose members span partner offices across the state, including Senator Gary Peters' office. The introduction — brokered between REI and a member of the Humanities Commons team — resulted in 135 Co-Learning Plans uploaded, with over 3,000 downloads and/or views within the first six months.
 
-> [!quote] Jenan Jondy, Regional Economic Innovation Coordinator (MSU Center for Community and Economic Development) — May 2024 I just saw that you will not be able to attend the January meeting. So, I wanted to be sure to say THANK YOU for introducing me to _[Humanities Commons team member]_ — and REI to Humanities Commons! Our current data shows that there have been over 3,000 downloads and/or views of the 135 Co-Learning Plans that have been uploaded — in only six months! You have been a great partner to work with and I appreciate your engagement with REI.
+> [!quote] Jenan Jondy, Regional Economic Innovation Coordinator (MSU Center for Community and Economic Development) — May 2024
+> I just saw that you will not be able to attend the January meeting. So, I wanted to be sure to say THANK YOU for introducing me to _[Humanities Commons team member]_ — and REI to Humanities Commons! Our current data shows that there have been over 3,000 downloads and/or views of the 135 Co-Learning Plans that have been uploaded — in only six months! You have been a great partner to work with and I appreciate your engagement with REI.
 
-**Related sections:** Criterion I → Community-Centric Economic Development · Criterion I → Digital Scholarship
+**Related sections:** Criterion I → Center for Community & Economic Development · Criterion I → Digital Scholarship
 
 #### Adult Workforce Development Referrals — Lenawee Now (June 2024)
 
@@ -511,21 +517,22 @@ Reference and referral support for Lenawee Now, a county economic-development or
 
 </details>
 
-**Related sections:** Criterion I → Reference · Criterion I → Community-Centric Economic Development
+**Related sections:** Criterion I → Reference · Criterion I → Center for Community & Economic Development
 
 ## International Business
 
 International business is a developing and increasingly coherent area of my liaison work. This area threads through the rest of my work and points forward: it underpins my First-Year Seminar Abroad teaching in Japan (Cr. II), is reinforced by my ongoing Japanese-language study (Cr. II) and my service on MSU's Japan Council (Cr. III), and sets up future directions.
 
 - **International Business Center (IBC / CIBER) partnership** — a longstanding Gast relationship I help sustain, serving as a contact on database status and attending the Center's research presentations to stay current with international-business research practice (e.g., sessions in 2023; specific sessions are listed under Cr. II professional development).
-- **MBA entrepreneurship / foreign-market research workshop** (2024–25) — I created ten customized, country-specific database resource guides for a week-long workshop led by K. Szymusiak and S. Redd, directing students to MSU and external international-business resources.
+- **MBA entrepreneurship / foreign-market research workshop** (2024–25) — I created twelve customized, country-specific database resource guides for a week-long workshop led by Ken Szymusiak and Shana Redd-Sleep, directing students to MSU and external international-business resources.
 - **International Business Student Association** — presentation/engagement (2024–25).
 
 ### IBSO Guest Presentation — International Business Resources (February 6, 2024)
 
 An invited presentation to the International Business Student Organization (IBSO), a Broad College student group. A student executive board member requested a Gast Business Library speaker on resources for exploring, researching, and keeping current with international business; I presented in person at the February 6, 2024 evening meeting. The follow-up note confirms student impact secondhand and includes a return invitation. The thread closes with individual mentoring: the student, a Japanese minor, asked about Japan programs, and I connected my FSA Japan teaching experience to a referral toward JCMU and Broad education-abroad options.
 
-> [!quote] IBSO executive board member (Broad College student) — February 7, 2024 Thank you so much for speaking to the IBSO this evening! I had multiple people come tell me afterwards how much they learned from your presentation. We'd love to have you back in the future as we build our member-base!
+> [!quote] IBSO executive board member (Broad College student) — February 7, 2024
+> Thank you so much for speaking to the IBSO this evening! I had multiple people come tell me afterwards how much they learned from your presentation. We'd love to have you back in the future as we build our member-base!
 
 <details> <summary><strong>Artifact: Email thread — IBSO guest presentation</strong></summary>
 
@@ -569,7 +576,9 @@ Library support for the Full-Time MBA capstone corporate-innovation challenge, c
 
 **Markets covered:** Germany, Japan, Australia, India, Switzerland, France, United Kingdom, Singapore, Sweden/Denmark/Netherlands, South Korea, Hong Kong, Spain.
 
-> [!quote] Ken Szymusiak (Managing Director – Academic Programs, Burgess Institute) and Shana Redd-Sleep (Assistant Professor of Marketing, University of Nebraska Omaha) — August 13, 2024 **Ken:** Wow Terence! Thank you so much for your support! **Shana:** Terence, this is awesome! Thank you so very much!
+> [!quote] Ken Szymusiak (Managing Director, Burgess Institute) and Shana Redd-Sleep (Assistant Professor of Marketing, University of Nebraska Omaha) — August 13, 2024
+> **Ken:** Wow Terence! Thank you so much for your support!
+> **Shana:** Terence, this is awesome! Thank you so very much!
 
 <details> <summary><strong>Artifact: Email thread — Extreme Green / TechSmith country briefings</strong></summary>
 
@@ -628,7 +637,7 @@ Library support for the Full-Time MBA capstone corporate-innovation challenge, c
 
 ## Digital Scholarship
 
-### Head of Digital Scholarship Services (2019–2022)
+### Head of Digital Scholarship Services (2019–2021)
 
 Before returning to the Entrepreneurship Librarian role, I led the Digital Scholarship Services Unit, helping the Digital Scholarship Lab (DSL) through its first years amid heavy transitions in the field and at MSUL — including navigating COVID closures, modified policies, and reopening. During this time the DSL:
 
