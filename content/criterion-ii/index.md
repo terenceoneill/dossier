@@ -1,7 +1,11 @@
 ---
 title: Criterion II
 ---
-# Criterion II
+---
+title: Criterion II
+---
+
+## Introduction
 
 My scholarly and creative work synthesizes three threads that also define my primary assignment: entrepreneurship, information literacy, and digital scholarship. The unifying question running through much of my Criterion II work is how entrepreneurs synthesize information — from their own ideas, the primary research they gather from prospective customers and partners, and the secondary research that libraries provide — into coherent business models, and how librarians can best support that integrative work.
 

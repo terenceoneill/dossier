@@ -1,9 +1,11 @@
 ---
 title: Criterion III
 ---
-# Criterion III — Service & Professional Contributions
+---
+title: Criterion III
+---
 
-## Overview / highlighted contributions
+## Introduction
 
 Service is an important part of the work for MSU Libraries and a place to support other professionals toward shared goals, across three domains: national organizations (ALA via RUSA and BRASS; ACRL/DSS), MSU and state/local, and MSU Libraries.
 

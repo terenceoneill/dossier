@@ -2,10 +2,8 @@
 title: Criterion I
 ---
 ---
-
-## title: Criterion I
-
-# Criterion I
+title: Criterion I
+---
 
 ## Introduction
 
