@@ -46,7 +46,7 @@ This is the through-line of my scholarship and grows directly out of my work as 
 ### Peer-reviewed articles
 
 - O'Neill, T. W. (2026). Librarian support of entrepreneurs: Reflections on information synthesis. _Journal of Business & Finance Librarianship, 31_(1), 45–56. [https://doi.org/10.1080/08963568.2025.2549152](https://doi.org/10.1080/08963568.2025.2549152)
-- O'Neill, T. W. (under review). Information synthesis-based entrepreneurship librarianship: How librarians support development of evaluative and integrative capacity in nascent entrepreneurs. _Ticker: The Academic Business Librarianship Review._ Preprint: [SSRN (external) →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6529278)
+- O'Neill, T. W. (revise and resubmit). Information synthesis-based entrepreneurship librarianship: How librarians support development of evaluative and integrative capacity in nascent entrepreneurs. _Ticker: The Academic Business Librarianship Review._ Preprint: [SSRN (external) →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6529278)
 - Mayhook, Z. A., Bochenek, A., Grauel, E., Minser, H., O'Neill, T. W., Stonebraker, I., & Vasquez, J. (2025). Building a regional library-led case competition: Reflections from librarians and vendor partners. _Ticker: The Academic Business Librarianship Review, 10_(1). [https://doi.org/10.3998/ticker.7318](https://doi.org/10.3998/ticker.7318)
 - O'Neill, T. W. (2023). Data storytelling: Combining data literacy and design thinking for a semester-long course. _Ticker: The Academic Business Librarianship Review, 8_(1). [https://doi.org/10.3998/ticker.4467](https://doi.org/10.3998/ticker.4467)
 
