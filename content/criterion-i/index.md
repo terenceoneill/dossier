@@ -1,6 +1,10 @@
 ---
 title: Criterion I
 ---
+---
+
+## title: Criterion I
+
 # Criterion I
 
 ## Introduction
@@ -28,13 +32,13 @@ The Entrepreneurship program I serve is well-regarded and broad: MSU is ranked #
 
 Instruction is the largest consistent part of my role as Entrepreneurship Librarian. Two measures I'll present here: **section-presentations** (the number of times I present to separate course sections) and **student-presentations** (total student-contact instances). The counts below come from the annual evaluations; not every year recorded both, so the grand total is given as a documented minimum rather than a precise figure.
 
-| Review cycle | Section-Presentations (excl. my courses)                                            | Student-presentations   | Reference / consultations |
-| ------------ | ----------------------------------------------------------------------------------- | ----------------------- | ------------------------- |
-| 2021–22      | ~4 entrepreneurship courses (Fall '21) + ~4 (Spring '22) + 3 "2-Day Venture" events | not separately recorded | —                         |
-| 2022–23      | 29                                                                                  | 2,000+                  | 75 (32 entrepreneurship)  |
-| 2023–24      | 26                                                                                  | not separately recorded | 73                        |
-| 2024–25      | 23                                                                                  | 1,750                   | 54                        |
-| 2025–26      | ESHP 190 + HRT 407, EGR 440, ESHP 101                                               | ~790                    | 32                        |
+|Review cycle|Section-Presentations (excl. my courses)|Student-presentations|Reference / consultations|
+|---|---|---|---|
+|2021–22|~4 entrepreneurship courses (Fall '21) + ~4 (Spring '22) + 3 "2-Day Venture" events|not separately recorded|—|
+|2022–23|29|2,000+|75 (32 entrepreneurship)|
+|2023–24|26|not separately recorded|73|
+|2024–25|23|1,750|54|
+|2025–26|ESHP 190 + HRT 407, EGR 440, ESHP 101|~790|32|
 
 Across the cycles with documented counts, that is **78+ section-presentations (2022–23 through 2024–25 alone) and **4,500+ student-presentations** (2022–23, 2024–25, and 2025–26 alone). The 2021–22 and 2025–26 section-presentation counts and the 2021–22 and 2023–24 student-presentation counts weren't captured as single figures.
 
@@ -61,26 +65,7 @@ For context: William Langston served as Entrepreneurship Librarian 2019–2020 a
 
 #### Artifacts
 
-<details>
-<summary><strong>Artifact: ESHP 190 — introductory lecture deck (frameworks and information literacy)</strong></summary>
-
-<iframe src="https://drive.google.com/file/d/1Cj-m2UwzVveRpTVbkwA1IYL4tFDHcoxj/preview" width="100%" height="480" allow="autoplay"></iframe>
-
-</details>
-
-<details>
-<summary><strong>Artifact: ESHP 190 — sections/labs deck (active work and technology integration)</strong></summary>
-
-<iframe src="https://drive.google.com/file/d/1bVHsiF7MlY11Ub-SldAMlowOEMiSz5Mc/preview" width="100%" height="480" allow="autoplay"></iframe>
-
-</details>
-
-<details>
-<summary><strong>Artifact: ESHP 190 — section activity deck</strong></summary>
-
-<iframe src="https://drive.google.com/file/d/1sBGM78R4Gr_FIijk9wjMeT2jpR9r0dQe/preview" width="100%" height="480" allow="autoplay"></iframe>
-
-</details>
+<details> <summary><strong>Artifact: ESHP 190 — introductory lecture deck (frameworks and information literacy)</strong></summary> <iframe src="https://drive.google.com/file/d/1Cj-m2UwzVveRpTVbkwA1IYL4tFDHcoxj/preview" width="100%" height="480" allow="autoplay"></iframe> </details> <details> <summary><strong>Artifact: ESHP 190 — sections/labs deck (active work and technology integration)</strong></summary> <iframe src="https://drive.google.com/file/d/1bVHsiF7MlY11Ub-SldAMlowOEMiSz5Mc/preview" width="100%" height="480" allow="autoplay"></iframe> </details> <details> <summary><strong>Artifact: ESHP 190 — section activity deck</strong></summary> <iframe src="https://drive.google.com/file/d/1sBGM78R4Gr_FIijk9wjMeT2jpR9r0dQe/preview" width="100%" height="480" allow="autoplay"></iframe> </details>
 
 **Related sections:** Letter of recommendation — Ken Szymusiak · Cr. II: _Librarian support of entrepreneurs_ (JBFL, 2026)
 
@@ -103,27 +88,30 @@ Because the Minor draws students from across MSU, I develop relationships and fi
 
 ▪ [Artifact link: HRT 407 course guide (external)](https://libguides.lib.msu.edu/HORT407)
 
-<details>
-<summary><strong>Artifact: Email thread — HRT 407 session, connectivity workaround, and HRT 404 continuation</strong></summary>
+> [!quote] Suzi Teghtmeyer, Reference Librarian (Agriculture, AFRE, Plant Sciences), MSU Libraries — September 2025 Terence has come with me before and we make a good team.
+
+> [!quote] Dr. Simone Valle de Souza, Department of Horticulture — September 2025 You are so kind, Terence, thank you for spending extra time on helping our students! Looking forward to seeing you again in the Spring for HRT 404.
+
+<details> <summary><strong>Artifact: Email thread — HRT 407 session, connectivity workaround, and HRT 404 continuation</strong></summary>
 
 > **From:** Suzi Teghtmeyer <br> **To:** Simone Valle de Souza <br> **cc:** Terence O'Neill <br> **Date:** September 5, 2025
->
+> 
 > I'm bringing with me business librarian Terence O'Neill to assist with the business side and associated databases. As I was off on sabbatical last fall, I'm feeling a bit rusty and I want to make sure the students get a better how-to than from me alone. Terence has come with me before and we make a good team.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** September 8, 2025
->
+> 
 > Here is the guide I put together for my aspect of this course: [(external) →](https://libguides.lib.msu.edu/HORT407). I thought it would be the best way for students to easily access the resources.
 
 > **↳ Reply** <br> **From:** Simone Valle de Souza <br> **Date:** September 10, 2025
->
+> 
 > My apologies for the internet issues we had. Our IT guru checked and said the room had a cable issue which was allowing a 10% connection capacity. Thank you for sending us the link below! Looking forward to seeing you again in the Spring for HRT 404.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** September 11, 2025
->
+> 
 > You know, it felt like 10%! Here is a twenty-minute video I made to show students the resources I mention in the guide: [(external) →](https://mediaspace.msu.edu/media/HRT+407+Entrepreneurship+resources/1_8g56c6px). Please feel free to reach out if you have any questions.
 
 > **↳ Reply** <br> **From:** Simone Valle de Souza <br> **To:** Terence O'Neill, Suzi Teghtmeyer <br> **Date:** January 5, 2026
->
+> 
 > I'm here again on this new year, asking for your assistance showing our students how to navigate library resources! I'll be teaching HRT 404 — Horticulture Management this Spring. [Scheduling followed; the session was set for January 27.]
 
 </details>
@@ -132,38 +120,36 @@ Because the Minor draws students from across MSU, I develop relationships and fi
 
 ▪ [Artifact link: EGR 440 session recording (external)](https://mediaspace.msu.edu/id/1_or9cjw3s)
 
-<details>
-<summary><strong>Artifact: Email thread — EGR 440 session planning with a Library colleague</strong></summary>
+<details> <summary><strong>Artifact: Email thread — EGR 440 session planning with a Library colleague</strong></summary>
 
 > **From:** Terence O'Neill <br> **To:** Colleen Lyon <br> **Date:** September 23, 2025
->
+> 
 > I'm brainstorming what type of company I want to focus on for EGR 440, just as an example to look up different types of materials. In the past, I've looked at mushroom-based construction materials. I'm currently thinking of something like an IT services company that develops environments immune to hacking, targeting small businesses that deal in secure information, like law offices and financial professionals. It's fairly fuzzy, but that's okay as long as I can communicate — I always try to put on the hat of a person who has an idea in the early stages.
 
 > **↳ Reply** <br> **From:** Colleen Lyon <br> **Date:** September 26, 2025
->
+> 
 > I just want to make sure I've got the division of labor correct. You'll be showing more about how to search for the business aspects of their topics, and I'm showing more about how to investigate the technology/engineering aspects of their idea. Is that right?
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** September 26, 2025
->
+> 
 > Standards are always good to talk about, and they would fall entirely to you, because I don't know much about them. WoS, Engineering Village, how to interact with the library website, all of that is helpful. During my portion, I tend to go directly to the weird business databases that I use and are business specific. Would you like to go first? I think it's generally helpful, since your portion tends to be a bit more focused and structured, due to the nature of the resources.
 
 > **↳ Reply** <br> **From:** Colleen Lyon <br> **Date:** September 30, 2025
->
+> 
 > Here's the outline I have so far: a brief overview of paid library resources vs. free content; highlights of the MSUL website; creating a search; systematically searching with demos in WoS and Engineering Village; a brief overview of standards; and citation managers if time. I'll try to keep mine to 30 minutes.
 
 </details>
 
 **MGT 352 — Ofstein.** A session with Laurel Ofstein (faculty director of the Burgess Institute) that also let me connect her to the Makerspace and Digital Scholarship Lab as teaching resources.
 
-<details>
-<summary><strong>Artifact: Email thread — MGT 352, connecting course faculty to Library innovation spaces</strong></summary>
+<details> <summary><strong>Artifact: Email thread — MGT 352, connecting course faculty to Library innovation spaces</strong></summary>
 
 > **From:** Laurel Ofstein <br> **To:** Terence O'Neill <br> **Date:** January 12, 2023
->
+> 
 > Thank you so much for the tour this morning! The spaces we saw are such amazing resources for students and I will be thinking about how I can integrate them into my future classes. I look forward to continuing the conversation around MGT 352 too.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** January 2023
->
+> 
 > I'm very glad you got the chance to learn a bit more about these resources! I've attached the slides I used with MGT 352 in Spring of 2022, and the small worksheet we used to support the search-work the students were doing. Also, here is the link to the VR workshop that Tim mentioned, and the upcoming Makerspace events.
 
 </details>
@@ -180,129 +166,112 @@ Working with business librarians across several Midwest institutions, my collabo
 
 #### Artifacts
 
-<details>
-<summary><strong>Artifact: Email thread — origins of the case competition (June–October 2022)</strong></summary>
+<details> <summary><strong>Artifact: Email thread — origins of the case competition (June–October 2022)</strong></summary>
 
 Thread among Terence O'Neill (MSU), a Purdue collaborator, and an Indiana University collaborator, documenting the initial invitation and planning for what became the case competition.
 
 > **From:** Terence O'Neill <br> **To:** Purdue collaborator; Indiana University collaborator <br> **Date:** June 10, 2022
->
+> 
 > Happy Friday afternoon!
->
+> 
 > Hope you are both enjoying the start of your summer and that you're doing well!
->
+> 
 > Ilana, Heather and I were talking earlier this week, and landed on the possibility of putting together an Entrepreneurship Case Competition. Not much in the way of details yet, but we'd like to invite you to the early stages of planning if you are interested. Would you two like to have a meeting in September to talk about this possibility?
->
+> 
 > Have a great weekend.
->
+> 
 > Terence
 
 > **↳ Reply** <br> **From:** Indiana University collaborator <br> **Date:** July 5, 2022
->
+> 
 > Hi Terence, Seeing you at ALA reminded me that I never responded! I'd love to help.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** July 7, 2022
->
+> 
 > Great. One of the small advantages of showing up at conferences! It was good to see you and your family, if very briefly!
->
+> 
 > I've created a Whenisgood for the first two weeks of September: http://whenisgood.net/case22
->
+> 
 > Our results will appear here: http://whenisgood.net/case22/results/4xky3tq (results code: 4xky3tq)
->
+> 
 > I'll check back in a week to see if we have a good time, and then setup a zoom invite.
->
+> 
 > Thank you both, and I look forward to talking with you about this possibility!
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** August 22, 2022
->
+> 
 > Hello again! Since we started this poll in the distant past, I'm going to say it's no longer relevant. When would you all like to meet? It could be later in the semester (early November?) if that works for you two.
 
 > **↳ Reply** <br> **From:** Indiana University collaborator <br> **Date:** August 22, 2022
->
+> 
 > Hi Terence, It's first day of classes here, so probably next week I will know my schedule better, but early November sounds great.
 
 > **↳ Reply** <br> **From:** Purdue collaborator <br> **Date:** August 22, 2022
->
+> 
 > Same here, that sounds great.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** October 3, 2022
->
+> 
 > Hi Heather & Ilana, I hope you are enjoying some crisp early fall weather. Good weather for good beer and getting outside!
->
+> 
 > I have a new poll for the first two weeks of November, to have a preliminary discussion on what an Entrepreneurship Case Competition could look like: http://whenisgood.net/eshp
->
+> 
 > That's all for now, have a great week.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** October 3, 2022
->
+> 
 > Thank you both for the quick response! Let's go with Thursday, November 3 at 2 pm. We can use this Zoom room, which is recurring in case that ends up being helpful: _[Zoom link redacted]_
->
+> 
 > Talk to you both in November.
 
 > **↳ Reply** <br> **From:** Indiana University collaborator <br> **Date:** October 2022
->
+> 
 > Yep! And you can see she may be interested in judging as well.
 
-</details>
-
-<details>
-<summary><strong>Artifact: Broad 360 credit verification — Data Visualization Basics workshop</strong></summary>
+</details> <details> <summary><strong>Artifact: Broad 360 credit verification — Data Visualization Basics workshop</strong></summary>
 
 Following the Data Visualization Basics workshop, I coordinated with the Broad College of Business to verify student participation for Broad 360 (Suitable) integrative-experience credit. All six participating students received credit.
 
 > **From:** Terence O'Neill <br> **To:** Director, Undergraduate Student Engagement, Broad College of Business <br> **Date:** February 10, 2026
->
+> 
 > Hi [redacted],
->
+> 
 > I didn't know what steps to take for verifying that students attended. Here is a list of their netids:
->
+> 
 > _[Six student netids redacted]_
->
+> 
 > Let me know if you need anything else! I'll send a similar list for the Case Competition, unless you'd like a different process.
->
+> 
 > Terence
 
-</details>
-
-<details>
-<summary><strong>Artifact: Email thread — MECC launch and Burgess Institute promotion (December 2023)</strong></summary>
+</details> <details> <summary><strong>Artifact: Email thread — MECC launch and Burgess Institute promotion (December 2023)</strong></summary>
 
 > **From:** Terence O'Neill <br> **To:** Burgess Institute team <br> **Date:** December 7, 2023
->
+> 
 > Hi everyone,
->
+> 
 > Over the past year or so I've been working with partners at Indiana University and Purdue University to create a case competition focused on using resources for validating an entrepreneurial idea. We're ready to launch this upcoming spring, and teams from Michigan State University are encouraged to participate. Registration is 1/10/24 to 2/9/24, and our first-round submission is due 2/16/24.
->
+> 
 > The winning teams will receive the following prizes, courtesy of Simply Analytics: $1000 for first place, $750 for second place, $500 for third place.
->
+> 
 > We'll be flying the attached digital sign in the Business College Complex in January, and here is our website: [Midwest Entrepreneurship Case Competition (external) →](https://sites.google.com/view/mwentrecc/home)
->
+> 
 > I would love your support in promoting this to potential student participants, including this in your course slides (or allowing me to do so if I'm visiting your class!). The event is totally online, and will be a great opportunity for students to network, learn some skills relating to market validation, and potentially win some money.
->
+> 
 > Please let me know if you have any questions or have any ideas for how I can promote this event!
->
+> 
 > Take care for now, and have a great holiday season.
->
+> 
 > Terence
 
 > **↳ Reply** <br> **From:** Events & Engagement Manager, Burgess Institute <br> **Date:** December 2023
->
+> 
 > Thanks for the information, Terence! We'd be happy to promote. I've added Aaryn and his team to ensure that this is included in our event line-up for promotion across our platforms in the coming months. Happy Holidays!
 
-</details>
-
-<details>
-<summary><strong>Artifact: MECC — integration with the Broad College</strong></summary>
-
-<iframe src="https://drive.google.com/file/d/1UhNPiuh5Cg1WDAMB_X8Jie53nAzmrfaj/preview" width="100%" height="480"></iframe>
-
-</details>
-
-<details>
-<summary><strong>Artifact: Note from a case competition guest judge (February 2025)</strong></summary>
+</details> <details> <summary><strong>Artifact: MECC — integration with the Broad College</strong></summary> <iframe src="https://drive.google.com/file/d/1UhNPiuh5Cg1WDAMB_X8Jie53nAzmrfaj/preview" width="100%" height="480"></iframe> </details> <details> <summary><strong>Artifact: Note from a case competition guest judge (February 2025)</strong></summary>
 
 > **From:** Case competition guest judge <br> **Date:** February 2025
->
+> 
 > Hi Zoe and Team, Thank you for your kind words — and many thanks for including me in this event in the first place. I enjoyed the experience very much. Many of the students have already reached out to me, so that's great. Thanks again. Best.
 
 </details>
@@ -319,55 +288,49 @@ The impact often surfaces years later. Ventures I consulted with have gone on to
 
 ▪ [**Artifact link: Product Center — collection of responses** (external)](https://drive.google.com/drive/folders/14OxTX9ICv5o4oiaYa2wOjuv17KhLeQF7)
 
-<details>
-<summary><strong>Artifact: MBA "Sparty Green" — international library resource guide</strong></summary>
+<details> <summary><strong>Artifact: MBA "Sparty Green" — international library resource guide</strong></summary> <iframe src="https://drive.google.com/file/d/1IrHABDTePSH-ABQwWCCkW1drOYJW6OXf/preview" width="100%" height="480"></iframe> </details>
 
-<iframe src="https://drive.google.com/file/d/1IrHABDTePSH-ABQwWCCkW1drOYJW6OXf/preview" width="100%" height="480"></iframe>
+> [!quote] Burgess Discovery Program student founder — December 2025 Thank you, Mr. O'Neill! This is above and beyond.
 
-</details>
-
-<details>
-<summary><strong>Artifact: Email thread — Burgess Discovery pipeline referral</strong></summary>
+<details> <summary><strong>Artifact: Email thread — Burgess Discovery pipeline referral</strong></summary>
 
 This consultation reached me through the Burgess Institute referral pathway: a student founder in the Discovery Program asked a Discovery intern about available resources and was referred to me.
 
 > **From:** [redacted] (a Burgess Discovery Program student founder) <br> **To:** Terence O'Neill <br> **Date:** December 2, 2025
->
+> 
 > On 11/13 I requested a meeting with a discovery intern to learn about the resources available to me at Burgess in order to push through the Discovery Program and get into launch. They referred me to you, so now I'm here! I'd love to schedule a meeting to learn about these resources.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** December 2, 2025
->
+> 
 > Thanks for reaching out. I am a member of MSU Libraries, not Burgess, so I can't speak directly to their times and break policies — sorry for that! I am happy to meet online tomorrow. I can send you a link for a Teams meeting if so.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** December 3, 2025
->
+> 
 > Here are the resources we discussed — the entrepreneurship guide, plus BizMiner and IBISWorld. I was also curious whether anything in the other industry-research databases might be relevant, so here are some deeper options if you want to take a deeper dive: a MarketLine company profile, a BCC Research healthcare workforce-management market report, and two Frost & Sullivan reports on the future of work and CX transformation.
 
 > **↳ Reply** <br> **From:** [redacted] <br> **Date:** December 3, 2025
->
+> 
 > Thank you, Mr. O'Neill! This is above and beyond. I'll be sure to follow up if I have any questions!
 
 </details>
 
-<details>
-<summary><strong>Artifact: Email thread — representative consultation outcome</strong></summary>
+> [!quote] Student founder, food & beverage venture — June 2023 Yes, these are extremely helpful! Especially the ice cream and protein industry reports. I really appreciate it!
+
+<details> <summary><strong>Artifact: Email thread — representative consultation outcome</strong></summary>
 
 > **From:** Terence O'Neill <br> **To:** [redacted] (student founder) <br> **Date:** June 25, 2023
->
+> 
 > A great resource for looking up competitors is MarketLine — here is a North America ice-cream industry report, and you can also look up company profiles there. Here are some possibly valuable sources touching on whey protein: a Statista statistical overview of the worldwide protein market; a "better for you" ice cream trends summary (quick read) from Barry-Callebaut; and a McKinsey report on alternative proteins that discusses whey if you search the term. Are these what you are looking for?
 
 > **↳ Reply** <br> **From:** [redacted] <br> **Date:** June 25, 2023
->
+> 
 > Yes, these are extremely helpful! Especially the ice cream and protein industry reports. I really appreciate it!
 
-</details>
-
-<details>
-<summary><strong>Artifact: Email thread — student venture follow-through</strong></summary>
+</details> <details> <summary><strong>Artifact: Email thread — student venture follow-through</strong></summary>
 
 > **From:** Terence O'Neill <br> **To:** [redacted] (student founder) <br> **Date:** April 2026
->
-> Nice to meet you today, and thanks for meeting online. I've attached three files from the library databases: an IBISWorld report on the MedSpa industry; a BizMiner report on the financials of the beauty-services industry (NAICS 81211 — Hair, Nail & Skin Care Services); and a company list I built from ReferenceUSA for 81211 businesses in Michigan with sales estimated between \$500,000 and \$5,000,000. That was still 612 businesses — the greatest concentration was in the ZIP code for Birmingham, MI — so I downloaded a summary report. I look forward to talking again next week so you can adjust the searches as you see fit.
+> 
+> Nice to meet you today, and thanks for meeting online. I've attached three files from the library databases: an IBISWorld report on the MedSpa industry; a BizMiner report on the financials of the beauty-services industry (NAICS 81211 — Hair, Nail & Skin Care Services); and a company list I built from ReferenceUSA for 81211 businesses in Michigan with sales estimated between $500,000 and $5,000,000. That was still 612 businesses — the greatest concentration was in the ZIP code for Birmingham, MI — so I downloaded a summary report. I look forward to talking again next week so you can adjust the searches as you see fit.
 
 </details>
 
@@ -381,39 +344,28 @@ As part of the Gast team I coordinate our engagement with introductory business 
 
 ▪ [Artifact link: Diversity content added to entrepreneurship LibGuides, 2023 (external)](https://drive.google.com/file/d/1dEil6Oncs7VHHRoNgZpRrFkKtOAQtSyS/view?usp=sharing)
 
-<details>
-<summary><strong>Artifact: Love Data Week 2026 — "Introduction to Business Data Visualization" (with Eli Wachter)</strong></summary>
-
-<iframe src="https://drive.google.com/file/d/1jtoEuUCiUxtRqJJqk10DtgWLQsZjQdzk/preview" width="100%" height="480"></iframe>
-
-</details>
-
-<details>
-<summary><strong>Artifact: Email — complex reference question, nonprofit auditor data (GuideStar Pro)</strong></summary>
+<details> <summary><strong>Artifact: Love Data Week 2026 — "Introduction to Business Data Visualization" (with Eli Wachter)</strong></summary> <iframe src="https://drive.google.com/file/d/1jtoEuUCiUxtRqJJqk10DtgWLQsZjQdzk/preview" width="100%" height="480"></iframe> </details> <details> <summary><strong>Artifact: Email — complex reference question, nonprofit auditor data (GuideStar Pro)</strong></summary>
 
 A faculty question from John (Xuefeng) Jiang, Eli Broad Endowed Professor, on locating the audit firms used by nonprofit organizations (January 2025). The answer required testing the database, finding and documenting a non-obvious workflow, and being candid about its limits.
 
 > **From:** Terence O'Neill <br> **To:** John (Xuefeng) Jiang <br> **Date:** January 2025
->
+> 
 > It is possible to download spreadsheets of up to 1,000 records a month that include information on organizations' auditors. The major caveats: it's somewhat buggy to set up your account, you have to use a search term instead of a wildcard, and monthly downloads are capped at 1,000 records. I'm looking into whether other options are available from GuideStar.
->
+> 
 > The steps: create an individual account at guidestar.org without the proxy string (you may need to clear your browser's cache and cookies first). After verifying the account, access GuideStar Pro through the MSU Libraries' EZproxy link. Run a search, then under the Organization facet select the "Audits" filter at the bottom, and choose "Download all" from the top of the results table. Column Z of the resulting table holds "Paid Preparer Firm Name." If you see "locked" icons on the Audit area, use the EZproxy link and log in again. Please let me know if that works for you, and I'll keep you posted with anything else useful.
 
-</details>
-
-<details>
-<summary><strong>Artifact: Email — complex reference question, self-publishing and copyright (with Library colleagues)</strong></summary>
+</details> <details> <summary><strong>Artifact: Email — complex reference question, self-publishing and copyright (with Library colleagues)</strong></summary>
 
 A self-publishing and copyright inquiry from a retired faculty member. Because the question touched copyright and publishing operations, I pulled in two colleagues — Julie Taylor (MSU Library Publishing Services) and Linda Miles (Open Educational Resources Librarian) — and synthesized their input alongside primary sources.
 
 > **From:** Terence O'Neill <br> **To:** [retired faculty member] <br> **cc:** Julie Taylor, Linda Miles <br> **Date:** 2024
->
+> 
 > To start, none of us are lawyers and are not giving advice, particularly regarding copyright. My goal is to give you helpful and reliable information.
->
+> 
 > Linda referred me to the U.S. Copyright Office, and in particular its guidance that any or all of a copyright owner's exclusive rights can be transferred, that such a transfer generally must be made in writing and signed, and that transfers can be recorded with the Copyright Office for certain legal advantages (Circular 1).
->
-> Julie gave specific insight into a related situation: the Libraries maintains a KDP account for Library-published books with the University as payee. For a project like yours, the key is a willing partner on the other side who could set up a KDP account; authors would then sign a publishing agreement that *licenses* rights (not a transfer of copyright) so that partner can list and sell the book and receive the royalty payments. The author and a representative may need to consult the University's General Counsel and/or business office to confirm eligibility.
->
+> 
+> Julie gave specific insight into a related situation: the Libraries maintains a KDP account for Library-published books with the University as payee. For a project like yours, the key is a willing partner on the other side who could set up a KDP account; authors would then sign a publishing agreement that _licenses_ rights (not a transfer of copyright) so that partner can list and sell the book and receive the royalty payments. The author and a representative may need to consult the University's General Counsel and/or business office to confirm eligibility.
+> 
 > In both segments shared by Julie and Linda, having a willing partner on the other side of this arrangement is key. I hope that this is helpful.
 
 </details>
@@ -434,12 +386,7 @@ At the panelists' request, the conversation was not recorded, so they might spea
 
 ▪ [Artifact link: Public event listing — MSU Libraries booking system (external)](https://bookings.lib.msu.edu/event/15971243)
 
-<details>
-<summary><strong>Artifact: Ethics Week panel — convening record (recruitment, question rounds, and logistics)</strong></summary>
-
-<iframe src="https://drive.google.com/file/d/1j280VsKLWlyjeGR1krW1K4TE9a9gAb9w/preview" width="100%" height="480"></iframe>
-
-</details>
+<details> <summary><strong>Artifact: Ethics Week panel — convening record (recruitment, question rounds, and logistics)</strong></summary> <iframe src="https://drive.google.com/file/d/1j280VsKLWlyjeGR1krW1K4TE9a9gAb9w/preview" width="100%" height="480"></iframe> </details>
 
 ### CESRL debate LibGuide
 
@@ -461,67 +408,65 @@ I am the only librarian on the CCED Consultative Panel, and I take on occasional
 
 In-depth reference support for the Center for Community Economic Development on the feasibility of grading reclaimed timber for structural reuse in Michigan. The question had no clean answer — my synthesis established that no robust grading ecosystem for reused timber exists in Michigan, then mapped the adjacent landscape: grading standards and processes, international precedents (Australia/NZ, UK), regional organizations and firms, and MSU-connected expertise. The deliverable was handed to CCED research assistants as a structured starting point for their own investigation.
 
-> [!quote] CCED Undergraduate Research Assistant — November 8, 2022
-> Wow! This is excellent! Thank you so much for this thorough review, we will get our research assistants looking at these sources ASAP.
+> [!quote] CCED Undergraduate Research Assistant — November 8, 2022 Wow! This is excellent! Thank you so much for this thorough review, we will get our research assistants looking at these sources ASAP.
 
-<details>
-<summary><strong>Artifact: Email thread — reclaimed timber grading research</strong></summary>
+<details> <summary><strong>Artifact: Email thread — reclaimed timber grading research</strong></summary>
 
 > **From:** Terence O'Neill <br> **To:** [redacted] (CCED) <br> **Date:** November 8, 2022
->
+> 
 > I ended up going down a bit of a rabbit hole on this one, apologies for the delay here. Here's what I found, since it's not a clean answer: there doesn't appear to be a robust or possibly even existing ecosystem for grading timber for re-use in Michigan. Please peruse the below notes and links, but this use case from Ohio might be useful to consider — [(external) →](http://yr-architecture.com/reclaimed-timber-preparing-reclaimed-wood-for-reuse/)
->
+> 
 > **Timber Reuse Testing**
->
+> 
 > Questions:
->
+> 
 > - What is the process?
 > - How many companies in Michigan are engaged in this?
->
+> 
 > Keywords: Timber Reuse, Timber Recycling
->
+> 
 > **Uses** _(from Australia)_ — [(external) →](https://renew.org.au/sanctuary-magazine/in-focus/recycled-timber-material-that-tells-a-story/)
->
+> 
 > - Recycled timber _can_ be used structurally, but consensus is it isn't worth it for hidden structural elements — it's harder to work, adds time and cost, and engineering computations assume grading tied to new materials. Builders and inspectors will want independent third-party certification of visually graded recycled materials, so structural use is more easily justified where the timber is in full view.
 > - Structural timbers carry an "F"-rating for load capacity; an interim standard exists for applying these ratings to recycled timber, though it is not an exact science. Some recycled timber suppliers will provide independent stress grading for a small extra fee.
->
+> 
 > **Grading**
->
+> 
 > - "Check with your local city, county, and/or state building code office to find out the exact requirements in your area" (Wood-Mizer) — [(external) →](https://woodmizer.com/us/how-to-get-your-lumber-grade-stamped)
 > - Explaining lumber grading (Wagner Meters) — [(external) →](https://www.wagnermeters.com/moisture-meters/wood-info/explaining-lumber-grading/)
 > - Lumber grades overview (Thomasnet) — [(external) →](https://www.thomasnet.com/articles/plant-facility-equipment/lumber-grades/)
 > - AHEC hardwood grading guide — [(external) →](https://issuu.com/americanhardwoodexportcouncil/docs/ahec_grading_guide_aw_pages)
->
+> 
 > **American firms**
->
+> 
 > - Reclaimed timber preparation use case, Ohio — [(external) →](http://yr-architecture.com/reclaimed-timber-preparing-reclaimed-wood-for-reuse/)
->
+> 
 > **Michigan organizations / activity**
->
+> 
 > - Freier Forestry — [(external) →](https://freierforestry.com/)
 > - Lake States Lumber Association education — [(external) →](https://lsla.com/education/)
 > - LSLA hardwood lumber grading short course — [(external) →](https://millerwoodtradepub.com/lsla-offers-hardwood-lumber-grading-short-course/)
 > - Reclaim Detroit — [(external) →](https://reclaim-detroit.myshopify.com/)
->
+> 
 > **Organizations**
->
+> 
 > - National Hardwood Lumber Association — [(external) →](https://www.nhla.com/)
 > - U.S. Forest Products Lab in Madison, Wisconsin
->
+> 
 > **MSU information**
->
+> 
 > - Great Lakes Echo wrote about this extensively — [(external) →](https://greatlakesecho.org/2017/07/12/recycling-your-home-can-structural-wood-be-reused-for-the-same-purpose/)
 >     - "Falk and his colleagues attempted to work with the wood and deconstruction industry to develop a new system for grading. But industry officials have decided that it must be regraded by existing standards for new wood."
 > - Professor George Berhorn, assistant professor of construction management at Michigan State University
 > - MSU STEM Building — adaptive reuse with mass timber — [(external) →](https://www.grangerconstruction.com/making-history-at-msu-stem-melding-adaptive-reuse-with-mass-timber-innovation/) · [Structurlam (external) →](https://www.structurlam.com/)
->
+> 
 > **Random notes**
->
+> 
 > - Common in Australia and New Zealand (Nash Timbers)
 > - England and UK — [Salvo/FCRBE (external) →](http://www.salvoweb.com/salvo-directory/fcrbe) · [International Timber resources (external) →](https://internationaltimber.com/resources/?_resource_search=timber%20reuse)
 
 > **↳ Reply** <br> **From:** CCED Undergraduate Research Assistant <br> **Date:** November 8, 2022
->
+> 
 > Wow! This is excellent! Thank you so much for this thorough review, we will get our research assistants looking at these sources ASAP.
 
 </details>
@@ -532,8 +477,7 @@ In-depth reference support for the Center for Community Economic Development on 
 
 Recognition from a colleague at the Regional Economic Innovation (REI) program, MSU Center for Community and Economic Development, for my role in connecting REI to Humanities Commons as a repository platform for its Co-Learning Plan series. The note was shared with the full REI board, whose members span partner offices across the state, including Senator Gary Peters' office. The introduction — brokered between REI and a member of the Humanities Commons team — resulted in 135 Co-Learning Plans uploaded, with over 3,000 downloads and/or views within the first six months.
 
-> [!quote] Jenan Jondy, Regional Economic Innovation Coordinator (MSU Center for Community and Economic Development) — May 2024
-> I just saw that you will not be able to attend the January meeting. So, I wanted to be sure to say THANK YOU for introducing me to _[Humanities Commons team member]_ — and REI to Humanities Commons! Our current data shows that there have been over 3,000 downloads and/or views of the 135 Co-Learning Plans that have been uploaded — in only six months! You have been a great partner to work with and I appreciate your engagement with REI.
+> [!quote] Jenan Jondy, Regional Economic Innovation Coordinator (MSU Center for Community and Economic Development) — May 2024 I just saw that you will not be able to attend the January meeting. So, I wanted to be sure to say THANK YOU for introducing me to _[Humanities Commons team member]_ — and REI to Humanities Commons! Our current data shows that there have been over 3,000 downloads and/or views of the 135 Co-Learning Plans that have been uploaded — in only six months! You have been a great partner to work with and I appreciate your engagement with REI.
 
 **Related sections:** Criterion I → Community-Centric Economic Development · Criterion I → Digital Scholarship
 
@@ -541,13 +485,12 @@ Recognition from a colleague at the Regional Economic Innovation (REI) program, 
 
 Reference and referral support for Lenawee Now, a county economic-development organization working on adult training and education pathways through the Align Center for Workforce Development. Following an in-person meeting, I synthesized leads spanning state agencies (LEO, MEDC), philanthropic funders (Ascendium), regional network contacts, and mature model programs in Indiana and Maine — coordinated with Arnold Weinfeld (MSU), who contributed contacts and agency recommendations. The reply confirms the leads were new and actionable, with follow-up comparison work planned (Ascendium vs. CAEL).
 
-<details>
-<summary><strong>Artifact: Email thread — Lenawee Now workforce-development referrals</strong></summary>
+<details> <summary><strong>Artifact: Email thread — Lenawee Now workforce-development referrals</strong></summary>
 
 > **From:** Terence O'Neill <br> **To:** [redacted], [redacted] (Lenawee Now); cc [redacted] (MSU) <br> **Date:** June 3, 2024
->
+> 
 > I hope you are both doing well. Arnold is cc'd here as well, as he offers some very helpful information. You probably already know at least some of what is here, but hopefully something is new and useful. Here is a summary:
->
+> 
 > - As Arnold mentioned in the in-person meeting, Michele Strasz of the Capital Area College Access Network is well connected across both higher education and non-profit networks that are working in this space. Please let Arnold know if you'd like to be introduced.
 > - Arnold also recommends contacting offices of both the LEO and MEDC
 >     - LEO has a website that should be very helpful for looking up organizations in the state that offer adult training and/or education — [(external) →](https://www.michigan.gov/leo/bureaus-agencies/wd/education-training/Adult-Education/Adult-Education-Service-Locator)
@@ -559,17 +502,17 @@ Reference and referral support for Lenawee Now, a county economic-development or
 > - Additionally, here is a potentially interesting, very mature, model program in Indiana
 >     - Ivy Tech Community College — academic programs: [(external) →](https://www.ivytech.edu/programs/all-academic-programs/)
 > - Here is a writeup on a Maine program to train rural students in IT — [(external) →](https://www.insidehighered.com/news/2021/06/29/maine-community-colleges-train-rural-students-remote-work)
->
+> 
 > I hope some of that is helpful. I'm traveling quite a bit over the next two months, for work and pleasure, but please let me know if you'd like to meet or have any questions.
 
 > **↳ Reply** <br> **From:** [redacted] (Lenawee Now) <br> **Date:** June 2024
->
+> 
 > Thanks very much. Both for these valuable leads and for your interest and support.
->
+> 
 > I did read about Maine (which I believe serves as an early warning system for Michigan, in some ways). Also, Ivy Tech has been on my radar. But this is an excellent array of sources.
->
+> 
 > Randy is on deadline for several Align Center for Workforce Development milestones, but we will be in touch soon. I am anxious to compare Ascendium to CAEL (Council for Adult and Experiential Learning), for example.
->
+> 
 > Meanwhile, enjoy your summer!
 
 </details>
@@ -588,38 +531,36 @@ International business is a developing and increasingly coherent area of my liai
 
 An invited presentation to the International Business Student Organization (IBSO), a Broad College student group. A student executive board member requested a Gast Business Library speaker on resources for exploring, researching, and keeping current with international business; I presented in person at the February 6, 2024 evening meeting. The follow-up note confirms student impact secondhand and includes a return invitation. The thread closes with individual mentoring: the student, a Japanese minor, asked about Japan programs, and I connected my FSA Japan teaching experience to a referral toward JCMU and Broad education-abroad options.
 
-> [!quote] IBSO executive board member (Broad College student) — February 7, 2024
-> Thank you so much for speaking to the IBSO this evening! I had multiple people come tell me afterwards how much they learned from your presentation. We'd love to have you back in the future as we build our member-base!
+> [!quote] IBSO executive board member (Broad College student) — February 7, 2024 Thank you so much for speaking to the IBSO this evening! I had multiple people come tell me afterwards how much they learned from your presentation. We'd love to have you back in the future as we build our member-base!
 
-<details>
-<summary><strong>Artifact: Email thread — IBSO guest presentation</strong></summary>
+<details> <summary><strong>Artifact: Email thread — IBSO guest presentation</strong></summary>
 
 > **From:** IBSO executive board member (Broad College student) <br> **To:** Terence O'Neill <br> **Date:** January 2024
->
+> 
 > My name is _[student]_, and I'm on the executive board of the International Business Student Organization (IBSO). We're having a meeting next Tuesday (2/06/2024) at 8:00 pm about networking etiquette and MSU resources, and we thought it'd be a great idea to have a Gast Business Library librarian come in to speak about recommended resources. Ideally, these resources should be related to exploring, researching, or keeping up to date with international business, but they could also consist of any resource useful to a Broad undergraduate.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** January 31, 2024
->
+> 
 > Thank you for reaching out. I would be happy to come and speak to your student group, and next Tuesday at 8 pm works well for me. I am assuming you would like me to limit my talk to MSU resources, and that you'd have a separate discussion on networking etiquette. How long would you like me to speak for, and where does your group meet? I'd be happy to come in person.
 
 > **↳ Reply** <br> **From:** IBSO executive board member <br> **Date:** January 31, 2024
->
+> 
 > We can have you come in during the start of the meeting (about 8:10 pm), and lead with you after brief logistics. Around 15 minutes of speaking would be ideal, and it'd be great if the resources were internationally focused. [...] Again, thank you so much for doing this for us. We'll take whatever you can offer!
 
 > **↳ Reply** <br> **From:** IBSO executive board member <br> **Date:** February 7, 2024 _(after the presentation)_
->
+> 
 > Thank you so much for speaking to the IBSO this evening! I had multiple people come tell me afterwards how much they learned from your presentation. We'd love to have you back in the future as we build our member-base!
->
+> 
 > On a side note, I noticed you mentioned your interest in Japan. I declared a Japanese minor, and I did a bunch of research into Japan last semester preparing for my future international work with Japan. Recently, I've been working out how to visit Japan within 2024 for little cost, and I'd love to hear about some of the programs you participated in!
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** February 2024
->
+> 
 > I would be happy to speak with you all again, that was a pleasure.
->
+> 
 > I'm glad to hear of your interest in Japan! It's something that's developed for me over time, but really took off when I was recruited to teach a course for MSU's First Year Seminars Abroad program — [(external) →](https://educationabroad.isp.msu.edu/explore/education-abroad-basics/program-types/fsa/)
->
+> 
 > That course wouldn't be available to you, though, as you're further along in your studies; that program is for incoming first-year students. I know both Broad and ISP offer Japan options at different points: you likely know about JCMU — [(external) →](https://jcmu.isp.msu.edu/) — and Broad has also offered classes — [(external) →](https://broad.msu.edu/education-abroad/programs/business-and-culture-in-japan/). In both cases, I imagine they're not very cheap, but there might be scholarships.
->
+> 
 > That is largely the extent of my knowledge about these programs, but please contact those offices if you have further questions! Also, please feel free to reach out to me if you would like to discuss something further, besides study-away, where my experience is limited.
 
 </details>
@@ -634,56 +575,53 @@ Library support for the Full-Time MBA capstone corporate-innovation challenge, c
 
 **Markets covered:** Germany, Japan, Australia, India, Switzerland, France, United Kingdom, Singapore, Sweden/Denmark/Netherlands, South Korea, Hong Kong, Spain.
 
-> [!quote] Ken Szymusiak (Managing Director – Academic Programs, Burgess Institute) and Shana Redd-Sleep (Assistant Professor of Marketing, University of Nebraska Omaha) — August 13, 2024
-> **Ken:** Wow Terence! Thank you so much for your support!
-> **Shana:** Terence, this is awesome! Thank you so very much!
+> [!quote] Ken Szymusiak (Managing Director – Academic Programs, Burgess Institute) and Shana Redd-Sleep (Assistant Professor of Marketing, University of Nebraska Omaha) — August 13, 2024 **Ken:** Wow Terence! Thank you so much for your support! **Shana:** Terence, this is awesome! Thank you so very much!
 
-<details>
-<summary><strong>Artifact: Email thread — Extreme Green / TechSmith country briefings</strong></summary>
+<details> <summary><strong>Artifact: Email thread — Extreme Green / TechSmith country briefings</strong></summary>
 
 > **From:** Ken Szymusiak <br> **To:** Laura Walesby, Terence O'Neill <br> **Date:** July 18, 2024
->
+> 
 > I think you are both aware of the series of Extreme Green projects that have become a hallmark of the FTMBA experience at Broad over the last 8 (or so) years. Shana and I co-instruct the final experience which is a corporate innovation challenge that we run with an external partner/company. This year we will be working with TechSmith on a challenge that focuses on helping them navigate marketing and sales strategies in foreign markets. We are still waiting on the list of targeted geographies, but we were wondering if we might be able to work with the library to provide each team with some baseline information for each market?
->
+> 
 > We're imagining:
->
+> 
 > - General economic overview and trends
 > - Overview of major software players and suppliers
 > - Business practices and cultural considerations
->
+> 
 > This is just a start, and we can get more specific, but is this something you might have bandwidth to work with us on?
 
 > **↳ Reply** <br> **From:** Laura Walesby (MSU Libraries) <br> **To:** Ken Szymusiak <br> **Date:** July 19, 2024
->
+> 
 > Yes, that is something that we can do! Terence is out of the office, but I'd be happy to meet with you and Shana in the meantime to determine what you'd like and how best to deliver it. As an example of something similar, we've prepared country briefings for students studying abroad in the recent past:
->
+> 
 > - Denmark — [(external) →](https://libguides.lib.msu.edu/denmark)
 > - Germany — [(external) →](https://libguides.lib.msu.edu/germany)
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **To:** Shana Redd-Sleep, Ken Szymusiak <br> **Date:** August 6, 2024
->
+> 
 > I shared the draft resources with you last week. Please let me know what feedback you have, and if you have a list of countries I can start working on. I'm also curious about the timeline you have for when you need this by.
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** August 7, 2024
->
+> 
 > You are welcome. Please feel free with any feedback or questions, and if you have a list of countries, I can start making versions of this for the others.
 
 > **↳ Reply** <br> **From:** Ken Szymusiak <br> **Date:** August 12, 2024 _(marked High Importance)_
->
+> 
 > Sorry for the delay on this, but we got the confirmed list back from TechSmith. These are not in a prioritized order. I know this is putting you up against a time crunch so adjust the data dump as needed. We'd like to go live with these on Friday (8/16) but alternatively we could go live on 8/19 at the latest (or anytime in between) if that is not doable. We really appreciate your help.
->
+> 
 > Germany · Japan · Australia · India · Switzerland · France · United Kingdom · Singapore · Sweden/Denmark/Netherlands · South Korea · Hong Kong · Spain
 
 > **↳ Reply** <br> **From:** Terence O'Neill <br> **Date:** August 13, 2024
->
+> 
 > Here is the link to a Google Folder with PDFs for each of the 12 countries. I have the docs in OneDrive if I need to change anything and update the PDF, but my fingers are crossed that these are ready to go!
 
 > **↳ Reply** <br> **From:** Ken Szymusiak <br> **Date:** August 13, 2024
->
+> 
 > Wow Terence! Thank you so much for your support!
 
 > **↳ Reply** <br> **From:** Shana Redd-Sleep (Assistant Professor of Marketing, University of Nebraska Omaha) <br> **Date:** August 13, 2024
->
+> 
 > Terence, this is awesome! Thank you so very much!
 
 </details>
@@ -710,12 +648,7 @@ I'm grateful for the supervision (T. Miller, L. Walesby, B. Silver) that made th
 
 ▪ [Artifact link: Transformative Technologies Coordinator — position description (external)](https://docs.google.com/document/d/17OEgiOOSwDHGnZYFqLTM8nKNmYY2qQrO/edit?usp=sharing)
 
-<details>
-<summary><strong>Artifact: Digital Scholarship Services — 2019–2020 Year in Review</strong></summary>
-
-<iframe src="https://docs.google.com/presentation/d/1CrRO2AraYnJwMZFywQ0odmCbumJK4SmOBoJxmUq0rbU/embed" width="100%" height="480"></iframe>
-
-</details>
+<details> <summary><strong>Artifact: Digital Scholarship Services — 2019–2020 Year in Review</strong></summary> <iframe src="https://docs.google.com/presentation/d/1CrRO2AraYnJwMZFywQ0odmCbumJK4SmOBoJxmUq0rbU/embed" width="100%" height="480"></iframe> </details>
 
 - O'Neill, T., et al. _Immersive Visualization Institute_ (2019, 2020, 2021) — five-day training with the MSU Planetarium and MSU Museum, funded by the MSU Graduate School. [Documentation (external) →](https://docs.google.com/document/d/1MWkBcTb6Fj4DOzdC8KLWDdAxsNkRFL1JJbAz2tnqkPk/edit?usp=sharing)
 - O'Neill, T., et al. _eXtended Reality Symposium_ (2019, 2020) — with the Game Design Program, MSU IT, and the College of Human Medicine. [Humanities Commons (external) →](https://works.hcommons.org/records/w924v-qc531)
