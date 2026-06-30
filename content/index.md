@@ -1,7 +1,6 @@
 ---
 title: Terence O'Neill - Dossier
 ---
-<div class="meander-band"></div>
 ## Letter of Application
 
 Dear reading committee and colleagues at Michigan State University Libraries,
