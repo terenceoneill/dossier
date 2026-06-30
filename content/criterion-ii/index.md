@@ -23,7 +23,7 @@ Since submitting my Librarian II dossier in Summer 2019, I have taught seven cre
 
 The first-day introductory deck links course content to the students' physical setting: it includes a mini-case on the MSU STEM Teaching and Learning Facility — the mass-timber building the class was sitting in — as circular-economy principles in practice. Paired with it is an essay assignment completed late in the students' time in Japan.
 
-<details> <summary><strong>Artifact: "FSA Japan 2024 - introductory slides"</strong></summary> Slides I used to introduce the key concepts of the course as well as MSU ties to the topics. <iframe src="https://drive.google.com/file/d/1AyYjOowQMEVAFJ-3W4o6w7pbwjgCWDp-/view?usp=drive_link" width="100%" height="480" allow="autoplay"></iframe> </details>
+<details> <summary><strong>Artifact: "FSA Japan 2024 - introductory slides"</strong></summary> Slides I used to introduce the key concepts of the course as well as MSU ties to the topics. <iframe src="[https://drive.google.com/file/d/1AyYjOowQMEVAFJ-3W4o6w7pbwjgCWDp-/view?usp=drive_link](https://drive.google.com/file/d/1AyYjOowQMEVAFJ-3W4o6w7pbwjgCWDp-/view?usp=drive_link)" width="100%" height="480" allow="autoplay"></iframe> </details>
 
 <details> <summary><strong>Artifact: 
 "FSA Japan 2024" essay assignment </strong></summary> An essay showcasing my emphasis on iteration and students' active application of the experiences and learning frameworks of the course. 
