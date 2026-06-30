@@ -1,10 +1,6 @@
 ---
 title: Criterion I
 ---
----
-title: Criterion I
----
-
 ## Introduction
 
 Criterion I covers the primary job duties of my roles as Head of Digital Scholarship Services (7/1/2019 – 9/15/2022) and Entrepreneurship Librarian (9/15/2022 – 6/30/2026).
