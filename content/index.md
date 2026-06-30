@@ -35,20 +35,14 @@ Terence W. O'Neill
 ## References
 
 **Ken Szymusiak**, Managing Director – Operations, Burgess Institute for Entrepreneurship & Innovation, MSU
-szymusiak@broad.msu.edu
 
 **Bethany Judge**, Director of Experiential Learning, Undergraduate Education, MSU
-judgebe@msu.edu
 
 **Nicole Smeltekop**, Special Materials Catalog Librarian, MSU
-nicole@msu.edu
 
 **Zoeanna Mayhook**, Assistant Professor of Information Studies, Business Information Specialist, Parrish Library of Management & Economics, Purdue University Libraries and School of Information Studies
-zmayhook@purdue.edu
 
 **Wendy Pothier**, Associate Professor, Business and Economics Librarian, University of New Hampshire
-wendy.pothier@unh.edu
-
 ## Personal Performance Review Items
 
 ### 2019–2020
