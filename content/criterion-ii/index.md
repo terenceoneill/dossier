@@ -60,7 +60,7 @@ This is the through-line of my scholarship and grows directly out of my work as 
 
 ### Book chapter
 
-- Ledermann, M., Marcyk, E., O'Neill, T. W., & Sachs, D. E. (2022). Data literacy family style: Full-day professional development. In K. Getz & M. Brodsky (Eds.), _The Data Literacy Cookbook_ (Ch. 55). Association of College & Research Libraries. https://drive.google.com/file/d/1LBIn3L9cARN_Tkd3cmPVSTdsmlrTmUR8/view?usp=drive_link
+- Ledermann, M., Marcyk, E., O'Neill, T. W., & Sachs, D. E. (2022). Data literacy family style: Full-day professional development. In K. Getz & M. Brodsky (Eds.), _The Data Literacy Cookbook_ (Ch. 55). Association of College & Research Libraries. [Chapter (external) →](https://drive.google.com/file/d/1LBIn3L9cARN_Tkd3cmPVSTdsmlrTmUR8/view?usp=drive_link)
 
 ### Trade and professional writing
 
@@ -81,11 +81,11 @@ These shorter pieces are the exploratory writing of Phase 1, where I worked out 
 
 - O'Neill, T. _Informed entrepreneurship: Researching business models on the open web._ Global Alliance for Rapid Diagnostics (GARD) Conference, May 2023. [Slides (external) →](https://docs.google.com/presentation/d/1cuYhpU48LMoRgewvz-x20IcZ8n8Sz5tkcj-KdF7Jclw/edit)
 - O'Neill, T. Talk: _Back to Business (Librarianship): Using Logic Modeling and Other Frameworks to Navigate Career Junctures._ BRASS Spring Online Symposium, April 26–27, 2022. [Presentation schedule (external) →](https://docs.google.com/document/d/13ZNFfVwRajxwcqykkgXgBGT-xBoCiq32xvQiZSb-3Fo/edit)
-- O'Neill, T. Poster: _University Technology Transfer Process and University Libraries._ International Conference on Economics and Business Information (INCONECSS), May 2022. https://docs.google.com/presentation/d/1mUEL2vJ0ikLTf0vPmlmz43QIflzfgJ2xaiME6Hq7LVg/edit?usp=drive_link
-- Han, E., & O'Neill, T. _Metadata for 360-Degree Panoramas._ Michigan Academy of Science, Arts and Letters, March 2021. https://docs.google.com/presentation/d/1ZufLayzNsmRoJGQskaMHcboWxIS1mrm_ebV6MWsjZe4/edit?usp=drive_link
-- O'Neill, T., Perentesis, S., & Tans, E. _Sustainability Canvas._ Libraries 2.020 Online Conference, October 2020. https://docs.google.com/presentation/d/1CUtH_HpeM-pLnlk1PIXbEEoxPTqcSS-KzrFxVYRwM2s/edit?usp=drive_link
+- O'Neill, T. Poster: _University Technology Transfer Process and University Libraries._ International Conference on Economics and Business Information (INCONECSS), May 2022. [Poster (external) →](https://docs.google.com/presentation/d/1mUEL2vJ0ikLTf0vPmlmz43QIflzfgJ2xaiME6Hq7LVg/edit?usp=drive_link)
+- Han, E., & O'Neill, T. _Metadata for 360-Degree Panoramas._ Michigan Academy of Science, Arts and Letters, March 2021. [Slides (external) →](https://docs.google.com/presentation/d/1ZufLayzNsmRoJGQskaMHcboWxIS1mrm_ebV6MWsjZe4/edit?usp=drive_link)
+- O'Neill, T., Perentesis, S., & Tans, E. _Sustainability Canvas._ Libraries 2.020 Online Conference, October 2020. [Slides (external) →](https://docs.google.com/presentation/d/1CUtH_HpeM-pLnlk1PIXbEEoxPTqcSS-KzrFxVYRwM2s/edit?usp=drive_link)
 - Cregan-Evans, N., & O'Neill, T. _Using IglooVision Technology in a Higher-Education Environment._ EdTechX Online Conference, May 2020. 
-	- Slides for this talk are unavailable. However, co-presenter Natalie, of IglooVision (creators of the 360 in the DSL) included this video as part of the asynchronous presentation: https://vimeo.com/395495520
+	- Slides for this talk are unavailable. However, co-presenter Natalie, of IglooVision (creators of the 360 in the DSL) included this video as part of the asynchronous presentation: [Video (external) →](https://vimeo.com/395495520)
 
 > [!quote] Unsolicited feedback after the BRASS Logic Modeling talk — a fellow librarian at another institution
 > Terence — I don't know if you've heard about what's happening at [redacted], but I just watched your presentation from last week and it hit home for me! So many of us are exiting the pandemic having to reflect hard on our changed jobs and the nature of what we do. Your presentation was very timely. Thanks for your approach! It was helpful to have a framework to reflect on these things.
