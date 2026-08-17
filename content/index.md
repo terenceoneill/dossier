@@ -85,7 +85,7 @@ Terence W. O'Neill
 
 - [Position Description](https://drive.google.com/file/d/1bSMBqrGnQYZsDH9Z94iEh1Drnfylt3Rh/view) (external) →
 - [Goals and Objectives](https://drive.google.com/file/d/1CGvIz26395AarWJl9JsvdrvU1jdcAnOj/view) (external) →
-- [Self-Evaluation](https://drive.google.com/file/d/1o92aj3s0h4dTRp5miHjGoEY-9_P0xwSL/view) (external) →
+- [Self-Evaluation](https://drive.google.com/file/d/1Fk5aflH8buYPJI66QEib20vwBRdGXgJF/view?usp=sharing) (external) →
 
 ### 2025–2026
 
